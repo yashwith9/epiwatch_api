@@ -1,0 +1,113 @@
+================================================================================
+DISEASE OUTBREAKS ANALYSIS REPORT
+Generated: 2025-10-17 20:11:17
+================================================================================
+
+DATASET OVERVIEW
+--------------------------------------------------------------------------------
+Total Outbreak Records: 2,357
+Time Period: 2010 - 2025
+Unique Diseases: 71
+Countries Affected: 233
+UN Regions: 5
+WHO Regions: 6
+
+TOP 30 DISEASES BY OUTBREAK FREQUENCY
+--------------------------------------------------------------------------------
+  1. COVID-19                            -  1123 outbreaks ( 47.6%)
+  2. Dengue fever, unspecified           -   182 outbreaks (  7.7%)
+  3. Influenza due to identified zoonotic or pandemic influenza virus -   108 outbreaks (  4.6%)
+  4. Cholera                             -   106 outbreaks (  4.5%)
+  5. Acute poliomyelitis, unspecified    -    97 outbreaks (  4.1%)
+  6. Yellow fever, unspecified           -    96 outbreaks (  4.1%)
+  7. Measles                             -    95 outbreaks (  4.0%)
+  8. Middle East respiratory syndrome    -    75 outbreaks (  3.2%)
+  9. Monkeypox                           -    70 outbreaks (  3.0%)
+ 10. Chikungunya mosquito-borne viral fever -    56 outbreaks (  2.4%)
+ 11. Zika virus disease                  -    38 outbreaks (  1.6%)
+ 12. Acute viral hepatitis, unspecified  -    38 outbreaks (  1.6%)
+ 13. Ebola disease                       -    26 outbreaks (  1.1%)
+ 14. Meningococcal meningitis            -    23 outbreaks (  1.0%)
+ 15. Lassa fever                         -    22 outbreaks (  0.9%)
+ 16. Acute hepatitis A                   -    16 outbreaks (  0.7%)
+ 17. Oropouche virus disease             -    13 outbreaks (  0.6%)
+ 18. Infections due to other Salmonella  -    13 outbreaks (  0.6%)
+ 19. Rift Valley fever                   -    11 outbreaks (  0.5%)
+ 20. Escherichia coli                    -    10 outbreaks (  0.4%)
+ 21. Acute hepatitis E                   -     9 outbreaks (  0.4%)
+ 22. West Nile virus infection           -     8 outbreaks (  0.3%)
+ 23. Unspecified viral disease           -     8 outbreaks (  0.3%)
+ 24. Marburg disease                     -     8 outbreaks (  0.3%)
+ 25. Plague, unspecified                 -     7 outbreaks (  0.3%)
+ 26. Enterovirus infection of unspecified site -     7 outbreaks (  0.3%)
+ 27. Botulism                            -     5 outbreaks (  0.2%)
+ 28. Infections due to Chlamydia psittaci -     5 outbreaks (  0.2%)
+ 29. Infection, unspecified              -     5 outbreaks (  0.2%)
+ 30. Sepsis due to streptococcus, group A -     5 outbreaks (  0.2%)
+
+TOP 30 COUNTRIES BY OUTBREAK FREQUENCY
+--------------------------------------------------------------------------------
+  1. Congo Democratic Republic of the    -    50 outbreaks (  2.1%)
+  2. Nigeria                             -    44 outbreaks (  1.9%)
+  3. China                               -    35 outbreaks (  1.5%)
+  4. United States of America            -    32 outbreaks (  1.4%)
+  5. Brazil                              -    29 outbreaks (  1.2%)
+  6. France                              -    28 outbreaks (  1.2%)
+  7. United Kingdom of Great Britain and Northern Ireland -    28 outbreaks (  1.2%)
+  8. Kenya                               -    26 outbreaks (  1.1%)
+  9. Cameroon                            -    25 outbreaks (  1.1%)
+ 10. Chad                                -    25 outbreaks (  1.1%)
+ 11. Uganda                              -    24 outbreaks (  1.0%)
+ 12. Pakistan                            -    23 outbreaks (  1.0%)
+ 13. Niger                               -    23 outbreaks (  1.0%)
+ 14. Congo                               -    21 outbreaks (  0.9%)
+ 15. Mexico                              -    21 outbreaks (  0.9%)
+ 16. Bangladesh                          -    21 outbreaks (  0.9%)
+ 17. CÃ´te d'Ivoire                      -    21 outbreaks (  0.9%)
+ 18. India                               -    20 outbreaks (  0.8%)
+ 19. Netherlands                         -    19 outbreaks (  0.8%)
+ 20. Ghana                               -    19 outbreaks (  0.8%)
+ 21. Ethiopia                            -    19 outbreaks (  0.8%)
+ 22. Sudan                               -    19 outbreaks (  0.8%)
+ 23. Guinea                              -    18 outbreaks (  0.8%)
+ 24. Germany                             -    18 outbreaks (  0.8%)
+ 25. Togo                                -    18 outbreaks (  0.8%)
+ 26. Saudi Arabia                        -    18 outbreaks (  0.8%)
+ 27. South Sudan                         -    18 outbreaks (  0.8%)
+ 28. Spain                               -    17 outbreaks (  0.7%)
+ 29. Argentina                           -    17 outbreaks (  0.7%)
+ 30. Central African Republic            -    16 outbreaks (  0.7%)
+
+REGIONAL DISTRIBUTION
+--------------------------------------------------------------------------------
+Africa                    -   742 outbreaks ( 31.5%)
+Americas                  -   549 outbreaks ( 23.3%)
+Asia                      -   493 outbreaks ( 20.9%)
+Europe                    -   453 outbreaks ( 19.2%)
+Oceania                   -   120 outbreaks (  5.1%)
+
+ANNUAL OUTBREAK TRENDS
+--------------------------------------------------------------------------------
+2010:    73 outbreaks
+2011:    48 outbreaks
+2012:    33 outbreaks
+2013:    33 outbreaks
+2014:    40 outbreaks
+2015:    57 outbreaks
+2016:    58 outbreaks
+2017:    57 outbreaks
+2018:    43 outbreaks
+2019:    95 outbreaks
+2020:   254 outbreaks
+2021:   273 outbreaks
+2022:   418 outbreaks
+2023:   367 outbreaks
+2024:   301 outbreaks
+2025:   207 outbreaks
+
+GENERATED AGGREGATES
+--------------------------------------------------------------------------------
+Disease × Country × Year: 2,357 records
+Disease × Year (global): 265 records
+Country × Year: 1,641 records
+Region × Year: 74 records
