@@ -1,0 +1,2358 @@
+Disease,Country,iso3,Year,outbreak_count
+Acute bronchitis due to Rhinovirus,China,CHN,2025,1
+Acute hepatitis A,Austria,AUT,2017,1
+Acute hepatitis A,Belgium,BEL,2017,1
+Acute hepatitis A,Denmark,DNK,2017,1
+Acute hepatitis A,Finland,FIN,2017,1
+Acute hepatitis A,France,FRA,2017,1
+Acute hepatitis A,Germany,DEU,2017,1
+Acute hepatitis A,Ireland,IRL,2017,1
+Acute hepatitis A,Italy,ITA,2017,1
+Acute hepatitis A,Netherlands,NLD,2017,1
+Acute hepatitis A,Norway,NOR,2017,1
+Acute hepatitis A,Portugal,PRT,2017,1
+Acute hepatitis A,Slovenia,SVN,2017,1
+Acute hepatitis A,Spain,ESP,2017,1
+Acute hepatitis A,Sweden,SWE,2017,1
+Acute hepatitis A,United Kingdom of Great Britain and Northern Ireland,GBR,2017,1
+Acute hepatitis A,United States of America,USA,2017,1
+Acute hepatitis E,Burkina Faso,BFA,2020,1
+Acute hepatitis E,Chad,TCD,2017,1
+Acute hepatitis E,Chad,TCD,2022,1
+Acute hepatitis E,Chad,TCD,2024,1
+Acute hepatitis E,Namibia,NAM,2018,1
+Acute hepatitis E,Niger,NER,2017,1
+Acute hepatitis E,Nigeria,NGA,2017,1
+Acute hepatitis E,South Sudan,SSD,2021,1
+Acute hepatitis E,South Sudan,SSD,2023,1
+"Acute poliomyelitis, unspecified",Algeria,DZA,2022,1
+"Acute poliomyelitis, unspecified",Angola,AGO,2019,1
+"Acute poliomyelitis, unspecified",Angola,AGO,2021,1
+"Acute poliomyelitis, unspecified",Benin,BEN,2019,1
+"Acute poliomyelitis, unspecified",Benin,BEN,2021,1
+"Acute poliomyelitis, unspecified",Brazil,BRA,2014,1
+"Acute poliomyelitis, unspecified",Burkina Faso,BFA,2021,1
+"Acute poliomyelitis, unspecified",Burundi,BDI,2023,1
+"Acute poliomyelitis, unspecified",Cameroon,CMR,2013,1
+"Acute poliomyelitis, unspecified",Cameroon,CMR,2014,1
+"Acute poliomyelitis, unspecified",Cameroon,CMR,2019,1
+"Acute poliomyelitis, unspecified",Cameroon,CMR,2021,1
+"Acute poliomyelitis, unspecified",Central African Republic,CAF,2019,1
+"Acute poliomyelitis, unspecified",Central African Republic,CAF,2021,1
+"Acute poliomyelitis, unspecified",Chad,TCD,2011,1
+"Acute poliomyelitis, unspecified",Chad,TCD,2019,1
+"Acute poliomyelitis, unspecified",Chad,TCD,2021,1
+"Acute poliomyelitis, unspecified",China,CHN,2011,1
+"Acute poliomyelitis, unspecified",Congo,COG,2010,1
+"Acute poliomyelitis, unspecified",Congo,COG,2021,1
+"Acute poliomyelitis, unspecified",Congo Democratic Republic of the,COD,2010,1
+"Acute poliomyelitis, unspecified",Congo Democratic Republic of the,COD,2017,1
+"Acute poliomyelitis, unspecified",Congo Democratic Republic of the,COD,2018,1
+"Acute poliomyelitis, unspecified",Congo Democratic Republic of the,COD,2019,1
+"Acute poliomyelitis, unspecified",Congo Democratic Republic of the,COD,2021,1
+"Acute poliomyelitis, unspecified",CÃ´te d'Ivoire,CIV,2011,1
+"Acute poliomyelitis, unspecified",CÃ´te d'Ivoire,CIV,2019,1
+"Acute poliomyelitis, unspecified",CÃ´te d'Ivoire,CIV,2021,1
+"Acute poliomyelitis, unspecified",Equatorial Guinea,GNQ,2014,1
+"Acute poliomyelitis, unspecified",Ethiopia,ETH,2013,1
+"Acute poliomyelitis, unspecified",Ethiopia,ETH,2019,1
+"Acute poliomyelitis, unspecified",Ethiopia,ETH,2021,1
+"Acute poliomyelitis, unspecified",Ghana,GHA,2019,1
+"Acute poliomyelitis, unspecified",Ghana,GHA,2021,1
+"Acute poliomyelitis, unspecified",Guinea,GIN,2021,1
+"Acute poliomyelitis, unspecified",Indonesia,IDN,2019,1
+"Acute poliomyelitis, unspecified",Indonesia,IDN,2022,1
+"Acute poliomyelitis, unspecified",Indonesia,IDN,2023,1
+"Acute poliomyelitis, unspecified",Indonesia,IDN,2024,1
+"Acute poliomyelitis, unspecified",Iran (Islamic Republic of),IRN,2019,1
+"Acute poliomyelitis, unspecified",Israel,ISR,2013,1
+"Acute poliomyelitis, unspecified",Israel,ISR,2022,1
+"Acute poliomyelitis, unspecified",Israel,ISR,2025,1
+"Acute poliomyelitis, unspecified",Kenya,KEN,2013,1
+"Acute poliomyelitis, unspecified",Kenya,KEN,2018,1
+"Acute poliomyelitis, unspecified",Kenya,KEN,2019,1
+"Acute poliomyelitis, unspecified",Kenya,KEN,2021,1
+"Acute poliomyelitis, unspecified",Kenya,KEN,2023,1
+"Acute poliomyelitis, unspecified",Lao People's Democratic Republic,LAO,2015,1
+"Acute poliomyelitis, unspecified",Lao People's Democratic Republic,LAO,2016,1
+"Acute poliomyelitis, unspecified",Liberia,LBR,2021,1
+"Acute poliomyelitis, unspecified",Madagascar,MDG,2014,1
+"Acute poliomyelitis, unspecified",Madagascar,MDG,2015,1
+"Acute poliomyelitis, unspecified",Malawi,MWI,2022,1
+"Acute poliomyelitis, unspecified",Mali,MLI,2021,1
+"Acute poliomyelitis, unspecified",Mozambique,MOZ,2019,1
+"Acute poliomyelitis, unspecified",Mozambique,MOZ,2022,1
+"Acute poliomyelitis, unspecified",Myanmar,MMR,2015,1
+"Acute poliomyelitis, unspecified",Myanmar,MMR,2019,1
+"Acute poliomyelitis, unspecified",Niger,NER,2013,1
+"Acute poliomyelitis, unspecified",Niger,NER,2018,1
+"Acute poliomyelitis, unspecified",Niger,NER,2019,1
+"Acute poliomyelitis, unspecified",Niger,NER,2021,1
+"Acute poliomyelitis, unspecified",Nigeria,NGA,2016,1
+"Acute poliomyelitis, unspecified",Nigeria,NGA,2018,1
+"Acute poliomyelitis, unspecified",Nigeria,NGA,2019,1
+"Acute poliomyelitis, unspecified",Nigeria,NGA,2021,1
+"Acute poliomyelitis, unspecified",Pakistan,PAK,2011,1
+"Acute poliomyelitis, unspecified",Pakistan,PAK,2016,1
+"Acute poliomyelitis, unspecified",Pakistan,PAK,2019,1
+"Acute poliomyelitis, unspecified",Papua New Guinea,PNG,2018,1
+"Acute poliomyelitis, unspecified",Papua New Guinea,PNG,2019,1
+"Acute poliomyelitis, unspecified",Papua New Guinea,PNG,2025,1
+"Acute poliomyelitis, unspecified",Philippines,PHL,2019,1
+"Acute poliomyelitis, unspecified",Russian Federation,RUS,2010,1
+"Acute poliomyelitis, unspecified",Senegal,SEN,2021,1
+"Acute poliomyelitis, unspecified",Sierra Leone,SLE,2021,1
+"Acute poliomyelitis, unspecified",Somalia,SOM,2013,1
+"Acute poliomyelitis, unspecified",Somalia,SOM,2018,1
+"Acute poliomyelitis, unspecified",Somalia,SOM,2019,1
+"Acute poliomyelitis, unspecified",South Sudan,SSD,2013,1
+"Acute poliomyelitis, unspecified",South Sudan,SSD,2014,1
+"Acute poliomyelitis, unspecified",South Sudan,SSD,2021,1
+"Acute poliomyelitis, unspecified",Sudan,SDN,2020,1
+"Acute poliomyelitis, unspecified",Sudan,SDN,2023,1
+"Acute poliomyelitis, unspecified",Syrian Arab Republic,SYR,2013,1
+"Acute poliomyelitis, unspecified",Syrian Arab Republic,SYR,2014,1
+"Acute poliomyelitis, unspecified",Syrian Arab Republic,SYR,2017,1
+"Acute poliomyelitis, unspecified",Tajikistan,TJK,2010,1
+"Acute poliomyelitis, unspecified",Tanzania United Republic of,TZA,2023,1
+"Acute poliomyelitis, unspecified",Togo,TGO,2019,1
+"Acute poliomyelitis, unspecified",Togo,TGO,2021,1
+"Acute poliomyelitis, unspecified",Ukraine,UKR,2015,1
+"Acute poliomyelitis, unspecified",Ukraine,UKR,2021,1
+"Acute poliomyelitis, unspecified",United Kingdom of Great Britain and Northern Ireland,GBR,2022,1
+"Acute poliomyelitis, unspecified",Yemen,YEM,2021,1
+"Acute poliomyelitis, unspecified",Zambia,ZMB,2019,1
+"Acute viral hepatitis, unspecified",Argentina,ARG,2022,1
+"Acute viral hepatitis, unspecified",Austria,AUT,2022,1
+"Acute viral hepatitis, unspecified",Belgium,BEL,2022,1
+"Acute viral hepatitis, unspecified",Brazil,BRA,2022,1
+"Acute viral hepatitis, unspecified",Bulgaria,BGR,2022,1
+"Acute viral hepatitis, unspecified",Canada,CAN,2022,1
+"Acute viral hepatitis, unspecified",Colombia,COL,2022,1
+"Acute viral hepatitis, unspecified",Costa Rica,CRI,2022,1
+"Acute viral hepatitis, unspecified",Cyprus,CYP,2022,1
+"Acute viral hepatitis, unspecified",Denmark,DNK,2022,1
+"Acute viral hepatitis, unspecified",France,FRA,2022,1
+"Acute viral hepatitis, unspecified",Greece,GRC,2022,1
+"Acute viral hepatitis, unspecified",Indonesia,IDN,2022,1
+"Acute viral hepatitis, unspecified",Ireland,IRL,2022,1
+"Acute viral hepatitis, unspecified",Israel,ISR,2022,1
+"Acute viral hepatitis, unspecified",Italy,ITA,2022,1
+"Acute viral hepatitis, unspecified",Japan,JPN,2022,1
+"Acute viral hepatitis, unspecified",Korea Republic of,KOR,2022,1
+"Acute viral hepatitis, unspecified",Latvia,LVA,2022,1
+"Acute viral hepatitis, unspecified",Maldives,MDV,2022,1
+"Acute viral hepatitis, unspecified",Mexico,MEX,2022,1
+"Acute viral hepatitis, unspecified",Moldova Republic of,MDA,2022,1
+"Acute viral hepatitis, unspecified",Netherlands,NLD,2022,1
+"Acute viral hepatitis, unspecified",Norway,NOR,2022,1
+"Acute viral hepatitis, unspecified",Palestine State of,PSE,2022,1
+"Acute viral hepatitis, unspecified",Panama,PAN,2022,1
+"Acute viral hepatitis, unspecified",Poland,POL,2022,1
+"Acute viral hepatitis, unspecified",Portugal,PRT,2022,1
+"Acute viral hepatitis, unspecified",Qatar,QAT,2022,1
+"Acute viral hepatitis, unspecified",Romania,ROU,2022,1
+"Acute viral hepatitis, unspecified",Serbia,SRB,2022,1
+"Acute viral hepatitis, unspecified",Singapore,SGP,2022,1
+"Acute viral hepatitis, unspecified",Slovakia,SVK,2022,1
+"Acute viral hepatitis, unspecified",Slovenia,SVN,2022,1
+"Acute viral hepatitis, unspecified",Spain,ESP,2022,1
+"Acute viral hepatitis, unspecified",Sweden,SWE,2022,1
+"Acute viral hepatitis, unspecified",United Kingdom of Great Britain and Northern Ireland,GBR,2022,1
+"Acute viral hepatitis, unspecified",United States of America,USA,2022,1
+"Arthropod-borne viral fever, virus unspecified",French Guiana,GUF,2020,1
+"Arthropod-borne viral fever, virus unspecified",India,IND,2024,1
+"Bacterial meningitis, unspecified",Mexico,MEX,2023,1
+"Bacterial meningitis, unspecified",Niger,NER,2023,1
+"Bacterial meningitis, unspecified",Nigeria,NGA,2023,1
+"Bacterial meningitis, unspecified",Togo,TGO,2023,1
+"Bacterial meningitis, unspecified",United States of America,USA,2023,1
+Botulism,Austria,AUT,2023,1
+Botulism,France,FRA,2023,1
+Botulism,Germany,DEU,2023,1
+Botulism,Switzerland,CHE,2023,1
+Botulism,Turkey,TUR,2023,1
+COVID-19,Afghanistan,AFG,2020,1
+COVID-19,Afghanistan,AFG,2021,1
+COVID-19,Afghanistan,AFG,2022,1
+COVID-19,Afghanistan,AFG,2023,1
+COVID-19,Afghanistan,AFG,2024,1
+COVID-19,Albania,ALB,2020,1
+COVID-19,Albania,ALB,2021,1
+COVID-19,Albania,ALB,2022,1
+COVID-19,Albania,ALB,2023,1
+COVID-19,Albania,ALB,2024,1
+COVID-19,Albania,ALB,2025,1
+COVID-19,Algeria,DZA,2020,1
+COVID-19,Algeria,DZA,2021,1
+COVID-19,Algeria,DZA,2022,1
+COVID-19,Algeria,DZA,2023,1
+COVID-19,Algeria,DZA,2024,1
+COVID-19,Algeria,DZA,2025,1
+COVID-19,American Samoa,ASM,2021,1
+COVID-19,American Samoa,ASM,2022,1
+COVID-19,American Samoa,ASM,2023,1
+COVID-19,Andorra,AND,2020,1
+COVID-19,Andorra,AND,2021,1
+COVID-19,Andorra,AND,2022,1
+COVID-19,Andorra,AND,2023,1
+COVID-19,Angola,AGO,2020,1
+COVID-19,Angola,AGO,2021,1
+COVID-19,Angola,AGO,2022,1
+COVID-19,Angola,AGO,2023,1
+COVID-19,Angola,AGO,2024,1
+COVID-19,Anguilla,AIA,2020,1
+COVID-19,Anguilla,AIA,2021,1
+COVID-19,Anguilla,AIA,2022,1
+COVID-19,Antigua and Barbuda,ATG,2020,1
+COVID-19,Antigua and Barbuda,ATG,2021,1
+COVID-19,Antigua and Barbuda,ATG,2022,1
+COVID-19,Argentina,ARG,2020,1
+COVID-19,Argentina,ARG,2021,1
+COVID-19,Argentina,ARG,2022,1
+COVID-19,Argentina,ARG,2023,1
+COVID-19,Argentina,ARG,2024,1
+COVID-19,Argentina,ARG,2025,1
+COVID-19,Armenia,ARM,2020,1
+COVID-19,Armenia,ARM,2021,1
+COVID-19,Armenia,ARM,2022,1
+COVID-19,Armenia,ARM,2023,1
+COVID-19,Armenia,ARM,2024,1
+COVID-19,Armenia,ARM,2025,1
+COVID-19,Aruba,ABW,2020,1
+COVID-19,Aruba,ABW,2021,1
+COVID-19,Aruba,ABW,2022,1
+COVID-19,Aruba,ABW,2023,1
+COVID-19,Australia,AUS,2020,1
+COVID-19,Australia,AUS,2021,1
+COVID-19,Australia,AUS,2022,1
+COVID-19,Australia,AUS,2023,1
+COVID-19,Australia,AUS,2024,1
+COVID-19,Austria,AUT,2020,1
+COVID-19,Austria,AUT,2021,1
+COVID-19,Austria,AUT,2022,1
+COVID-19,Austria,AUT,2023,1
+COVID-19,Austria,AUT,2024,1
+COVID-19,Austria,AUT,2025,1
+COVID-19,Azerbaijan,AZE,2020,1
+COVID-19,Azerbaijan,AZE,2021,1
+COVID-19,Azerbaijan,AZE,2022,1
+COVID-19,Azerbaijan,AZE,2023,1
+COVID-19,Azerbaijan,AZE,2024,1
+COVID-19,Azerbaijan,AZE,2025,1
+COVID-19,Bahamas,BHS,2020,1
+COVID-19,Bahamas,BHS,2021,1
+COVID-19,Bahamas,BHS,2022,1
+COVID-19,Bahamas,BHS,2023,1
+COVID-19,Bahamas,BHS,2024,1
+COVID-19,Bahrain,BHR,2020,1
+COVID-19,Bahrain,BHR,2021,1
+COVID-19,Bahrain,BHR,2022,1
+COVID-19,Bangladesh,BGD,2020,1
+COVID-19,Bangladesh,BGD,2021,1
+COVID-19,Bangladesh,BGD,2022,1
+COVID-19,Bangladesh,BGD,2023,1
+COVID-19,Bangladesh,BGD,2024,1
+COVID-19,Bangladesh,BGD,2025,1
+COVID-19,Barbados,BRB,2020,1
+COVID-19,Barbados,BRB,2021,1
+COVID-19,Barbados,BRB,2022,1
+COVID-19,Barbados,BRB,2023,1
+COVID-19,Barbados,BRB,2024,1
+COVID-19,Barbados,BRB,2025,1
+COVID-19,Belarus,BLR,2020,1
+COVID-19,Belarus,BLR,2021,1
+COVID-19,Belarus,BLR,2022,1
+COVID-19,Belarus,BLR,2024,1
+COVID-19,Belarus,BLR,2025,1
+COVID-19,Belgium,BEL,2020,1
+COVID-19,Belgium,BEL,2021,1
+COVID-19,Belgium,BEL,2022,1
+COVID-19,Belgium,BEL,2023,1
+COVID-19,Belgium,BEL,2024,1
+COVID-19,Belgium,BEL,2025,1
+COVID-19,Belize,BLZ,2020,1
+COVID-19,Belize,BLZ,2021,1
+COVID-19,Belize,BLZ,2022,1
+COVID-19,Belize,BLZ,2023,1
+COVID-19,Belize,BLZ,2024,1
+COVID-19,Belize,BLZ,2025,1
+COVID-19,Benin,BEN,2020,1
+COVID-19,Benin,BEN,2021,1
+COVID-19,Benin,BEN,2022,1
+COVID-19,Benin,BEN,2023,1
+COVID-19,Bermuda,BMU,2020,1
+COVID-19,Bermuda,BMU,2021,1
+COVID-19,Bermuda,BMU,2022,1
+COVID-19,Bermuda,BMU,2023,1
+COVID-19,Bhutan,BTN,2020,1
+COVID-19,Bhutan,BTN,2021,1
+COVID-19,Bhutan,BTN,2022,1
+COVID-19,Bhutan,BTN,2023,1
+COVID-19,Bhutan,BTN,2025,1
+COVID-19,Bolivia (Plurinational State of),BOL,2020,1
+COVID-19,Bolivia (Plurinational State of),BOL,2021,1
+COVID-19,Bolivia (Plurinational State of),BOL,2022,1
+COVID-19,Bolivia (Plurinational State of),BOL,2023,1
+COVID-19,Bolivia (Plurinational State of),BOL,2024,1
+COVID-19,Bolivia (Plurinational State of),BOL,2025,1
+COVID-19,Bonaire Sint Eustatius and Saba,BES,2020,1
+COVID-19,Bonaire Sint Eustatius and Saba,BES,2021,1
+COVID-19,Bonaire Sint Eustatius and Saba,BES,2022,1
+COVID-19,Bonaire Sint Eustatius and Saba,BES,2023,1
+COVID-19,Bosnia and Herzegovina,BIH,2020,1
+COVID-19,Bosnia and Herzegovina,BIH,2021,1
+COVID-19,Bosnia and Herzegovina,BIH,2022,1
+COVID-19,Bosnia and Herzegovina,BIH,2023,1
+COVID-19,Bosnia and Herzegovina,BIH,2024,1
+COVID-19,Bosnia and Herzegovina,BIH,2025,1
+COVID-19,Botswana,BWA,2020,1
+COVID-19,Botswana,BWA,2021,1
+COVID-19,Botswana,BWA,2022,1
+COVID-19,Botswana,BWA,2023,1
+COVID-19,Botswana,BWA,2024,1
+COVID-19,Brazil,BRA,2020,1
+COVID-19,Brazil,BRA,2021,1
+COVID-19,Brazil,BRA,2022,1
+COVID-19,Brazil,BRA,2023,1
+COVID-19,Brazil,BRA,2024,1
+COVID-19,Brazil,BRA,2025,1
+COVID-19,Brunei Darussalam,BRN,2020,1
+COVID-19,Brunei Darussalam,BRN,2021,1
+COVID-19,Brunei Darussalam,BRN,2022,1
+COVID-19,Brunei Darussalam,BRN,2023,1
+COVID-19,Brunei Darussalam,BRN,2024,1
+COVID-19,Brunei Darussalam,BRN,2025,1
+COVID-19,Bulgaria,BGR,2020,1
+COVID-19,Bulgaria,BGR,2021,1
+COVID-19,Bulgaria,BGR,2022,1
+COVID-19,Bulgaria,BGR,2023,1
+COVID-19,Bulgaria,BGR,2024,1
+COVID-19,Bulgaria,BGR,2025,1
+COVID-19,Burkina Faso,BFA,2020,1
+COVID-19,Burkina Faso,BFA,2021,1
+COVID-19,Burkina Faso,BFA,2022,1
+COVID-19,Burkina Faso,BFA,2023,1
+COVID-19,Burkina Faso,BFA,2024,1
+COVID-19,Burkina Faso,BFA,2025,1
+COVID-19,Burundi,BDI,2020,1
+COVID-19,Burundi,BDI,2021,1
+COVID-19,Burundi,BDI,2022,1
+COVID-19,Burundi,BDI,2023,1
+COVID-19,Burundi,BDI,2024,1
+COVID-19,Cabo Verde,CPV,2020,1
+COVID-19,Cabo Verde,CPV,2021,1
+COVID-19,Cabo Verde,CPV,2022,1
+COVID-19,Cabo Verde,CPV,2023,1
+COVID-19,Cambodia,KHM,2020,1
+COVID-19,Cambodia,KHM,2021,1
+COVID-19,Cambodia,KHM,2022,1
+COVID-19,Cambodia,KHM,2023,1
+COVID-19,Cambodia,KHM,2024,1
+COVID-19,Cameroon,CMR,2020,1
+COVID-19,Cameroon,CMR,2021,1
+COVID-19,Cameroon,CMR,2022,1
+COVID-19,Cameroon,CMR,2023,1
+COVID-19,Cameroon,CMR,2024,1
+COVID-19,Cameroon,CMR,2025,1
+COVID-19,Canada,CAN,2020,1
+COVID-19,Canada,CAN,2021,1
+COVID-19,Canada,CAN,2022,1
+COVID-19,Canada,CAN,2023,1
+COVID-19,Canada,CAN,2024,1
+COVID-19,Cayman Islands,CYM,2020,1
+COVID-19,Cayman Islands,CYM,2021,1
+COVID-19,Cayman Islands,CYM,2022,1
+COVID-19,Central African Republic,CAF,2020,1
+COVID-19,Central African Republic,CAF,2021,1
+COVID-19,Central African Republic,CAF,2022,1
+COVID-19,Central African Republic,CAF,2023,1
+COVID-19,Central African Republic,CAF,2024,1
+COVID-19,Central African Republic,CAF,2025,1
+COVID-19,Chad,TCD,2020,1
+COVID-19,Chad,TCD,2021,1
+COVID-19,Chad,TCD,2022,1
+COVID-19,Chad,TCD,2023,1
+COVID-19,Chad,TCD,2024,1
+COVID-19,Chile,CHL,2020,1
+COVID-19,Chile,CHL,2021,1
+COVID-19,Chile,CHL,2022,1
+COVID-19,Chile,CHL,2023,1
+COVID-19,Chile,CHL,2024,1
+COVID-19,Chile,CHL,2025,1
+COVID-19,China,CHN,2020,1
+COVID-19,China,CHN,2021,1
+COVID-19,China,CHN,2022,1
+COVID-19,China,CHN,2023,1
+COVID-19,China,CHN,2024,1
+COVID-19,China,CHN,2025,1
+COVID-19,Colombia,COL,2020,1
+COVID-19,Colombia,COL,2021,1
+COVID-19,Colombia,COL,2022,1
+COVID-19,Colombia,COL,2023,1
+COVID-19,Colombia,COL,2024,1
+COVID-19,Colombia,COL,2025,1
+COVID-19,Comoros,COM,2020,1
+COVID-19,Comoros,COM,2021,1
+COVID-19,Comoros,COM,2022,1
+COVID-19,Comoros,COM,2023,1
+COVID-19,Congo,COG,2020,1
+COVID-19,Congo,COG,2021,1
+COVID-19,Congo,COG,2022,1
+COVID-19,Congo,COG,2023,1
+COVID-19,Congo,COG,2024,1
+COVID-19,Congo Democratic Republic of the,COD,2020,1
+COVID-19,Congo Democratic Republic of the,COD,2021,1
+COVID-19,Congo Democratic Republic of the,COD,2022,1
+COVID-19,Congo Democratic Republic of the,COD,2023,1
+COVID-19,Congo Democratic Republic of the,COD,2024,1
+COVID-19,Congo Democratic Republic of the,COD,2025,1
+COVID-19,Cook Islands,COK,2022,1
+COVID-19,Cook Islands,COK,2023,1
+COVID-19,Cook Islands,COK,2024,1
+COVID-19,Costa Rica,CRI,2020,1
+COVID-19,Costa Rica,CRI,2021,1
+COVID-19,Costa Rica,CRI,2022,1
+COVID-19,Costa Rica,CRI,2023,1
+COVID-19,Costa Rica,CRI,2024,1
+COVID-19,Costa Rica,CRI,2025,1
+COVID-19,Croatia,HRV,2020,1
+COVID-19,Croatia,HRV,2021,1
+COVID-19,Croatia,HRV,2022,1
+COVID-19,Croatia,HRV,2023,1
+COVID-19,Croatia,HRV,2024,1
+COVID-19,Croatia,HRV,2025,1
+COVID-19,Cuba,CUB,2020,1
+COVID-19,Cuba,CUB,2021,1
+COVID-19,Cuba,CUB,2022,1
+COVID-19,Cuba,CUB,2023,1
+COVID-19,Cuba,CUB,2024,1
+COVID-19,Cuba,CUB,2025,1
+COVID-19,CuraÃ§ao,CUW,2020,1
+COVID-19,CuraÃ§ao,CUW,2021,1
+COVID-19,CuraÃ§ao,CUW,2022,1
+COVID-19,CuraÃ§ao,CUW,2023,1
+COVID-19,Cyprus,CYP,2020,1
+COVID-19,Cyprus,CYP,2021,1
+COVID-19,Cyprus,CYP,2022,1
+COVID-19,Cyprus,CYP,2023,1
+COVID-19,Cyprus,CYP,2024,1
+COVID-19,Cyprus,CYP,2025,1
+COVID-19,Czechia,CZE,2020,1
+COVID-19,Czechia,CZE,2021,1
+COVID-19,Czechia,CZE,2022,1
+COVID-19,Czechia,CZE,2023,1
+COVID-19,Czechia,CZE,2024,1
+COVID-19,Czechia,CZE,2025,1
+COVID-19,CÃ´te d'Ivoire,CIV,2020,1
+COVID-19,CÃ´te d'Ivoire,CIV,2021,1
+COVID-19,CÃ´te d'Ivoire,CIV,2022,1
+COVID-19,CÃ´te d'Ivoire,CIV,2023,1
+COVID-19,CÃ´te d'Ivoire,CIV,2024,1
+COVID-19,CÃ´te d'Ivoire,CIV,2025,1
+COVID-19,Denmark,DNK,2020,1
+COVID-19,Denmark,DNK,2021,1
+COVID-19,Denmark,DNK,2022,1
+COVID-19,Denmark,DNK,2023,1
+COVID-19,Denmark,DNK,2024,1
+COVID-19,Denmark,DNK,2025,1
+COVID-19,Djibouti,DJI,2020,1
+COVID-19,Djibouti,DJI,2021,1
+COVID-19,Djibouti,DJI,2022,1
+COVID-19,Dominica,DMA,2020,1
+COVID-19,Dominica,DMA,2021,1
+COVID-19,Dominica,DMA,2022,1
+COVID-19,Dominica,DMA,2023,1
+COVID-19,Dominican Republic,DOM,2020,1
+COVID-19,Dominican Republic,DOM,2021,1
+COVID-19,Dominican Republic,DOM,2022,1
+COVID-19,Dominican Republic,DOM,2023,1
+COVID-19,Ecuador,ECU,2020,1
+COVID-19,Ecuador,ECU,2021,1
+COVID-19,Ecuador,ECU,2022,1
+COVID-19,Ecuador,ECU,2023,1
+COVID-19,Ecuador,ECU,2024,1
+COVID-19,Ecuador,ECU,2025,1
+COVID-19,Egypt,EGY,2020,1
+COVID-19,Egypt,EGY,2021,1
+COVID-19,Egypt,EGY,2022,1
+COVID-19,Egypt,EGY,2023,1
+COVID-19,El Salvador,SLV,2020,1
+COVID-19,El Salvador,SLV,2021,1
+COVID-19,El Salvador,SLV,2022,1
+COVID-19,El Salvador,SLV,2023,1
+COVID-19,El Salvador,SLV,2024,1
+COVID-19,El Salvador,SLV,2025,1
+COVID-19,Equatorial Guinea,GNQ,2020,1
+COVID-19,Equatorial Guinea,GNQ,2021,1
+COVID-19,Equatorial Guinea,GNQ,2022,1
+COVID-19,Equatorial Guinea,GNQ,2023,1
+COVID-19,Eritrea,ERI,2020,1
+COVID-19,Eritrea,ERI,2021,1
+COVID-19,Eritrea,ERI,2022,1
+COVID-19,Estonia,EST,2020,1
+COVID-19,Estonia,EST,2021,1
+COVID-19,Estonia,EST,2022,1
+COVID-19,Estonia,EST,2023,1
+COVID-19,Estonia,EST,2024,1
+COVID-19,Estonia,EST,2025,1
+COVID-19,Eswatini,SWZ,2020,1
+COVID-19,Eswatini,SWZ,2021,1
+COVID-19,Eswatini,SWZ,2022,1
+COVID-19,Eswatini,SWZ,2023,1
+COVID-19,Eswatini,SWZ,2024,1
+COVID-19,Ethiopia,ETH,2020,1
+COVID-19,Ethiopia,ETH,2021,1
+COVID-19,Ethiopia,ETH,2022,1
+COVID-19,Ethiopia,ETH,2023,1
+COVID-19,Ethiopia,ETH,2024,1
+COVID-19,Ethiopia,ETH,2025,1
+COVID-19,Falkland Islands (Malvinas),FLK,2020,1
+COVID-19,Falkland Islands (Malvinas),FLK,2021,1
+COVID-19,Falkland Islands (Malvinas),FLK,2022,1
+COVID-19,Faroe Islands,FRO,2020,1
+COVID-19,Faroe Islands,FRO,2021,1
+COVID-19,Faroe Islands,FRO,2022,1
+COVID-19,Fiji,FJI,2020,1
+COVID-19,Fiji,FJI,2021,1
+COVID-19,Fiji,FJI,2022,1
+COVID-19,Fiji,FJI,2023,1
+COVID-19,Finland,FIN,2020,1
+COVID-19,Finland,FIN,2021,1
+COVID-19,Finland,FIN,2022,1
+COVID-19,Finland,FIN,2023,1
+COVID-19,Finland,FIN,2024,1
+COVID-19,Finland,FIN,2025,1
+COVID-19,France,FRA,2020,1
+COVID-19,France,FRA,2021,1
+COVID-19,France,FRA,2022,1
+COVID-19,France,FRA,2023,1
+COVID-19,France,FRA,2024,1
+COVID-19,France,FRA,2025,1
+COVID-19,French Guiana,GUF,2020,1
+COVID-19,French Guiana,GUF,2021,1
+COVID-19,French Guiana,GUF,2022,1
+COVID-19,French Guiana,GUF,2023,1
+COVID-19,French Polynesia,PYF,2020,1
+COVID-19,French Polynesia,PYF,2021,1
+COVID-19,French Polynesia,PYF,2022,1
+COVID-19,French Polynesia,PYF,2023,1
+COVID-19,French Polynesia,PYF,2024,1
+COVID-19,Gabon,GAB,2020,1
+COVID-19,Gabon,GAB,2021,1
+COVID-19,Gabon,GAB,2022,1
+COVID-19,Gabon,GAB,2023,1
+COVID-19,Gabon,GAB,2024,1
+COVID-19,Gabon,GAB,2025,1
+COVID-19,Gambia,GMB,2020,1
+COVID-19,Gambia,GMB,2021,1
+COVID-19,Gambia,GMB,2022,1
+COVID-19,Gambia,GMB,2023,1
+COVID-19,Gambia,GMB,2024,1
+COVID-19,Georgia,GEO,2020,1
+COVID-19,Georgia,GEO,2021,1
+COVID-19,Georgia,GEO,2022,1
+COVID-19,Georgia,GEO,2023,1
+COVID-19,Georgia,GEO,2024,1
+COVID-19,Georgia,GEO,2025,1
+COVID-19,Germany,DEU,2020,1
+COVID-19,Germany,DEU,2021,1
+COVID-19,Germany,DEU,2022,1
+COVID-19,Germany,DEU,2023,1
+COVID-19,Germany,DEU,2024,1
+COVID-19,Germany,DEU,2025,1
+COVID-19,Ghana,GHA,2020,1
+COVID-19,Ghana,GHA,2021,1
+COVID-19,Ghana,GHA,2022,1
+COVID-19,Ghana,GHA,2023,1
+COVID-19,Ghana,GHA,2024,1
+COVID-19,Ghana,GHA,2025,1
+COVID-19,Gibraltar,GIB,2020,1
+COVID-19,Gibraltar,GIB,2021,1
+COVID-19,Gibraltar,GIB,2022,1
+COVID-19,Gibraltar,GIB,2023,1
+COVID-19,Greece,GRC,2020,1
+COVID-19,Greece,GRC,2021,1
+COVID-19,Greece,GRC,2022,1
+COVID-19,Greece,GRC,2023,1
+COVID-19,Greece,GRC,2024,1
+COVID-19,Greece,GRC,2025,1
+COVID-19,Greenland,GRL,2020,1
+COVID-19,Greenland,GRL,2021,1
+COVID-19,Greenland,GRL,2022,1
+COVID-19,Grenada,GRD,2020,1
+COVID-19,Grenada,GRD,2021,1
+COVID-19,Grenada,GRD,2022,1
+COVID-19,Grenada,GRD,2023,1
+COVID-19,Guadeloupe,GLP,2020,1
+COVID-19,Guadeloupe,GLP,2021,1
+COVID-19,Guadeloupe,GLP,2022,1
+COVID-19,Guadeloupe,GLP,2023,1
+COVID-19,Guam,GUM,2020,1
+COVID-19,Guam,GUM,2021,1
+COVID-19,Guam,GUM,2022,1
+COVID-19,Guam,GUM,2023,1
+COVID-19,Guatemala,GTM,2020,1
+COVID-19,Guatemala,GTM,2021,1
+COVID-19,Guatemala,GTM,2022,1
+COVID-19,Guatemala,GTM,2023,1
+COVID-19,Guatemala,GTM,2024,1
+COVID-19,Guatemala,GTM,2025,1
+COVID-19,Guernsey,GGY,2020,1
+COVID-19,Guernsey,GGY,2021,1
+COVID-19,Guernsey,GGY,2022,1
+COVID-19,Guernsey,GGY,2023,1
+COVID-19,Guinea,GIN,2020,1
+COVID-19,Guinea,GIN,2021,1
+COVID-19,Guinea,GIN,2022,1
+COVID-19,Guinea,GIN,2023,1
+COVID-19,Guinea,GIN,2024,1
+COVID-19,Guinea,GIN,2025,1
+COVID-19,Guinea-Bissau,GNB,2020,1
+COVID-19,Guinea-Bissau,GNB,2021,1
+COVID-19,Guinea-Bissau,GNB,2022,1
+COVID-19,Guinea-Bissau,GNB,2023,1
+COVID-19,Guyana,GUY,2020,1
+COVID-19,Guyana,GUY,2021,1
+COVID-19,Guyana,GUY,2022,1
+COVID-19,Guyana,GUY,2023,1
+COVID-19,Guyana,GUY,2024,1
+COVID-19,Guyana,GUY,2025,1
+COVID-19,Haiti,HTI,2020,1
+COVID-19,Haiti,HTI,2021,1
+COVID-19,Haiti,HTI,2022,1
+COVID-19,Haiti,HTI,2023,1
+COVID-19,Haiti,HTI,2024,1
+COVID-19,Haiti,HTI,2025,1
+COVID-19,Holy See,VAT,2020,1
+COVID-19,Honduras,HND,2020,1
+COVID-19,Honduras,HND,2021,1
+COVID-19,Honduras,HND,2022,1
+COVID-19,Honduras,HND,2023,1
+COVID-19,Honduras,HND,2024,1
+COVID-19,Honduras,HND,2025,1
+COVID-19,Hungary,HUN,2020,1
+COVID-19,Hungary,HUN,2021,1
+COVID-19,Hungary,HUN,2022,1
+COVID-19,Hungary,HUN,2023,1
+COVID-19,Hungary,HUN,2024,1
+COVID-19,Hungary,HUN,2025,1
+COVID-19,Iceland,ISL,2020,1
+COVID-19,Iceland,ISL,2021,1
+COVID-19,Iceland,ISL,2022,1
+COVID-19,Iceland,ISL,2023,1
+COVID-19,Iceland,ISL,2024,1
+COVID-19,Iceland,ISL,2025,1
+COVID-19,India,IND,2020,1
+COVID-19,India,IND,2021,1
+COVID-19,India,IND,2022,1
+COVID-19,India,IND,2023,1
+COVID-19,India,IND,2024,1
+COVID-19,India,IND,2025,1
+COVID-19,Indonesia,IDN,2020,1
+COVID-19,Indonesia,IDN,2021,1
+COVID-19,Indonesia,IDN,2022,1
+COVID-19,Indonesia,IDN,2023,1
+COVID-19,Indonesia,IDN,2024,1
+COVID-19,Indonesia,IDN,2025,1
+COVID-19,Iran (Islamic Republic of),IRN,2020,1
+COVID-19,Iran (Islamic Republic of),IRN,2021,1
+COVID-19,Iran (Islamic Republic of),IRN,2022,1
+COVID-19,Iran (Islamic Republic of),IRN,2023,1
+COVID-19,Iran (Islamic Republic of),IRN,2024,1
+COVID-19,Iraq,IRQ,2020,1
+COVID-19,Iraq,IRQ,2021,1
+COVID-19,Iraq,IRQ,2022,1
+COVID-19,Iraq,IRQ,2023,1
+COVID-19,Ireland,IRL,2020,1
+COVID-19,Ireland,IRL,2021,1
+COVID-19,Ireland,IRL,2022,1
+COVID-19,Ireland,IRL,2023,1
+COVID-19,Ireland,IRL,2024,1
+COVID-19,Ireland,IRL,2025,1
+COVID-19,Isle of Man,IMN,2020,1
+COVID-19,Isle of Man,IMN,2021,1
+COVID-19,Isle of Man,IMN,2022,1
+COVID-19,Israel,ISR,2020,1
+COVID-19,Israel,ISR,2021,1
+COVID-19,Israel,ISR,2022,1
+COVID-19,Israel,ISR,2023,1
+COVID-19,Italy,ITA,2020,1
+COVID-19,Italy,ITA,2021,1
+COVID-19,Italy,ITA,2022,1
+COVID-19,Italy,ITA,2023,1
+COVID-19,Italy,ITA,2024,1
+COVID-19,Italy,ITA,2025,1
+COVID-19,Jamaica,JAM,2020,1
+COVID-19,Jamaica,JAM,2021,1
+COVID-19,Jamaica,JAM,2022,1
+COVID-19,Jamaica,JAM,2023,1
+COVID-19,Jamaica,JAM,2024,1
+COVID-19,Jamaica,JAM,2025,1
+COVID-19,Japan,JPN,2020,1
+COVID-19,Japan,JPN,2021,1
+COVID-19,Japan,JPN,2022,1
+COVID-19,Japan,JPN,2023,1
+COVID-19,Jersey,JEY,2020,1
+COVID-19,Jersey,JEY,2021,1
+COVID-19,Jersey,JEY,2022,1
+COVID-19,Jersey,JEY,2023,1
+COVID-19,Jordan,JOR,2020,1
+COVID-19,Jordan,JOR,2021,1
+COVID-19,Jordan,JOR,2022,1
+COVID-19,Kazakhstan,KAZ,2020,1
+COVID-19,Kazakhstan,KAZ,2021,1
+COVID-19,Kazakhstan,KAZ,2022,1
+COVID-19,Kazakhstan,KAZ,2023,1
+COVID-19,Kazakhstan,KAZ,2024,1
+COVID-19,Kenya,KEN,2020,1
+COVID-19,Kenya,KEN,2021,1
+COVID-19,Kenya,KEN,2022,1
+COVID-19,Kenya,KEN,2023,1
+COVID-19,Kenya,KEN,2024,1
+COVID-19,Kenya,KEN,2025,1
+COVID-19,Kiribati,KIR,2022,1
+COVID-19,Kiribati,KIR,2023,1
+COVID-19,Korea Republic of,KOR,2020,1
+COVID-19,Korea Republic of,KOR,2021,1
+COVID-19,Korea Republic of,KOR,2022,1
+COVID-19,Korea Republic of,KOR,2023,1
+COVID-19,Kuwait,KWT,2020,1
+COVID-19,Kuwait,KWT,2021,1
+COVID-19,Kuwait,KWT,2022,1
+COVID-19,Kuwait,KWT,2023,1
+COVID-19,Kuwait,KWT,2024,1
+COVID-19,Kyrgyzstan,KGZ,2021,1
+COVID-19,Kyrgyzstan,KGZ,2022,1
+COVID-19,Kyrgyzstan,KGZ,2023,1
+COVID-19,Kyrgyzstan,KGZ,2024,1
+COVID-19,Lao People's Democratic Republic,LAO,2020,1
+COVID-19,Lao People's Democratic Republic,LAO,2021,1
+COVID-19,Lao People's Democratic Republic,LAO,2022,1
+COVID-19,Lao People's Democratic Republic,LAO,2023,1
+COVID-19,Lao People's Democratic Republic,LAO,2024,1
+COVID-19,Latvia,LVA,2020,1
+COVID-19,Latvia,LVA,2021,1
+COVID-19,Latvia,LVA,2022,1
+COVID-19,Latvia,LVA,2023,1
+COVID-19,Latvia,LVA,2024,1
+COVID-19,Latvia,LVA,2025,1
+COVID-19,Lebanon,LBN,2020,1
+COVID-19,Lebanon,LBN,2021,1
+COVID-19,Lebanon,LBN,2022,1
+COVID-19,Lebanon,LBN,2023,1
+COVID-19,Lesotho,LSO,2020,1
+COVID-19,Lesotho,LSO,2021,1
+COVID-19,Lesotho,LSO,2022,1
+COVID-19,Lesotho,LSO,2023,1
+COVID-19,Lesotho,LSO,2025,1
+COVID-19,Liberia,LBR,2020,1
+COVID-19,Liberia,LBR,2021,1
+COVID-19,Liberia,LBR,2022,1
+COVID-19,Liberia,LBR,2024,1
+COVID-19,Libya,LBY,2020,1
+COVID-19,Libya,LBY,2021,1
+COVID-19,Libya,LBY,2022,1
+COVID-19,Libya,LBY,2023,1
+COVID-19,Liechtenstein,LIE,2020,1
+COVID-19,Liechtenstein,LIE,2021,1
+COVID-19,Liechtenstein,LIE,2022,1
+COVID-19,Liechtenstein,LIE,2023,1
+COVID-19,Liechtenstein,LIE,2024,1
+COVID-19,Liechtenstein,LIE,2025,1
+COVID-19,Lithuania,LTU,2020,1
+COVID-19,Lithuania,LTU,2021,1
+COVID-19,Lithuania,LTU,2022,1
+COVID-19,Lithuania,LTU,2023,1
+COVID-19,Lithuania,LTU,2024,1
+COVID-19,Lithuania,LTU,2025,1
+COVID-19,Luxembourg,LUX,2020,1
+COVID-19,Luxembourg,LUX,2021,1
+COVID-19,Luxembourg,LUX,2022,1
+COVID-19,Luxembourg,LUX,2023,1
+COVID-19,Luxembourg,LUX,2024,1
+COVID-19,Luxembourg,LUX,2025,1
+COVID-19,Madagascar,MDG,2020,1
+COVID-19,Madagascar,MDG,2021,1
+COVID-19,Madagascar,MDG,2022,1
+COVID-19,Madagascar,MDG,2023,1
+COVID-19,Madagascar,MDG,2024,1
+COVID-19,Madagascar,MDG,2025,1
+COVID-19,Malawi,MWI,2020,1
+COVID-19,Malawi,MWI,2021,1
+COVID-19,Malawi,MWI,2022,1
+COVID-19,Malawi,MWI,2023,1
+COVID-19,Malaysia,MYS,2020,1
+COVID-19,Malaysia,MYS,2021,1
+COVID-19,Malaysia,MYS,2022,1
+COVID-19,Malaysia,MYS,2023,1
+COVID-19,Malaysia,MYS,2024,1
+COVID-19,Maldives,MDV,2020,1
+COVID-19,Maldives,MDV,2021,1
+COVID-19,Maldives,MDV,2022,1
+COVID-19,Maldives,MDV,2023,1
+COVID-19,Mali,MLI,2020,1
+COVID-19,Mali,MLI,2021,1
+COVID-19,Mali,MLI,2022,1
+COVID-19,Mali,MLI,2023,1
+COVID-19,Mali,MLI,2024,1
+COVID-19,Mali,MLI,2025,1
+COVID-19,Malta,MLT,2020,1
+COVID-19,Malta,MLT,2021,1
+COVID-19,Malta,MLT,2022,1
+COVID-19,Malta,MLT,2023,1
+COVID-19,Malta,MLT,2024,1
+COVID-19,Malta,MLT,2025,1
+COVID-19,Marshall Islands,MHL,2020,1
+COVID-19,Marshall Islands,MHL,2022,1
+COVID-19,Marshall Islands,MHL,2023,1
+COVID-19,Marshall Islands,MHL,2024,1
+COVID-19,Martinique,MTQ,2020,1
+COVID-19,Martinique,MTQ,2021,1
+COVID-19,Martinique,MTQ,2022,1
+COVID-19,Martinique,MTQ,2023,1
+COVID-19,Mauritania,MRT,2020,1
+COVID-19,Mauritania,MRT,2021,1
+COVID-19,Mauritania,MRT,2022,1
+COVID-19,Mauritania,MRT,2023,1
+COVID-19,Mauritania,MRT,2024,1
+COVID-19,Mauritania,MRT,2025,1
+COVID-19,Mauritius,MUS,2020,1
+COVID-19,Mauritius,MUS,2021,1
+COVID-19,Mauritius,MUS,2022,1
+COVID-19,Mauritius,MUS,2023,1
+COVID-19,Mauritius,MUS,2024,1
+COVID-19,Mauritius,MUS,2025,1
+COVID-19,Mayotte,MYT,2020,1
+COVID-19,Mayotte,MYT,2021,1
+COVID-19,Mayotte,MYT,2022,1
+COVID-19,Mayotte,MYT,2023,1
+COVID-19,Mexico,MEX,2020,1
+COVID-19,Mexico,MEX,2021,1
+COVID-19,Mexico,MEX,2022,1
+COVID-19,Mexico,MEX,2023,1
+COVID-19,Mexico,MEX,2024,1
+COVID-19,Mexico,MEX,2025,1
+COVID-19,Micronesia (Federated States of),FSM,2022,1
+COVID-19,Micronesia (Federated States of),FSM,2023,1
+COVID-19,Micronesia (Federated States of),FSM,2024,1
+COVID-19,Moldova Republic of,MDA,2020,1
+COVID-19,Moldova Republic of,MDA,2021,1
+COVID-19,Moldova Republic of,MDA,2022,1
+COVID-19,Moldova Republic of,MDA,2023,1
+COVID-19,Moldova Republic of,MDA,2024,1
+COVID-19,Moldova Republic of,MDA,2025,1
+COVID-19,Monaco,MCO,2020,1
+COVID-19,Monaco,MCO,2021,1
+COVID-19,Monaco,MCO,2022,1
+COVID-19,Monaco,MCO,2023,1
+COVID-19,Mongolia,MNG,2020,1
+COVID-19,Mongolia,MNG,2021,1
+COVID-19,Mongolia,MNG,2022,1
+COVID-19,Mongolia,MNG,2023,1
+COVID-19,Mongolia,MNG,2024,1
+COVID-19,Montenegro,MNE,2020,1
+COVID-19,Montenegro,MNE,2021,1
+COVID-19,Montenegro,MNE,2022,1
+COVID-19,Montenegro,MNE,2023,1
+COVID-19,Montserrat,MSR,2020,1
+COVID-19,Montserrat,MSR,2021,1
+COVID-19,Montserrat,MSR,2022,1
+COVID-19,Morocco,MAR,2020,1
+COVID-19,Morocco,MAR,2021,1
+COVID-19,Morocco,MAR,2022,1
+COVID-19,Morocco,MAR,2023,1
+COVID-19,Morocco,MAR,2024,1
+COVID-19,Mozambique,MOZ,2020,1
+COVID-19,Mozambique,MOZ,2021,1
+COVID-19,Mozambique,MOZ,2022,1
+COVID-19,Mozambique,MOZ,2023,1
+COVID-19,Mozambique,MOZ,2024,1
+COVID-19,Mozambique,MOZ,2025,1
+COVID-19,Myanmar,MMR,2020,1
+COVID-19,Myanmar,MMR,2021,1
+COVID-19,Myanmar,MMR,2022,1
+COVID-19,Myanmar,MMR,2023,1
+COVID-19,Myanmar,MMR,2024,1
+COVID-19,Myanmar,MMR,2025,1
+COVID-19,Nauru,NRU,2022,1
+COVID-19,Nauru,NRU,2023,1
+COVID-19,Nepal,NPL,2020,1
+COVID-19,Nepal,NPL,2021,1
+COVID-19,Nepal,NPL,2022,1
+COVID-19,Nepal,NPL,2023,1
+COVID-19,Nepal,NPL,2025,1
+COVID-19,Netherlands,NLD,2020,1
+COVID-19,Netherlands,NLD,2021,1
+COVID-19,Netherlands,NLD,2022,1
+COVID-19,Netherlands,NLD,2023,1
+COVID-19,Netherlands,NLD,2024,1
+COVID-19,Netherlands,NLD,2025,1
+COVID-19,New Caledonia,NCL,2020,1
+COVID-19,New Caledonia,NCL,2021,1
+COVID-19,New Caledonia,NCL,2022,1
+COVID-19,New Caledonia,NCL,2023,1
+COVID-19,New Caledonia,NCL,2024,1
+COVID-19,New Zealand,NZL,2020,1
+COVID-19,New Zealand,NZL,2021,1
+COVID-19,New Zealand,NZL,2022,1
+COVID-19,New Zealand,NZL,2023,1
+COVID-19,New Zealand,NZL,2024,1
+COVID-19,New Zealand,NZL,2025,1
+COVID-19,Nicaragua,NIC,2020,1
+COVID-19,Nicaragua,NIC,2021,1
+COVID-19,Nicaragua,NIC,2022,1
+COVID-19,Nicaragua,NIC,2023,1
+COVID-19,Nicaragua,NIC,2024,1
+COVID-19,Nicaragua,NIC,2025,1
+COVID-19,Niger,NER,2020,1
+COVID-19,Niger,NER,2021,1
+COVID-19,Niger,NER,2022,1
+COVID-19,Niger,NER,2023,1
+COVID-19,Niger,NER,2024,1
+COVID-19,Niger,NER,2025,1
+COVID-19,Nigeria,NGA,2020,1
+COVID-19,Nigeria,NGA,2021,1
+COVID-19,Nigeria,NGA,2022,1
+COVID-19,Nigeria,NGA,2023,1
+COVID-19,Nigeria,NGA,2024,1
+COVID-19,Nigeria,NGA,2025,1
+COVID-19,Niue,NIU,2022,1
+COVID-19,Niue,NIU,2023,1
+COVID-19,Niue,NIU,2024,1
+COVID-19,North Macedonia,MKD,2020,1
+COVID-19,North Macedonia,MKD,2021,1
+COVID-19,North Macedonia,MKD,2022,1
+COVID-19,North Macedonia,MKD,2023,1
+COVID-19,North Macedonia,MKD,2024,1
+COVID-19,North Macedonia,MKD,2025,1
+COVID-19,Northern Mariana Islands,MNP,2020,1
+COVID-19,Northern Mariana Islands,MNP,2021,1
+COVID-19,Northern Mariana Islands,MNP,2022,1
+COVID-19,Northern Mariana Islands,MNP,2023,1
+COVID-19,Northern Mariana Islands,MNP,2024,1
+COVID-19,Norway,NOR,2020,1
+COVID-19,Norway,NOR,2021,1
+COVID-19,Norway,NOR,2022,1
+COVID-19,Norway,NOR,2023,1
+COVID-19,Norway,NOR,2024,1
+COVID-19,Norway,NOR,2025,1
+COVID-19,Oman,OMN,2020,1
+COVID-19,Oman,OMN,2021,1
+COVID-19,Oman,OMN,2022,1
+COVID-19,Oman,OMN,2023,1
+COVID-19,Pakistan,PAK,2020,1
+COVID-19,Pakistan,PAK,2021,1
+COVID-19,Pakistan,PAK,2022,1
+COVID-19,Pakistan,PAK,2023,1
+COVID-19,Palau,PLW,2021,1
+COVID-19,Palau,PLW,2022,1
+COVID-19,Palau,PLW,2023,1
+COVID-19,Palau,PLW,2024,1
+COVID-19,Palestine State of,PSE,2020,1
+COVID-19,Palestine State of,PSE,2021,1
+COVID-19,Palestine State of,PSE,2022,1
+COVID-19,Panama,PAN,2020,1
+COVID-19,Panama,PAN,2021,1
+COVID-19,Panama,PAN,2022,1
+COVID-19,Panama,PAN,2023,1
+COVID-19,Panama,PAN,2024,1
+COVID-19,Panama,PAN,2025,1
+COVID-19,Papua New Guinea,PNG,2020,1
+COVID-19,Papua New Guinea,PNG,2021,1
+COVID-19,Papua New Guinea,PNG,2022,1
+COVID-19,Papua New Guinea,PNG,2023,1
+COVID-19,Paraguay,PRY,2020,1
+COVID-19,Paraguay,PRY,2021,1
+COVID-19,Paraguay,PRY,2022,1
+COVID-19,Paraguay,PRY,2023,1
+COVID-19,Peru,PER,2020,1
+COVID-19,Peru,PER,2021,1
+COVID-19,Peru,PER,2022,1
+COVID-19,Peru,PER,2023,1
+COVID-19,Peru,PER,2024,1
+COVID-19,Peru,PER,2025,1
+COVID-19,Philippines,PHL,2020,1
+COVID-19,Philippines,PHL,2021,1
+COVID-19,Philippines,PHL,2022,1
+COVID-19,Philippines,PHL,2023,1
+COVID-19,Philippines,PHL,2024,1
+COVID-19,Pitcairn,PCN,2022,1
+COVID-19,Poland,POL,2020,1
+COVID-19,Poland,POL,2021,1
+COVID-19,Poland,POL,2022,1
+COVID-19,Poland,POL,2023,1
+COVID-19,Poland,POL,2024,1
+COVID-19,Poland,POL,2025,1
+COVID-19,Portugal,PRT,2020,1
+COVID-19,Portugal,PRT,2021,1
+COVID-19,Portugal,PRT,2022,1
+COVID-19,Portugal,PRT,2023,1
+COVID-19,Portugal,PRT,2024,1
+COVID-19,Portugal,PRT,2025,1
+COVID-19,Puerto Rico,PRI,2020,1
+COVID-19,Puerto Rico,PRI,2021,1
+COVID-19,Puerto Rico,PRI,2022,1
+COVID-19,Puerto Rico,PRI,2023,1
+COVID-19,Qatar,QAT,2020,1
+COVID-19,Qatar,QAT,2021,1
+COVID-19,Qatar,QAT,2022,1
+COVID-19,Qatar,QAT,2023,1
+COVID-19,Romania,ROU,2020,1
+COVID-19,Romania,ROU,2021,1
+COVID-19,Romania,ROU,2022,1
+COVID-19,Romania,ROU,2023,1
+COVID-19,Romania,ROU,2024,1
+COVID-19,Romania,ROU,2025,1
+COVID-19,Russian Federation,RUS,2020,1
+COVID-19,Russian Federation,RUS,2021,1
+COVID-19,Russian Federation,RUS,2022,1
+COVID-19,Russian Federation,RUS,2023,1
+COVID-19,Russian Federation,RUS,2024,1
+COVID-19,Russian Federation,RUS,2025,1
+COVID-19,Rwanda,RWA,2020,1
+COVID-19,Rwanda,RWA,2021,1
+COVID-19,Rwanda,RWA,2022,1
+COVID-19,Rwanda,RWA,2023,1
+COVID-19,Rwanda,RWA,2024,1
+COVID-19,Rwanda,RWA,2025,1
+COVID-19,RÃ©union,REU,2020,1
+COVID-19,RÃ©union,REU,2021,1
+COVID-19,RÃ©union,REU,2022,1
+COVID-19,RÃ©union,REU,2023,1
+COVID-19,Saint BarthÃ©lemy,BLM,2020,1
+COVID-19,Saint BarthÃ©lemy,BLM,2021,1
+COVID-19,Saint BarthÃ©lemy,BLM,2022,1
+COVID-19,Saint BarthÃ©lemy,BLM,2023,1
+COVID-19,Saint Helena Ascension and Tristan da Cunha,SHN,2022,1
+COVID-19,Saint Kitts and Nevis,KNA,2020,1
+COVID-19,Saint Kitts and Nevis,KNA,2021,1
+COVID-19,Saint Kitts and Nevis,KNA,2022,1
+COVID-19,Saint Kitts and Nevis,KNA,2023,1
+COVID-19,Saint Lucia,LCA,2020,1
+COVID-19,Saint Lucia,LCA,2021,1
+COVID-19,Saint Lucia,LCA,2022,1
+COVID-19,Saint Lucia,LCA,2023,1
+COVID-19,Saint Lucia,LCA,2024,1
+COVID-19,Saint Lucia,LCA,2025,1
+COVID-19,Saint Martin (French part),MAF,2020,1
+COVID-19,Saint Martin (French part),MAF,2021,1
+COVID-19,Saint Martin (French part),MAF,2022,1
+COVID-19,Saint Martin (French part),MAF,2023,1
+COVID-19,Saint Pierre and Miquelon,SPM,2020,1
+COVID-19,Saint Pierre and Miquelon,SPM,2021,1
+COVID-19,Saint Pierre and Miquelon,SPM,2022,1
+COVID-19,Saint Pierre and Miquelon,SPM,2023,1
+COVID-19,Saint Vincent and the Grenadines,VCT,2020,1
+COVID-19,Saint Vincent and the Grenadines,VCT,2021,1
+COVID-19,Saint Vincent and the Grenadines,VCT,2022,1
+COVID-19,Saint Vincent and the Grenadines,VCT,2023,1
+COVID-19,Samoa,WSM,2020,1
+COVID-19,Samoa,WSM,2021,1
+COVID-19,Samoa,WSM,2022,1
+COVID-19,Samoa,WSM,2023,1
+COVID-19,Samoa,WSM,2024,1
+COVID-19,San Marino,SMR,2020,1
+COVID-19,San Marino,SMR,2021,1
+COVID-19,San Marino,SMR,2022,1
+COVID-19,San Marino,SMR,2023,1
+COVID-19,Sao Tome and Principe,STP,2020,1
+COVID-19,Sao Tome and Principe,STP,2021,1
+COVID-19,Sao Tome and Principe,STP,2022,1
+COVID-19,Sao Tome and Principe,STP,2023,1
+COVID-19,Sao Tome and Principe,STP,2024,1
+COVID-19,Saudi Arabia,SAU,2020,1
+COVID-19,Saudi Arabia,SAU,2021,1
+COVID-19,Saudi Arabia,SAU,2022,1
+COVID-19,Saudi Arabia,SAU,2023,1
+COVID-19,Senegal,SEN,2020,1
+COVID-19,Senegal,SEN,2021,1
+COVID-19,Senegal,SEN,2022,1
+COVID-19,Senegal,SEN,2023,1
+COVID-19,Senegal,SEN,2024,1
+COVID-19,Senegal,SEN,2025,1
+COVID-19,Serbia,SRB,2020,1
+COVID-19,Serbia,SRB,2021,1
+COVID-19,Serbia,SRB,2022,1
+COVID-19,Serbia,SRB,2023,1
+COVID-19,Serbia,SRB,2025,1
+COVID-19,Seychelles,SYC,2020,1
+COVID-19,Seychelles,SYC,2021,1
+COVID-19,Seychelles,SYC,2022,1
+COVID-19,Seychelles,SYC,2023,1
+COVID-19,Seychelles,SYC,2024,1
+COVID-19,Sierra Leone,SLE,2020,1
+COVID-19,Sierra Leone,SLE,2021,1
+COVID-19,Sierra Leone,SLE,2022,1
+COVID-19,Sierra Leone,SLE,2023,1
+COVID-19,Sierra Leone,SLE,2024,1
+COVID-19,Singapore,SGP,2020,1
+COVID-19,Singapore,SGP,2021,1
+COVID-19,Singapore,SGP,2022,1
+COVID-19,Singapore,SGP,2023,1
+COVID-19,Singapore,SGP,2024,1
+COVID-19,Sint Maarten (Dutch part),SXM,2020,1
+COVID-19,Sint Maarten (Dutch part),SXM,2021,1
+COVID-19,Sint Maarten (Dutch part),SXM,2022,1
+COVID-19,Sint Maarten (Dutch part),SXM,2023,1
+COVID-19,Slovakia,SVK,2020,1
+COVID-19,Slovakia,SVK,2021,1
+COVID-19,Slovakia,SVK,2022,1
+COVID-19,Slovakia,SVK,2023,1
+COVID-19,Slovakia,SVK,2024,1
+COVID-19,Slovakia,SVK,2025,1
+COVID-19,Slovenia,SVN,2020,1
+COVID-19,Slovenia,SVN,2021,1
+COVID-19,Slovenia,SVN,2022,1
+COVID-19,Slovenia,SVN,2023,1
+COVID-19,Slovenia,SVN,2024,1
+COVID-19,Slovenia,SVN,2025,1
+COVID-19,Solomon Islands,SLB,2020,1
+COVID-19,Solomon Islands,SLB,2021,1
+COVID-19,Solomon Islands,SLB,2022,1
+COVID-19,Solomon Islands,SLB,2023,1
+COVID-19,Somalia,SOM,2020,1
+COVID-19,Somalia,SOM,2021,1
+COVID-19,Somalia,SOM,2022,1
+COVID-19,Somalia,SOM,2023,1
+COVID-19,South Africa,ZAF,2020,1
+COVID-19,South Africa,ZAF,2021,1
+COVID-19,South Africa,ZAF,2022,1
+COVID-19,South Africa,ZAF,2023,1
+COVID-19,South Africa,ZAF,2024,1
+COVID-19,South Africa,ZAF,2025,1
+COVID-19,South Sudan,SSD,2020,1
+COVID-19,South Sudan,SSD,2021,1
+COVID-19,South Sudan,SSD,2022,1
+COVID-19,South Sudan,SSD,2023,1
+COVID-19,South Sudan,SSD,2024,1
+COVID-19,South Sudan,SSD,2025,1
+COVID-19,Spain,ESP,2020,1
+COVID-19,Spain,ESP,2021,1
+COVID-19,Spain,ESP,2022,1
+COVID-19,Spain,ESP,2023,1
+COVID-19,Sri Lanka,LKA,2020,1
+COVID-19,Sri Lanka,LKA,2021,1
+COVID-19,Sri Lanka,LKA,2022,1
+COVID-19,Sri Lanka,LKA,2023,1
+COVID-19,Sri Lanka,LKA,2024,1
+COVID-19,Sudan,SDN,2020,1
+COVID-19,Sudan,SDN,2021,1
+COVID-19,Sudan,SDN,2022,1
+COVID-19,Sudan,SDN,2023,1
+COVID-19,Suriname,SUR,2020,1
+COVID-19,Suriname,SUR,2021,1
+COVID-19,Suriname,SUR,2022,1
+COVID-19,Suriname,SUR,2023,1
+COVID-19,Suriname,SUR,2024,1
+COVID-19,Suriname,SUR,2025,1
+COVID-19,Sweden,SWE,2020,1
+COVID-19,Sweden,SWE,2021,1
+COVID-19,Sweden,SWE,2022,1
+COVID-19,Sweden,SWE,2023,1
+COVID-19,Sweden,SWE,2024,1
+COVID-19,Sweden,SWE,2025,1
+COVID-19,Switzerland,CHE,2020,1
+COVID-19,Switzerland,CHE,2021,1
+COVID-19,Switzerland,CHE,2022,1
+COVID-19,Switzerland,CHE,2023,1
+COVID-19,Switzerland,CHE,2024,1
+COVID-19,Switzerland,CHE,2025,1
+COVID-19,Syrian Arab Republic,SYR,2020,1
+COVID-19,Syrian Arab Republic,SYR,2021,1
+COVID-19,Syrian Arab Republic,SYR,2022,1
+COVID-19,Tajikistan,TJK,2020,1
+COVID-19,Tajikistan,TJK,2021,1
+COVID-19,Tajikistan,TJK,2022,1
+COVID-19,Tanzania United Republic of,TZA,2020,1
+COVID-19,Tanzania United Republic of,TZA,2021,1
+COVID-19,Tanzania United Republic of,TZA,2022,1
+COVID-19,Tanzania United Republic of,TZA,2023,1
+COVID-19,Tanzania United Republic of,TZA,2024,1
+COVID-19,Tanzania United Republic of,TZA,2025,1
+COVID-19,Thailand,THA,2020,1
+COVID-19,Thailand,THA,2021,1
+COVID-19,Thailand,THA,2022,1
+COVID-19,Thailand,THA,2023,1
+COVID-19,Thailand,THA,2024,1
+COVID-19,Thailand,THA,2025,1
+COVID-19,Timor-Leste,TLS,2020,1
+COVID-19,Timor-Leste,TLS,2021,1
+COVID-19,Timor-Leste,TLS,2022,1
+COVID-19,Timor-Leste,TLS,2023,1
+COVID-19,Togo,TGO,2020,1
+COVID-19,Togo,TGO,2021,1
+COVID-19,Togo,TGO,2022,1
+COVID-19,Togo,TGO,2023,1
+COVID-19,Togo,TGO,2024,1
+COVID-19,Togo,TGO,2025,1
+COVID-19,Tokelau,TKL,2022,1
+COVID-19,Tokelau,TKL,2023,1
+COVID-19,Tonga,TON,2021,1
+COVID-19,Tonga,TON,2022,1
+COVID-19,Tonga,TON,2023,1
+COVID-19,Tonga,TON,2024,1
+COVID-19,Trinidad and Tobago,TTO,2020,1
+COVID-19,Trinidad and Tobago,TTO,2021,1
+COVID-19,Trinidad and Tobago,TTO,2022,1
+COVID-19,Trinidad and Tobago,TTO,2023,1
+COVID-19,Tunisia,TUN,2020,1
+COVID-19,Tunisia,TUN,2021,1
+COVID-19,Tunisia,TUN,2022,1
+COVID-19,Tunisia,TUN,2023,1
+COVID-19,Turkey,TUR,2020,1
+COVID-19,Turkey,TUR,2021,1
+COVID-19,Turkey,TUR,2022,1
+COVID-19,Turkey,TUR,2023,1
+COVID-19,Turkey,TUR,2024,1
+COVID-19,Turkey,TUR,2025,1
+COVID-19,Turks and Caicos Islands,TCA,2020,1
+COVID-19,Turks and Caicos Islands,TCA,2021,1
+COVID-19,Turks and Caicos Islands,TCA,2022,1
+COVID-19,Turks and Caicos Islands,TCA,2023,1
+COVID-19,Turks and Caicos Islands,TCA,2024,1
+COVID-19,Turks and Caicos Islands,TCA,2025,1
+COVID-19,Tuvalu,TUV,2022,1
+COVID-19,Tuvalu,TUV,2023,1
+COVID-19,Uganda,UGA,2020,1
+COVID-19,Uganda,UGA,2021,1
+COVID-19,Uganda,UGA,2022,1
+COVID-19,Uganda,UGA,2023,1
+COVID-19,Uganda,UGA,2024,1
+COVID-19,Uganda,UGA,2025,1
+COVID-19,Ukraine,UKR,2020,1
+COVID-19,Ukraine,UKR,2021,1
+COVID-19,Ukraine,UKR,2022,1
+COVID-19,Ukraine,UKR,2023,1
+COVID-19,Ukraine,UKR,2024,1
+COVID-19,Ukraine,UKR,2025,1
+COVID-19,United Arab Emirates,ARE,2020,1
+COVID-19,United Arab Emirates,ARE,2021,1
+COVID-19,United Arab Emirates,ARE,2022,1
+COVID-19,United Arab Emirates,ARE,2023,1
+COVID-19,United Kingdom of Great Britain and Northern Ireland,GBR,2020,1
+COVID-19,United Kingdom of Great Britain and Northern Ireland,GBR,2021,1
+COVID-19,United Kingdom of Great Britain and Northern Ireland,GBR,2022,1
+COVID-19,United Kingdom of Great Britain and Northern Ireland,GBR,2023,1
+COVID-19,United Kingdom of Great Britain and Northern Ireland,GBR,2024,1
+COVID-19,United Kingdom of Great Britain and Northern Ireland,GBR,2025,1
+COVID-19,United States of America,USA,2020,1
+COVID-19,United States of America,USA,2021,1
+COVID-19,United States of America,USA,2022,1
+COVID-19,United States of America,USA,2023,1
+COVID-19,Uruguay,URY,2020,1
+COVID-19,Uruguay,URY,2021,1
+COVID-19,Uruguay,URY,2022,1
+COVID-19,Uruguay,URY,2023,1
+COVID-19,Uruguay,URY,2024,1
+COVID-19,Uruguay,URY,2025,1
+COVID-19,Uzbekistan,UZB,2020,1
+COVID-19,Uzbekistan,UZB,2021,1
+COVID-19,Uzbekistan,UZB,2022,1
+COVID-19,Uzbekistan,UZB,2023,1
+COVID-19,Uzbekistan,UZB,2024,1
+COVID-19,Uzbekistan,UZB,2025,1
+COVID-19,Vanuatu,VUT,2020,1
+COVID-19,Vanuatu,VUT,2021,1
+COVID-19,Vanuatu,VUT,2022,1
+COVID-19,Vanuatu,VUT,2023,1
+COVID-19,Venezuela (Bolivarian Republic of),VEN,2020,1
+COVID-19,Venezuela (Bolivarian Republic of),VEN,2021,1
+COVID-19,Venezuela (Bolivarian Republic of),VEN,2022,1
+COVID-19,Venezuela (Bolivarian Republic of),VEN,2023,1
+COVID-19,Venezuela (Bolivarian Republic of),VEN,2024,1
+COVID-19,Venezuela (Bolivarian Republic of),VEN,2025,1
+COVID-19,Viet Nam,VNM,2020,1
+COVID-19,Viet Nam,VNM,2021,1
+COVID-19,Viet Nam,VNM,2022,1
+COVID-19,Viet Nam,VNM,2023,1
+COVID-19,Virgin Islands (British),VGB,2020,1
+COVID-19,Virgin Islands (British),VGB,2021,1
+COVID-19,Virgin Islands (British),VGB,2022,1
+COVID-19,Virgin Islands (British),VGB,2023,1
+COVID-19,Virgin Islands (British),VGB,2024,1
+COVID-19,Virgin Islands (British),VGB,2025,1
+COVID-19,Virgin Islands (U.S.),VIR,2020,1
+COVID-19,Virgin Islands (U.S.),VIR,2021,1
+COVID-19,Virgin Islands (U.S.),VIR,2022,1
+COVID-19,Virgin Islands (U.S.),VIR,2023,1
+COVID-19,Wallis and Futuna,WLF,2020,1
+COVID-19,Wallis and Futuna,WLF,2021,1
+COVID-19,Wallis and Futuna,WLF,2022,1
+COVID-19,Wallis and Futuna,WLF,2023,1
+COVID-19,Wallis and Futuna,WLF,2024,1
+COVID-19,Yemen,YEM,2020,1
+COVID-19,Yemen,YEM,2021,1
+COVID-19,Yemen,YEM,2022,1
+COVID-19,Zambia,ZMB,2020,1
+COVID-19,Zambia,ZMB,2021,1
+COVID-19,Zambia,ZMB,2022,1
+COVID-19,Zambia,ZMB,2023,1
+COVID-19,Zambia,ZMB,2024,1
+COVID-19,Zimbabwe,ZWE,2020,1
+COVID-19,Zimbabwe,ZWE,2021,1
+COVID-19,Zimbabwe,ZWE,2022,1
+COVID-19,Zimbabwe,ZWE,2023,1
+COVID-19,Zimbabwe,ZWE,2024,1
+COVID-19,Zimbabwe,ZWE,2025,1
+Chapare virus,Bolivia (Plurinational State of),BOL,2025,1
+Chikungunya mosquito-borne viral fever,Antigua and Barbuda,ATG,2025,1
+Chikungunya mosquito-borne viral fever,Argentina,ARG,2016,1
+Chikungunya mosquito-borne viral fever,Argentina,ARG,2023,1
+Chikungunya mosquito-borne viral fever,Australia,AUS,2025,1
+Chikungunya mosquito-borne viral fever,Bahamas,BHS,2025,1
+Chikungunya mosquito-borne viral fever,Bangladesh,BGD,2025,1
+Chikungunya mosquito-borne viral fever,Belize,BLZ,2025,1
+Chikungunya mosquito-borne viral fever,Bolivia (Plurinational State of),BOL,2023,1
+Chikungunya mosquito-borne viral fever,Bolivia (Plurinational State of),BOL,2025,1
+Chikungunya mosquito-borne viral fever,Brazil,BRA,2023,1
+Chikungunya mosquito-borne viral fever,Canada,CAN,2025,1
+Chikungunya mosquito-borne viral fever,Chad,TCD,2020,1
+Chikungunya mosquito-borne viral fever,Chile,CHL,2025,1
+Chikungunya mosquito-borne viral fever,China,CHN,2025,1
+Chikungunya mosquito-borne viral fever,Colombia,COL,2025,1
+Chikungunya mosquito-borne viral fever,Comoros,COM,2025,1
+Chikungunya mosquito-borne viral fever,Congo,COG,2019,1
+Chikungunya mosquito-borne viral fever,Costa Rica,CRI,2025,1
+Chikungunya mosquito-borne viral fever,Ecuador,ECU,2025,1
+Chikungunya mosquito-borne viral fever,France,FRA,2014,1
+Chikungunya mosquito-borne viral fever,France,FRA,2017,1
+Chikungunya mosquito-borne viral fever,France,FRA,2025,1
+Chikungunya mosquito-borne viral fever,Grenada,GRD,2025,1
+Chikungunya mosquito-borne viral fever,Haiti,HTI,2025,1
+Chikungunya mosquito-borne viral fever,India,IND,2025,1
+Chikungunya mosquito-borne viral fever,Indonesia,IDN,2025,1
+Chikungunya mosquito-borne viral fever,Italy,ITA,2017,1
+Chikungunya mosquito-borne viral fever,Italy,ITA,2025,1
+Chikungunya mosquito-borne viral fever,Japan,JPN,2025,1
+Chikungunya mosquito-borne viral fever,Kenya,KEN,2016,1
+Chikungunya mosquito-borne viral fever,Kenya,KEN,2018,1
+Chikungunya mosquito-borne viral fever,Kenya,KEN,2025,1
+Chikungunya mosquito-borne viral fever,Korea Republic of,KOR,2025,1
+Chikungunya mosquito-borne viral fever,Malaysia,MYS,2025,1
+Chikungunya mosquito-borne viral fever,Mauritius,MUS,2025,1
+Chikungunya mosquito-borne viral fever,Mayotte,MYT,2025,1
+Chikungunya mosquito-borne viral fever,New Caledonia,NCL,2025,1
+Chikungunya mosquito-borne viral fever,Pakistan,PAK,2025,1
+Chikungunya mosquito-borne viral fever,Panama,PAN,2025,1
+Chikungunya mosquito-borne viral fever,Paraguay,PRY,2023,1
+Chikungunya mosquito-borne viral fever,Paraguay,PRY,2025,1
+Chikungunya mosquito-borne viral fever,Peru,PER,2023,1
+Chikungunya mosquito-borne viral fever,Philippines,PHL,2025,1
+Chikungunya mosquito-borne viral fever,RÃ©union,REU,2025,1
+Chikungunya mosquito-borne viral fever,Saint Martin (French part),MAF,2013,1
+Chikungunya mosquito-borne viral fever,Senegal,SEN,2015,1
+Chikungunya mosquito-borne viral fever,Senegal,SEN,2025,1
+Chikungunya mosquito-borne viral fever,Singapore,SGP,2025,1
+Chikungunya mosquito-borne viral fever,Somalia,SOM,2025,1
+Chikungunya mosquito-borne viral fever,Spain,ESP,2015,1
+Chikungunya mosquito-borne viral fever,Sri Lanka,LKA,2025,1
+Chikungunya mosquito-borne viral fever,Sudan,SDN,2018,1
+Chikungunya mosquito-borne viral fever,Thailand,THA,2025,1
+Chikungunya mosquito-borne viral fever,Trinidad and Tobago,TTO,2025,1
+Chikungunya mosquito-borne viral fever,United States of America,USA,2016,1
+Chikungunya mosquito-borne viral fever,United States of America,USA,2025,1
+Cholera,Afghanistan,AFG,2022,1
+Cholera,Afghanistan,AFG,2023,1
+Cholera,Afghanistan,AFG,2025,1
+Cholera,Algeria,DZA,2018,1
+Cholera,Angola,AGO,2025,1
+Cholera,Bangladesh,BGD,2022,1
+Cholera,Bangladesh,BGD,2023,1
+Cholera,Bangladesh,BGD,2025,1
+Cholera,Benin,BEN,2022,1
+Cholera,Burkina Faso,BFA,2022,1
+Cholera,Burundi,BDI,2022,1
+Cholera,Burundi,BDI,2023,1
+Cholera,Burundi,BDI,2025,1
+Cholera,Cameroon,CMR,2010,1
+Cholera,Cameroon,CMR,2018,1
+Cholera,Cameroon,CMR,2021,1
+Cholera,Cameroon,CMR,2022,1
+Cholera,Cameroon,CMR,2023,1
+Cholera,Chad,TCD,2010,1
+Cholera,Chad,TCD,2025,1
+Cholera,China,CHN,2022,1
+Cholera,Congo,COG,2023,1
+Cholera,Congo,COG,2025,1
+Cholera,Congo Democratic Republic of the,COD,2011,1
+Cholera,Congo Democratic Republic of the,COD,2012,1
+Cholera,Congo Democratic Republic of the,COD,2015,1
+Cholera,Congo Democratic Republic of the,COD,2018,1
+Cholera,Congo Democratic Republic of the,COD,2022,1
+Cholera,Congo Democratic Republic of the,COD,2023,1
+Cholera,Congo Democratic Republic of the,COD,2025,1
+Cholera,CÃ´te d'Ivoire,CIV,2025,1
+Cholera,Dominican Republic,DOM,2023,1
+Cholera,Ethiopia,ETH,2022,1
+Cholera,Ethiopia,ETH,2023,1
+Cholera,Ethiopia,ETH,2025,1
+Cholera,Ghana,GHA,2025,1
+Cholera,Haiti,HTI,2010,1
+Cholera,Haiti,HTI,2022,1
+Cholera,Haiti,HTI,2023,1
+Cholera,Haiti,HTI,2025,1
+Cholera,India,IND,2022,1
+Cholera,India,IND,2025,1
+Cholera,Iran (Islamic Republic of),IRN,2022,1
+Cholera,Iraq,IRQ,2015,1
+Cholera,Iraq,IRQ,2022,1
+Cholera,Kenya,KEN,2017,1
+Cholera,Kenya,KEN,2022,1
+Cholera,Kenya,KEN,2023,1
+Cholera,Kenya,KEN,2025,1
+Cholera,Lebanon,LBN,2022,1
+Cholera,Lebanon,LBN,2023,1
+Cholera,Malawi,MWI,2022,1
+Cholera,Malawi,MWI,2023,1
+Cholera,Malawi,MWI,2025,1
+Cholera,Mexico,MEX,2013,1
+Cholera,Mozambique,MOZ,2018,1
+Cholera,Mozambique,MOZ,2022,1
+Cholera,Mozambique,MOZ,2023,1
+Cholera,Mozambique,MOZ,2025,1
+Cholera,Myanmar,MMR,2025,1
+Cholera,Namibia,NAM,2025,1
+Cholera,Nepal,NPL,2022,1
+Cholera,Nepal,NPL,2025,1
+Cholera,Niger,NER,2010,1
+Cholera,Niger,NER,2018,1
+Cholera,Niger,NER,2022,1
+Cholera,Nigeria,NGA,2010,1
+Cholera,Nigeria,NGA,2017,1
+Cholera,Nigeria,NGA,2022,1
+Cholera,Nigeria,NGA,2023,1
+Cholera,Nigeria,NGA,2025,1
+Cholera,Pakistan,PAK,2010,1
+Cholera,Pakistan,PAK,2022,1
+Cholera,Pakistan,PAK,2023,1
+Cholera,Pakistan,PAK,2025,1
+Cholera,Philippines,PHL,2022,1
+Cholera,Philippines,PHL,2023,1
+Cholera,Rwanda,RWA,2025,1
+Cholera,Sierra Leone,SLE,2012,1
+Cholera,Somalia,SOM,2018,1
+Cholera,Somalia,SOM,2022,1
+Cholera,Somalia,SOM,2023,1
+Cholera,Somalia,SOM,2025,1
+Cholera,South Sudan,SSD,2022,1
+Cholera,South Sudan,SSD,2025,1
+Cholera,Sudan,SDN,2019,1
+Cholera,Sudan,SDN,2025,1
+Cholera,Syrian Arab Republic,SYR,2022,1
+Cholera,Syrian Arab Republic,SYR,2023,1
+Cholera,Tanzania United Republic of,TZA,2015,1
+Cholera,Tanzania United Republic of,TZA,2018,1
+Cholera,Tanzania United Republic of,TZA,2022,1
+Cholera,Tanzania United Republic of,TZA,2025,1
+Cholera,Thailand,THA,2025,1
+Cholera,Togo,TGO,2021,1
+Cholera,Togo,TGO,2025,1
+Cholera,Uganda,UGA,2025,1
+Cholera,Yemen,YEM,2022,1
+Cholera,Yemen,YEM,2025,1
+Cholera,Zambia,ZMB,2017,1
+Cholera,Zambia,ZMB,2022,1
+Cholera,Zambia,ZMB,2023,1
+Cholera,Zambia,ZMB,2025,1
+Cholera,Zimbabwe,ZWE,2018,1
+Cholera,Zimbabwe,ZWE,2022,1
+Cholera,Zimbabwe,ZWE,2025,1
+"Coronavirus infection, unspecified site",Congo Democratic Republic of the,COD,2024,1
+Crimean-Congo haemorrhagic fever,Iraq,IRQ,2022,1
+Cutaneous anthrax,Thailand,THA,2025,1
+Cutaneous anthrax,Zambia,ZMB,2023,1
+"Dengue fever, unspecified",Afghanistan,AFG,2019,1
+"Dengue fever, unspecified",Afghanistan,AFG,2024,1
+"Dengue fever, unspecified",Angola,AGO,2024,1
+"Dengue fever, unspecified",Anguilla,AIA,2023,1
+"Dengue fever, unspecified",Antigua and Barbuda,ATG,2023,1
+"Dengue fever, unspecified",Antigua and Barbuda,ATG,2024,1
+"Dengue fever, unspecified",Argentina,ARG,2023,1
+"Dengue fever, unspecified",Argentina,ARG,2024,1
+"Dengue fever, unspecified",Aruba,ABW,2023,1
+"Dengue fever, unspecified",Aruba,ABW,2024,1
+"Dengue fever, unspecified",Australia,AUS,2024,1
+"Dengue fever, unspecified",Bahamas,BHS,2023,1
+"Dengue fever, unspecified",Bahamas,BHS,2024,1
+"Dengue fever, unspecified",Bangladesh,BGD,2022,1
+"Dengue fever, unspecified",Bangladesh,BGD,2023,1
+"Dengue fever, unspecified",Bangladesh,BGD,2024,1
+"Dengue fever, unspecified",Barbados,BRB,2023,1
+"Dengue fever, unspecified",Barbados,BRB,2024,1
+"Dengue fever, unspecified",Belize,BLZ,2023,1
+"Dengue fever, unspecified",Belize,BLZ,2024,1
+"Dengue fever, unspecified",Benin,BEN,2024,1
+"Dengue fever, unspecified",Bermuda,BMU,2023,1
+"Dengue fever, unspecified",Bolivia (Plurinational State of),BOL,2023,1
+"Dengue fever, unspecified",Bolivia (Plurinational State of),BOL,2024,1
+"Dengue fever, unspecified",Bonaire Sint Eustatius and Saba,BES,2024,1
+"Dengue fever, unspecified",Brazil,BRA,2023,1
+"Dengue fever, unspecified",Brazil,BRA,2024,1
+"Dengue fever, unspecified",Burkina Faso,BFA,2016,1
+"Dengue fever, unspecified",Burkina Faso,BFA,2017,1
+"Dengue fever, unspecified",Burkina Faso,BFA,2024,1
+"Dengue fever, unspecified",Cabo Verde,CPV,2023,1
+"Dengue fever, unspecified",Cabo Verde,CPV,2024,1
+"Dengue fever, unspecified",Cambodia,KHM,2024,1
+"Dengue fever, unspecified",Cayman Islands,CYM,2023,1
+"Dengue fever, unspecified",Cayman Islands,CYM,2024,1
+"Dengue fever, unspecified",Chad,TCD,2023,1
+"Dengue fever, unspecified",Chile,CHL,2020,1
+"Dengue fever, unspecified",Chile,CHL,2024,1
+"Dengue fever, unspecified",China,CHN,2024,1
+"Dengue fever, unspecified",Colombia,COL,2023,1
+"Dengue fever, unspecified",Colombia,COL,2024,1
+"Dengue fever, unspecified",Costa Rica,CRI,2023,1
+"Dengue fever, unspecified",Costa Rica,CRI,2024,1
+"Dengue fever, unspecified",Cuba,CUB,2024,1
+"Dengue fever, unspecified",CuraÃ§ao,CUW,2024,1
+"Dengue fever, unspecified",CÃ´te d'Ivoire,CIV,2017,1
+"Dengue fever, unspecified",CÃ´te d'Ivoire,CIV,2023,1
+"Dengue fever, unspecified",CÃ´te d'Ivoire,CIV,2024,1
+"Dengue fever, unspecified",Dominica,DMA,2023,1
+"Dengue fever, unspecified",Dominican Republic,DOM,2023,1
+"Dengue fever, unspecified",Dominican Republic,DOM,2024,1
+"Dengue fever, unspecified",Ecuador,ECU,2023,1
+"Dengue fever, unspecified",Ecuador,ECU,2024,1
+"Dengue fever, unspecified",Egypt,EGY,2015,1
+"Dengue fever, unspecified",El Salvador,SLV,2023,1
+"Dengue fever, unspecified",El Salvador,SLV,2024,1
+"Dengue fever, unspecified",Eritrea,ERI,2024,1
+"Dengue fever, unspecified",Ethiopia,ETH,2023,1
+"Dengue fever, unspecified",Ethiopia,ETH,2024,1
+"Dengue fever, unspecified",Fiji,FJI,2024,1
+"Dengue fever, unspecified",France,FRA,2024,1
+"Dengue fever, unspecified",French Guiana,GUF,2020,1
+"Dengue fever, unspecified",French Guiana,GUF,2023,1
+"Dengue fever, unspecified",French Guiana,GUF,2024,1
+"Dengue fever, unspecified",French Polynesia,PYF,2024,1
+"Dengue fever, unspecified",Ghana,GHA,2024,1
+"Dengue fever, unspecified",Grenada,GRD,2023,1
+"Dengue fever, unspecified",Grenada,GRD,2024,1
+"Dengue fever, unspecified",Guadeloupe,GLP,2020,1
+"Dengue fever, unspecified",Guadeloupe,GLP,2023,1
+"Dengue fever, unspecified",Guadeloupe,GLP,2024,1
+"Dengue fever, unspecified",Guatemala,GTM,2023,1
+"Dengue fever, unspecified",Guatemala,GTM,2024,1
+"Dengue fever, unspecified",Guyana,GUY,2023,1
+"Dengue fever, unspecified",Guyana,GUY,2024,1
+"Dengue fever, unspecified",Honduras,HND,2023,1
+"Dengue fever, unspecified",Honduras,HND,2024,1
+"Dengue fever, unspecified",Iran (Islamic Republic of),IRN,2024,1
+"Dengue fever, unspecified",Jamaica,JAM,2019,1
+"Dengue fever, unspecified",Jamaica,JAM,2023,1
+"Dengue fever, unspecified",Jamaica,JAM,2024,1
+"Dengue fever, unspecified",Kenya,KEN,2024,1
+"Dengue fever, unspecified",Lao People's Democratic Republic,LAO,2024,1
+"Dengue fever, unspecified",Liberia,LBR,2024,1
+"Dengue fever, unspecified",Malaysia,MYS,2024,1
+"Dengue fever, unspecified",Maldives,MDV,2023,1
+"Dengue fever, unspecified",Maldives,MDV,2024,1
+"Dengue fever, unspecified",Mali,MLI,2024,1
+"Dengue fever, unspecified",Martinique,MTQ,2020,1
+"Dengue fever, unspecified",Martinique,MTQ,2023,1
+"Dengue fever, unspecified",Martinique,MTQ,2024,1
+"Dengue fever, unspecified",Mauritania,MRT,2023,1
+"Dengue fever, unspecified",Mauritania,MRT,2024,1
+"Dengue fever, unspecified",Mauritius,MUS,2023,1
+"Dengue fever, unspecified",Mauritius,MUS,2024,1
+"Dengue fever, unspecified",Mayotte,MYT,2020,1
+"Dengue fever, unspecified",Mayotte,MYT,2024,1
+"Dengue fever, unspecified",Mexico,MEX,2023,1
+"Dengue fever, unspecified",Mexico,MEX,2024,1
+"Dengue fever, unspecified",Micronesia (Federated States of),FSM,2024,1
+"Dengue fever, unspecified",Montserrat,MSR,2023,1
+"Dengue fever, unspecified",Montserrat,MSR,2024,1
+"Dengue fever, unspecified",Myanmar,MMR,2024,1
+"Dengue fever, unspecified",Nepal,NPL,2022,1
+"Dengue fever, unspecified",Nepal,NPL,2023,1
+"Dengue fever, unspecified",Nepal,NPL,2024,1
+"Dengue fever, unspecified",New Caledonia,NCL,2024,1
+"Dengue fever, unspecified",Nicaragua,NIC,2023,1
+"Dengue fever, unspecified",Nicaragua,NIC,2024,1
+"Dengue fever, unspecified",Niger,NER,2024,1
+"Dengue fever, unspecified",Pakistan,PAK,2019,1
+"Dengue fever, unspecified",Pakistan,PAK,2021,1
+"Dengue fever, unspecified",Pakistan,PAK,2022,1
+"Dengue fever, unspecified",Pakistan,PAK,2023,1
+"Dengue fever, unspecified",Pakistan,PAK,2024,1
+"Dengue fever, unspecified",Palau,PLW,2024,1
+"Dengue fever, unspecified",Panama,PAN,2023,1
+"Dengue fever, unspecified",Panama,PAN,2024,1
+"Dengue fever, unspecified",Paraguay,PRY,2023,1
+"Dengue fever, unspecified",Paraguay,PRY,2024,1
+"Dengue fever, unspecified",Peru,PER,2023,1
+"Dengue fever, unspecified",Peru,PER,2024,1
+"Dengue fever, unspecified",Portugal,PRT,2012,1
+"Dengue fever, unspecified",Puerto Rico,PRI,2023,1
+"Dengue fever, unspecified",Puerto Rico,PRI,2024,1
+"Dengue fever, unspecified",RÃ©union,REU,2018,1
+"Dengue fever, unspecified",RÃ©union,REU,2019,1
+"Dengue fever, unspecified",RÃ©union,REU,2024,1
+"Dengue fever, unspecified",Saint BarthÃ©lemy,BLM,2020,1
+"Dengue fever, unspecified",Saint BarthÃ©lemy,BLM,2023,1
+"Dengue fever, unspecified",Saint BarthÃ©lemy,BLM,2024,1
+"Dengue fever, unspecified",Saint Kitts and Nevis,KNA,2023,1
+"Dengue fever, unspecified",Saint Kitts and Nevis,KNA,2024,1
+"Dengue fever, unspecified",Saint Lucia,LCA,2023,1
+"Dengue fever, unspecified",Saint Lucia,LCA,2024,1
+"Dengue fever, unspecified",Saint Martin (French part),MAF,2020,1
+"Dengue fever, unspecified",Saint Martin (French part),MAF,2023,1
+"Dengue fever, unspecified",Saint Martin (French part),MAF,2024,1
+"Dengue fever, unspecified",Saint Vincent and the Grenadines,VCT,2023,1
+"Dengue fever, unspecified",Saint Vincent and the Grenadines,VCT,2024,1
+"Dengue fever, unspecified",Samoa,WSM,2024,1
+"Dengue fever, unspecified",Sao Tome and Principe,STP,2022,1
+"Dengue fever, unspecified",Sao Tome and Principe,STP,2023,1
+"Dengue fever, unspecified",Sao Tome and Principe,STP,2024,1
+"Dengue fever, unspecified",Senegal,SEN,2024,1
+"Dengue fever, unspecified",Seychelles,SYC,2023,1
+"Dengue fever, unspecified",Seychelles,SYC,2024,1
+"Dengue fever, unspecified",Singapore,SGP,2024,1
+"Dengue fever, unspecified",Sint Maarten (Dutch part),SXM,2023,1
+"Dengue fever, unspecified",Sint Maarten (Dutch part),SXM,2024,1
+"Dengue fever, unspecified",Solomon Islands,SLB,2024,1
+"Dengue fever, unspecified",Spain,ESP,2019,1
+"Dengue fever, unspecified",Sri Lanka,LKA,2017,1
+"Dengue fever, unspecified",Sri Lanka,LKA,2023,1
+"Dengue fever, unspecified",Sri Lanka,LKA,2024,1
+"Dengue fever, unspecified",Sudan,SDN,2019,1
+"Dengue fever, unspecified",Sudan,SDN,2023,1
+"Dengue fever, unspecified",Sudan,SDN,2024,1
+"Dengue fever, unspecified",Suriname,SUR,2023,1
+"Dengue fever, unspecified",Suriname,SUR,2024,1
+"Dengue fever, unspecified",Thailand,THA,2023,1
+"Dengue fever, unspecified",Thailand,THA,2024,1
+"Dengue fever, unspecified",Timor-Leste,TLS,2022,1
+"Dengue fever, unspecified",Togo,TGO,2023,1
+"Dengue fever, unspecified",Tokelau,TKL,2024,1
+"Dengue fever, unspecified",Tonga,TON,2024,1
+"Dengue fever, unspecified",Trinidad and Tobago,TTO,2023,1
+"Dengue fever, unspecified",Trinidad and Tobago,TTO,2024,1
+"Dengue fever, unspecified",Turks and Caicos Islands,TCA,2023,1
+"Dengue fever, unspecified",Turks and Caicos Islands,TCA,2024,1
+"Dengue fever, unspecified",Tuvalu,TUV,2024,1
+"Dengue fever, unspecified",United States of America,USA,2024,1
+"Dengue fever, unspecified",Uruguay,URY,2016,1
+"Dengue fever, unspecified",Uruguay,URY,2023,1
+"Dengue fever, unspecified",Uruguay,URY,2024,1
+"Dengue fever, unspecified",Vanuatu,VUT,2024,1
+"Dengue fever, unspecified",Venezuela (Bolivarian Republic of),VEN,2023,1
+"Dengue fever, unspecified",Viet Nam,VNM,2024,1
+"Dengue fever, unspecified",Virgin Islands (British),VGB,2023,1
+"Dengue fever, unspecified",Virgin Islands (British),VGB,2024,1
+"Dengue fever, unspecified",Virgin Islands (U.S.),VIR,2024,1
+"Dengue fever, unspecified",Wallis and Futuna,WLF,2024,1
+"Diphtheria, unspecified",Bangladesh,BGD,2017,1
+"Diphtheria, unspecified",Guinea,GIN,2023,1
+"Diphtheria, unspecified",Nigeria,NGA,2023,1
+"Diphtheria, unspecified",Yemen,YEM,2017,1
+Dracunculiasis,Ethiopia,ETH,2020,1
+Ebola disease,Congo Democratic Republic of the,COD,2012,1
+Ebola disease,Congo Democratic Republic of the,COD,2014,1
+Ebola disease,Congo Democratic Republic of the,COD,2017,1
+Ebola disease,Congo Democratic Republic of the,COD,2018,1
+Ebola disease,Congo Democratic Republic of the,COD,2019,1
+Ebola disease,Congo Democratic Republic of the,COD,2020,1
+Ebola disease,Congo Democratic Republic of the,COD,2021,1
+Ebola disease,Congo Democratic Republic of the,COD,2022,1
+Ebola disease,Congo Democratic Republic of the,COD,2025,1
+Ebola disease,Guinea,GIN,2014,1
+Ebola disease,Guinea,GIN,2021,1
+Ebola disease,Italy,ITA,2015,1
+Ebola disease,Liberia,LBR,2014,1
+Ebola disease,Mali,MLI,2014,1
+Ebola disease,Nigeria,NGA,2014,1
+Ebola disease,Senegal,SEN,2014,1
+Ebola disease,Sierra Leone,SLE,2014,1
+Ebola disease,Spain,ESP,2014,1
+Ebola disease,Tanzania United Republic of,TZA,2019,1
+Ebola disease,Uganda,UGA,2011,1
+Ebola disease,Uganda,UGA,2012,1
+Ebola disease,Uganda,UGA,2019,1
+Ebola disease,Uganda,UGA,2022,1
+Ebola disease,Uganda,UGA,2023,1
+Ebola disease,United Kingdom of Great Britain and Northern Ireland,GBR,2014,1
+Ebola disease,United States of America,USA,2014,1
+Enteroviral vesicular stomatitis,Cambodia,KHM,2012,1
+Enterovirus infection of unspecified site,Croatia,HRV,2023,1
+Enterovirus infection of unspecified site,France,FRA,2023,1
+Enterovirus infection of unspecified site,Italy,ITA,2023,1
+Enterovirus infection of unspecified site,Spain,ESP,2023,1
+Enterovirus infection of unspecified site,Sweden,SWE,2023,1
+Enterovirus infection of unspecified site,United Kingdom of Great Britain and Northern Ireland,GBR,2023,1
+Enterovirus infection of unspecified site,United States of America,USA,2014,1
+Escherichia coli,Austria,AUT,2011,1
+Escherichia coli,Denmark,DNK,2011,1
+Escherichia coli,France,FRA,2011,1
+Escherichia coli,Germany,DEU,2011,1
+Escherichia coli,Netherlands,NLD,2011,1
+Escherichia coli,Norway,NOR,2011,1
+Escherichia coli,Sweden,SWE,2011,1
+Escherichia coli,Switzerland,CHE,2011,1
+Escherichia coli,United Kingdom of Great Britain and Northern Ireland,GBR,2011,1
+Escherichia coli,United Kingdom of Great Britain and Northern Ireland,GBR,2016,1
+"Gonococcal infection, unspecified",United Kingdom of Great Britain and Northern Ireland,GBR,2019,1
+Guillain Barre syndrome,Peru,PER,2023,1
+Haemorrhagic fever with renal syndrome,United States of America,USA,2017,1
+Hantavirus pulmonary syndrome,Argentina,ARG,2019,1
+Hantavirus pulmonary syndrome,Panama,PAN,2019,1
+Hantavirus pulmonary syndrome,United States of America,USA,2012,1
+"Human immunodeficiency virus disease without mention of associated disease or condition, clinical stage unspecified",Pakistan,PAK,2019,1
+Human respiratory syncytial virus,China,CHN,2023,1
+"Infection, unspecified",Angola,AGO,2011,1
+"Infection, unspecified",Cambodia,KHM,2012,1
+"Infection, unspecified",Liberia,LBR,2017,1
+"Infection, unspecified",United Kingdom of Great Britain and Northern Ireland,GBR,2023,1
+"Infection, unspecified",United States of America,USA,2016,1
+Infections due to Chlamydia psittaci,Austria,AUT,2024,1
+Infections due to Chlamydia psittaci,Denmark,DNK,2024,1
+Infections due to Chlamydia psittaci,Germany,DEU,2024,1
+Infections due to Chlamydia psittaci,Netherlands,NLD,2024,1
+Infections due to Chlamydia psittaci,Sweden,SWE,2024,1
+Infections due to other Salmonella,Belgium,BEL,2022,1
+Infections due to other Salmonella,France,FRA,2017,1
+Infections due to other Salmonella,France,FRA,2022,1
+Infections due to other Salmonella,Germany,DEU,2022,1
+Infections due to other Salmonella,Ireland,IRL,2022,1
+Infections due to other Salmonella,Luxembourg,LUX,2022,1
+Infections due to other Salmonella,Netherlands,NLD,2022,1
+Infections due to other Salmonella,Norway,NOR,2022,1
+Infections due to other Salmonella,Spain,ESP,2022,1
+Infections due to other Salmonella,Sweden,SWE,2022,1
+Infections due to other Salmonella,United Kingdom of Great Britain and Northern Ireland,GBR,2022,1
+Infections due to other Salmonella,United States of America,USA,2016,1
+Infections due to other Salmonella,United States of America,USA,2022,1
+Influenza due to identified zoonotic or pandemic influenza virus,Angola,AGO,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Argentina,ARG,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Australia,AUS,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Australia,AUS,2024,1
+Influenza due to identified zoonotic or pandemic influenza virus,Bangladesh,BGD,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Bangladesh,BGD,2011,1
+Influenza due to identified zoonotic or pandemic influenza virus,Bangladesh,BGD,2012,1
+Influenza due to identified zoonotic or pandemic influenza virus,Bhutan,BTN,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Bolivia (Plurinational State of),BOL,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Brazil,BRA,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Brazil,BRA,2020,1
+Influenza due to identified zoonotic or pandemic influenza virus,Brazil,BRA,2021,1
+Influenza due to identified zoonotic or pandemic influenza virus,Brazil,BRA,2023,1
+Influenza due to identified zoonotic or pandemic influenza virus,Brazil,BRA,2024,1
+Influenza due to identified zoonotic or pandemic influenza virus,Cambodia,KHM,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Cambodia,KHM,2011,1
+Influenza due to identified zoonotic or pandemic influenza virus,Cambodia,KHM,2012,1
+Influenza due to identified zoonotic or pandemic influenza virus,Cambodia,KHM,2013,1
+Influenza due to identified zoonotic or pandemic influenza virus,Cambodia,KHM,2023,1
+Influenza due to identified zoonotic or pandemic influenza virus,Cambodia,KHM,2024,1
+Influenza due to identified zoonotic or pandemic influenza virus,Cambodia,KHM,2025,1
+Influenza due to identified zoonotic or pandemic influenza virus,Cameroon,CMR,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Canada,CAN,2014,1
+Influenza due to identified zoonotic or pandemic influenza virus,Canada,CAN,2015,1
+Influenza due to identified zoonotic or pandemic influenza virus,Chad,TCD,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Chile,CHL,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Chile,CHL,2023,1
+Influenza due to identified zoonotic or pandemic influenza virus,China,CHN,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,China,CHN,2012,1
+Influenza due to identified zoonotic or pandemic influenza virus,China,CHN,2013,1
+Influenza due to identified zoonotic or pandemic influenza virus,China,CHN,2014,1
+Influenza due to identified zoonotic or pandemic influenza virus,China,CHN,2015,1
+Influenza due to identified zoonotic or pandemic influenza virus,China,CHN,2016,1
+Influenza due to identified zoonotic or pandemic influenza virus,China,CHN,2017,1
+Influenza due to identified zoonotic or pandemic influenza virus,China,CHN,2018,1
+Influenza due to identified zoonotic or pandemic influenza virus,China,CHN,2021,1
+Influenza due to identified zoonotic or pandemic influenza virus,China,CHN,2022,1
+Influenza due to identified zoonotic or pandemic influenza virus,China,CHN,2023,1
+Influenza due to identified zoonotic or pandemic influenza virus,China,CHN,2024,1
+Influenza due to identified zoonotic or pandemic influenza virus,Colombia,COL,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Costa Rica,CRI,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Cuba,CUB,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Cyprus,CYP,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Dominican Republic,DOM,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Ecuador,ECU,2023,1
+Influenza due to identified zoonotic or pandemic influenza virus,Egypt,EGY,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Egypt,EGY,2011,1
+Influenza due to identified zoonotic or pandemic influenza virus,Egypt,EGY,2012,1
+Influenza due to identified zoonotic or pandemic influenza virus,El Salvador,SLV,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Germany,DEU,2022,1
+Influenza due to identified zoonotic or pandemic influenza virus,Ghana,GHA,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Ghana,GHA,2024,1
+Influenza due to identified zoonotic or pandemic influenza virus,Guatemala,GTM,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Guinea,GIN,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Honduras,HND,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Hong Kong,HKG,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Hong Kong,HKG,2012,1
+Influenza due to identified zoonotic or pandemic influenza virus,India,IND,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,India,IND,2021,1
+Influenza due to identified zoonotic or pandemic influenza virus,India,IND,2024,1
+Influenza due to identified zoonotic or pandemic influenza virus,Indonesia,IDN,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Indonesia,IDN,2011,1
+Influenza due to identified zoonotic or pandemic influenza virus,Indonesia,IDN,2012,1
+Influenza due to identified zoonotic or pandemic influenza virus,Italy,ITA,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Jamaica,JAM,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Kenya,KEN,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Korea Republic of,KOR,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Lao People's Democratic Republic,LAO,2020,1
+Influenza due to identified zoonotic or pandemic influenza virus,Malaysia,MYS,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Mali,MLI,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Mauritania,MRT,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Mexico,MEX,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Mexico,MEX,2024,1
+Influenza due to identified zoonotic or pandemic influenza virus,Mexico,MEX,2025,1
+Influenza due to identified zoonotic or pandemic influenza virus,Netherlands,NLD,2018,1
+Influenza due to identified zoonotic or pandemic influenza virus,Netherlands,NLD,2023,1
+Influenza due to identified zoonotic or pandemic influenza virus,New Zealand,NZL,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Nicaragua,NIC,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Niger,NER,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Nigeria,NGA,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Panama,PAN,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Peru,PER,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Philippines,PHL,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Poland,POL,2023,1
+Influenza due to identified zoonotic or pandemic influenza virus,Russian Federation,RUS,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Russian Federation,RUS,2021,1
+Influenza due to identified zoonotic or pandemic influenza virus,Rwanda,RWA,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Sao Tome and Principe,STP,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Senegal,SEN,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Singapore,SGP,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,South Africa,ZAF,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Spain,ESP,2022,1
+Influenza due to identified zoonotic or pandemic influenza virus,Spain,ESP,2024,1
+Influenza due to identified zoonotic or pandemic influenza virus,Sudan,SDN,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Tanzania United Republic of,TZA,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Thailand,THA,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,United Kingdom of Great Britain and Northern Ireland,GBR,2022,1
+Influenza due to identified zoonotic or pandemic influenza virus,United Kingdom of Great Britain and Northern Ireland,GBR,2023,1
+Influenza due to identified zoonotic or pandemic influenza virus,United States of America,USA,2011,1
+Influenza due to identified zoonotic or pandemic influenza virus,United States of America,USA,2021,1
+Influenza due to identified zoonotic or pandemic influenza virus,United States of America,USA,2022,1
+Influenza due to identified zoonotic or pandemic influenza virus,United States of America,USA,2023,1
+Influenza due to identified zoonotic or pandemic influenza virus,United States of America,USA,2024,1
+Influenza due to identified zoonotic or pandemic influenza virus,Uruguay,URY,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Venezuela (Bolivarian Republic of),VEN,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Viet Nam,VNM,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Viet Nam,VNM,2012,1
+Influenza due to identified zoonotic or pandemic influenza virus,Viet Nam,VNM,2024,1
+"Influenza with other manifestations, seasonal influenza virus identified",China,CHN,2023,1
+"Influenza with other manifestations, seasonal influenza virus identified",China,CHN,2025,1
+"Influenza with other manifestations, seasonal influenza virus identified",Congo Democratic Republic of the,COD,2024,1
+Intestinal infections due to Shigella,Congo,COG,2023,1
+Intestinal infections due to Shigella,Denmark,DNK,2022,1
+Intestinal infections due to Shigella,Spain,ESP,2022,1
+Intestinal infections due to Shigella,United Kingdom of Great Britain and Northern Ireland,GBR,2022,1
+Japanese encephalitis virus disease,Australia,AUS,2022,1
+Lassa fever,Benin,BEN,2016,1
+Lassa fever,Benin,BEN,2017,1
+Lassa fever,Burkina Faso,BFA,2017,1
+Lassa fever,Germany,DEU,2016,1
+Lassa fever,Guinea,GIN,2022,1
+Lassa fever,Liberia,LBR,2016,1
+Lassa fever,Liberia,LBR,2018,1
+Lassa fever,Netherlands,NLD,2019,1
+Lassa fever,Nigeria,NGA,2012,1
+Lassa fever,Nigeria,NGA,2016,1
+Lassa fever,Nigeria,NGA,2017,1
+Lassa fever,Nigeria,NGA,2018,1
+Lassa fever,Nigeria,NGA,2019,1
+Lassa fever,Nigeria,NGA,2020,1
+Lassa fever,Nigeria,NGA,2022,1
+Lassa fever,Nigeria,NGA,2023,1
+Lassa fever,Sweden,SWE,2016,1
+Lassa fever,Togo,TGO,2016,1
+Lassa fever,Togo,TGO,2017,1
+Lassa fever,Togo,TGO,2022,1
+Lassa fever,United Kingdom of Great Britain and Northern Ireland,GBR,2022,1
+Lassa fever,United States of America,USA,2015,1
+Legionnaires disease,Argentina,ARG,2022,1
+Legionnaires disease,Poland,POL,2023,1
+Legionnaires disease,Portugal,PRT,2014,1
+"Leptospirosis, unspecified",Tanzania United Republic of,TZA,2022,1
+"Listeriosis, unspecified",Australia,AUS,2018,1
+"Listeriosis, unspecified",South Africa,ZAF,2018,1
+"Listeriosis, unspecified",Spain,ESP,2019,1
+"Malaria due to Plasmodium falciparum, unspecified",Congo Democratic Republic of the,COD,2024,1
+"Malaria due to Plasmodium falciparum, unspecified",Ethiopia,ETH,2024,1
+"Malaria due to Plasmodium falciparum, unspecified",Pakistan,PAK,2022,1
+Malaria due to Plasmodium vivax with other complications,Pakistan,PAK,2022,1
+Marburg disease,Equatorial Guinea,GNQ,2023,1
+Marburg disease,Ghana,GHA,2022,1
+Marburg disease,Guinea,GIN,2021,1
+Marburg disease,Rwanda,RWA,2024,1
+Marburg disease,Tanzania United Republic of,TZA,2023,1
+Marburg disease,Tanzania United Republic of,TZA,2025,1
+Marburg disease,Uganda,UGA,2014,1
+Marburg disease,Uganda,UGA,2017,1
+Measles,Afghanistan,AFG,2022,1
+Measles,American Samoa,ASM,2019,1
+Measles,Argentina,ARG,2025,1
+Measles,Australia,AUS,2019,1
+Measles,Bangladesh,BGD,2019,1
+Measles,Belize,BLZ,2025,1
+Measles,Bosnia and Herzegovina,BIH,2015,1
+Measles,Brazil,BRA,2011,1
+Measles,Brazil,BRA,2015,1
+Measles,Brazil,BRA,2018,1
+Measles,Brazil,BRA,2019,1
+Measles,Brazil,BRA,2025,1
+Measles,Burundi,BDI,2020,1
+Measles,Canada,CAN,2011,1
+Measles,Canada,CAN,2015,1
+Measles,Canada,CAN,2025,1
+Measles,Central African Republic,CAF,2020,1
+Measles,Chad,TCD,2019,1
+Measles,Chile,CHL,2011,1
+Measles,Chile,CHL,2015,1
+Measles,Chile,CHL,2023,1
+Measles,China,CHN,2019,1
+Measles,Colombia,COL,2011,1
+Measles,Colombia,COL,2019,1
+Measles,Congo Democratic Republic of the,COD,2011,1
+Measles,Congo Democratic Republic of the,COD,2019,1
+Measles,Croatia,HRV,2015,1
+Measles,Ecuador,ECU,2011,1
+Measles,Ethiopia,ETH,2011,1
+Measles,Ethiopia,ETH,2023,1
+Measles,Fiji,FJI,2019,1
+Measles,France,FRA,2011,1
+Measles,France,FRA,2019,1
+Measles,Georgia,GEO,2015,1
+Measles,Georgia,GEO,2019,1
+Measles,Germany,DEU,2011,1
+Measles,Germany,DEU,2015,1
+Measles,Greece,GRC,2019,1
+Measles,Guinea,GIN,2019,1
+Measles,Hong Kong,HKG,2019,1
+Measles,Indonesia,IDN,2023,1
+Measles,Iraq,IRQ,2019,1
+Measles,Israel,ISR,2019,1
+Measles,Italy,ITA,2015,1
+Measles,Japan,JPN,2018,1
+Measles,Japan,JPN,2019,1
+Measles,Kazakhstan,KAZ,2015,1
+Measles,Kazakhstan,KAZ,2019,1
+Measles,Korea Republic of,KOR,2019,1
+Measles,Kyrgyzstan,KGZ,2011,1
+Measles,Kyrgyzstan,KGZ,2015,1
+Measles,Kyrgyzstan,KGZ,2019,1
+Measles,Lebanon,LBN,2019,1
+Measles,Macao,MAC,2019,1
+Measles,Madagascar,MDG,2019,1
+Measles,Malaysia,MYS,2019,1
+Measles,Mexico,MEX,2011,1
+Measles,Mexico,MEX,2015,1
+Measles,Mexico,MEX,2020,1
+Measles,Mexico,MEX,2025,1
+Measles,Morocco,MAR,2025,1
+Measles,Myanmar,MMR,2019,1
+Measles,Nepal,NPL,2023,1
+Measles,New Zealand,NZL,2019,1
+Measles,Nigeria,NGA,2011,1
+Measles,Nigeria,NGA,2019,1
+Measles,North Macedonia,MKD,2011,1
+Measles,Pakistan,PAK,2019,1
+Measles,Palestine State of,PSE,2020,1
+Measles,Paraguay,PRY,2023,1
+Measles,Philippines,PHL,2019,1
+Measles,Romania,ROU,2011,1
+Measles,Russian Federation,RUS,2015,1
+Measles,Russian Federation,RUS,2019,1
+Measles,Samoa,WSM,2019,1
+Measles,Serbia,SRB,2015,1
+Measles,Serbia,SRB,2019,1
+Measles,Somalia,SOM,2019,1
+Measles,Somalia,SOM,2022,1
+Measles,South Africa,ZAF,2023,1
+Measles,South Sudan,SSD,2023,1
+Measles,Sudan,SDN,2019,1
+Measles,Tonga,TON,2019,1
+Measles,Tunisia,TUN,2019,1
+Measles,Turkey,TUR,2019,1
+Measles,Ukraine,UKR,2019,1
+Measles,United Kingdom of Great Britain and Northern Ireland,GBR,2011,1
+Measles,United States of America,USA,2011,1
+Measles,United States of America,USA,2015,1
+Measles,United States of America,USA,2019,1
+Measles,United States of America,USA,2025,1
+Measles,Venezuela (Bolivarian Republic of),VEN,2019,1
+Measles,Viet Nam,VNM,2019,1
+Measles,Yemen,YEM,2019,1
+Measles,Zambia,ZMB,2011,1
+Meningococcal meningitis,Benin,BEN,2012,1
+Meningococcal meningitis,Benin,BEN,2013,1
+Meningococcal meningitis,Burkina Faso,BFA,2012,1
+Meningococcal meningitis,Burkina Faso,BFA,2013,1
+Meningococcal meningitis,Central African Republic,CAF,2012,1
+Meningococcal meningitis,Chad,TCD,2010,1
+Meningococcal meningitis,Chad,TCD,2011,1
+Meningococcal meningitis,Chad,TCD,2012,1
+Meningococcal meningitis,CÃ´te d'Ivoire,CIV,2012,1
+Meningococcal meningitis,Gambia,GMB,2012,1
+Meningococcal meningitis,Ghana,GHA,2012,1
+Meningococcal meningitis,Guinea,GIN,2013,1
+Meningococcal meningitis,Liberia,LBR,2017,1
+Meningococcal meningitis,Mali,MLI,2012,1
+Meningococcal meningitis,Niger,NER,2015,1
+Meningococcal meningitis,Nigeria,NGA,2012,1
+Meningococcal meningitis,Nigeria,NGA,2013,1
+Meningococcal meningitis,Nigeria,NGA,2015,1
+Meningococcal meningitis,Nigeria,NGA,2017,1
+Meningococcal meningitis,Saudi Arabia,SAU,2025,1
+Meningococcal meningitis,South Sudan,SSD,2013,1
+Meningococcal meningitis,Sudan,SDN,2012,1
+Meningococcal meningitis,Togo,TGO,2017,1
+Middle East respiratory syndrome,Algeria,DZA,2014,1
+Middle East respiratory syndrome,Austria,AUT,2014,1
+Middle East respiratory syndrome,Austria,AUT,2016,1
+Middle East respiratory syndrome,Bahrain,BHR,2016,1
+Middle East respiratory syndrome,China,CHN,2015,1
+Middle East respiratory syndrome,Egypt,EGY,2014,1
+Middle East respiratory syndrome,France,FRA,2013,1
+Middle East respiratory syndrome,Germany,DEU,2013,1
+Middle East respiratory syndrome,Germany,DEU,2015,1
+Middle East respiratory syndrome,Greece,GRC,2014,1
+Middle East respiratory syndrome,Iran (Islamic Republic of),IRN,2014,1
+Middle East respiratory syndrome,Iran (Islamic Republic of),IRN,2015,1
+Middle East respiratory syndrome,Italy,ITA,2013,1
+Middle East respiratory syndrome,Jordan,JOR,2013,1
+Middle East respiratory syndrome,Jordan,JOR,2014,1
+Middle East respiratory syndrome,Jordan,JOR,2015,1
+Middle East respiratory syndrome,Korea Republic of,KOR,2015,1
+Middle East respiratory syndrome,Korea Republic of,KOR,2018,1
+Middle East respiratory syndrome,Kuwait,KWT,2013,1
+Middle East respiratory syndrome,Kuwait,KWT,2015,1
+Middle East respiratory syndrome,Lebanon,LBN,2014,1
+Middle East respiratory syndrome,Lebanon,LBN,2017,1
+Middle East respiratory syndrome,Malaysia,MYS,2014,1
+Middle East respiratory syndrome,Malaysia,MYS,2018,1
+Middle East respiratory syndrome,Netherlands,NLD,2014,1
+Middle East respiratory syndrome,Oman,OMN,2013,1
+Middle East respiratory syndrome,Oman,OMN,2015,1
+Middle East respiratory syndrome,Oman,OMN,2016,1
+Middle East respiratory syndrome,Oman,OMN,2017,1
+Middle East respiratory syndrome,Oman,OMN,2018,1
+Middle East respiratory syndrome,Oman,OMN,2019,1
+Middle East respiratory syndrome,Oman,OMN,2022,1
+Middle East respiratory syndrome,Oman,OMN,2023,1
+Middle East respiratory syndrome,Philippines,PHL,2015,1
+Middle East respiratory syndrome,Qatar,QAT,2013,1
+Middle East respiratory syndrome,Qatar,QAT,2014,1
+Middle East respiratory syndrome,Qatar,QAT,2015,1
+Middle East respiratory syndrome,Qatar,QAT,2016,1
+Middle East respiratory syndrome,Qatar,QAT,2017,1
+Middle East respiratory syndrome,Qatar,QAT,2019,1
+Middle East respiratory syndrome,Qatar,QAT,2020,1
+Middle East respiratory syndrome,Qatar,QAT,2022,1
+Middle East respiratory syndrome,Saudi Arabia,SAU,2013,1
+Middle East respiratory syndrome,Saudi Arabia,SAU,2014,1
+Middle East respiratory syndrome,Saudi Arabia,SAU,2015,1
+Middle East respiratory syndrome,Saudi Arabia,SAU,2016,1
+Middle East respiratory syndrome,Saudi Arabia,SAU,2017,1
+Middle East respiratory syndrome,Saudi Arabia,SAU,2018,1
+Middle East respiratory syndrome,Saudi Arabia,SAU,2019,1
+Middle East respiratory syndrome,Saudi Arabia,SAU,2020,1
+Middle East respiratory syndrome,Saudi Arabia,SAU,2021,1
+Middle East respiratory syndrome,Saudi Arabia,SAU,2022,1
+Middle East respiratory syndrome,Saudi Arabia,SAU,2023,1
+Middle East respiratory syndrome,Saudi Arabia,SAU,2024,1
+Middle East respiratory syndrome,Saudi Arabia,SAU,2025,1
+Middle East respiratory syndrome,Spain,ESP,2013,1
+Middle East respiratory syndrome,Thailand,THA,2015,1
+Middle East respiratory syndrome,Thailand,THA,2016,1
+Middle East respiratory syndrome,Tunisia,TUN,2013,1
+Middle East respiratory syndrome,Turkey,TUR,2014,1
+Middle East respiratory syndrome,United Arab Emirates,ARE,2013,1
+Middle East respiratory syndrome,United Arab Emirates,ARE,2014,1
+Middle East respiratory syndrome,United Arab Emirates,ARE,2015,1
+Middle East respiratory syndrome,United Arab Emirates,ARE,2016,1
+Middle East respiratory syndrome,United Arab Emirates,ARE,2017,1
+Middle East respiratory syndrome,United Arab Emirates,ARE,2018,1
+Middle East respiratory syndrome,United Arab Emirates,ARE,2019,1
+Middle East respiratory syndrome,United Arab Emirates,ARE,2020,1
+Middle East respiratory syndrome,United Arab Emirates,ARE,2021,1
+Middle East respiratory syndrome,United Arab Emirates,ARE,2023,1
+Middle East respiratory syndrome,United Kingdom of Great Britain and Northern Ireland,GBR,2012,1
+Middle East respiratory syndrome,United Kingdom of Great Britain and Northern Ireland,GBR,2013,1
+Middle East respiratory syndrome,United Kingdom of Great Britain and Northern Ireland,GBR,2018,1
+Middle East respiratory syndrome,United States of America,USA,2014,1
+Middle East respiratory syndrome,Yemen,YEM,2014,1
+Monkeypox,Argentina,ARG,2022,1
+Monkeypox,Australia,AUS,2022,1
+Monkeypox,Austria,AUT,2022,1
+Monkeypox,Belgium,BEL,2022,1
+Monkeypox,Benin,BEN,2022,1
+Monkeypox,Brazil,BRA,2022,1
+Monkeypox,Burundi,BDI,2024,1
+Monkeypox,Cameroon,CMR,2018,1
+Monkeypox,Cameroon,CMR,2022,1
+Monkeypox,Canada,CAN,2022,1
+Monkeypox,Central African Republic,CAF,2016,1
+Monkeypox,Central African Republic,CAF,2022,1
+Monkeypox,Congo,COG,2022,1
+Monkeypox,Congo Democratic Republic of the,COD,2020,1
+Monkeypox,Congo Democratic Republic of the,COD,2022,1
+Monkeypox,Congo Democratic Republic of the,COD,2023,1
+Monkeypox,Congo Democratic Republic of the,COD,2024,1
+Monkeypox,Costa Rica,CRI,2022,1
+Monkeypox,Czechia,CZE,2022,1
+Monkeypox,CÃ´te d'Ivoire,CIV,2024,1
+Monkeypox,Denmark,DNK,2022,1
+Monkeypox,Finland,FIN,2022,1
+Monkeypox,France,FRA,2022,1
+Monkeypox,French Guiana,GUF,2022,1
+Monkeypox,Georgia,GEO,2022,1
+Monkeypox,Germany,DEU,2022,1
+Monkeypox,Ghana,GHA,2022,1
+Monkeypox,Gibraltar,GIB,2022,1
+Monkeypox,Greece,GRC,2022,1
+Monkeypox,Hungary,HUN,2022,1
+Monkeypox,Iceland,ISL,2022,1
+Monkeypox,Ireland,IRL,2022,1
+Monkeypox,Israel,ISR,2022,1
+Monkeypox,Italy,ITA,2022,1
+Monkeypox,Kenya,KEN,2024,1
+Monkeypox,Korea Republic of,KOR,2022,1
+Monkeypox,Latvia,LVA,2022,1
+Monkeypox,Lebanon,LBN,2022,1
+Monkeypox,Luxembourg,LUX,2022,1
+Monkeypox,Malta,MLT,2022,1
+Monkeypox,Mexico,MEX,2022,1
+Monkeypox,Morocco,MAR,2022,1
+Monkeypox,Netherlands,NLD,2022,1
+Monkeypox,Nigeria,NGA,2017,1
+Monkeypox,Nigeria,NGA,2018,1
+Monkeypox,Nigeria,NGA,2022,1
+Monkeypox,Norway,NOR,2022,1
+Monkeypox,Poland,POL,2022,1
+Monkeypox,Portugal,PRT,2022,1
+Monkeypox,Romania,ROU,2022,1
+Monkeypox,Rwanda,RWA,2024,1
+Monkeypox,Serbia,SRB,2022,1
+Monkeypox,Singapore,SGP,2019,1
+Monkeypox,Singapore,SGP,2022,1
+Monkeypox,Slovakia,SVK,2022,1
+Monkeypox,Slovenia,SVN,2022,1
+Monkeypox,South Africa,ZAF,2022,1
+Monkeypox,South Africa,ZAF,2024,1
+Monkeypox,Spain,ESP,2022,1
+Monkeypox,Sudan,SDN,2022,1
+Monkeypox,Sweden,SWE,2022,1
+Monkeypox,Sweden,SWE,2024,1
+Monkeypox,Switzerland,CHE,2022,1
+Monkeypox,Uganda,UGA,2024,1
+Monkeypox,United Arab Emirates,ARE,2022,1
+Monkeypox,United Kingdom of Great Britain and Northern Ireland,GBR,2021,1
+Monkeypox,United Kingdom of Great Britain and Northern Ireland,GBR,2022,1
+Monkeypox,United States of America,USA,2021,1
+Monkeypox,United States of America,USA,2022,1
+Monkeypox,Venezuela (Bolivarian Republic of),VEN,2022,1
+Oropouche virus disease,Bolivia (Plurinational State of),BOL,2024,1
+Oropouche virus disease,Brazil,BRA,2024,1
+Oropouche virus disease,Canada,CAN,2024,1
+Oropouche virus disease,Cayman Islands,CYM,2024,1
+Oropouche virus disease,Colombia,COL,2024,1
+Oropouche virus disease,Cuba,CUB,2024,1
+Oropouche virus disease,Ecuador,ECU,2024,1
+Oropouche virus disease,French Guiana,GUF,2020,1
+Oropouche virus disease,Guyana,GUY,2024,1
+Oropouche virus disease,Panama,PAN,2024,1
+Oropouche virus disease,Peru,PER,2016,1
+Oropouche virus disease,Peru,PER,2024,1
+Oropouche virus disease,United States of America,USA,2024,1
+"Plague, unspecified",Congo Democratic Republic of the,COD,2020,1
+"Plague, unspecified",Madagascar,MDG,2014,1
+"Plague, unspecified",Madagascar,MDG,2015,1
+"Plague, unspecified",Madagascar,MDG,2017,1
+"Plague, unspecified",Madagascar,MDG,2021,1
+"Plague, unspecified",Peru,PER,2010,1
+"Plague, unspecified",Seychelles,SYC,2017,1
+Pneumonia due to Adenovirus,Congo Democratic Republic of the,COD,2024,1
+Pneumonia due to Human metapneumovirus,China,CHN,2025,1
+Pneumonia due to Mycoplasma pneumoniae,China,CHN,2023,1
+Pneumonia due to Respiratory syncytial virus,China,CHN,2025,1
+Pneumonia due to parainfluenza virus,Congo Democratic Republic of the,COD,2024,1
+Pseudomonas aeruginosa,Mexico,MEX,2019,1
+"Rabies, unspecified",Timor-Leste,TLS,2025,1
+Rift Valley fever,China,CHN,2016,1
+Rift Valley fever,France,FRA,2019,1
+Rift Valley fever,Gambia,GMB,2018,1
+Rift Valley fever,Kenya,KEN,2018,1
+Rift Valley fever,Kenya,KEN,2021,1
+Rift Valley fever,Mauritania,MRT,2012,1
+Rift Valley fever,Mauritania,MRT,2020,1
+Rift Valley fever,Mauritania,MRT,2022,1
+Rift Valley fever,Niger,NER,2016,1
+Rift Valley fever,South Africa,ZAF,2010,1
+Rift Valley fever,Sudan,SDN,2019,1
+Scarlet fever,France,FRA,2022,1
+Scarlet fever,United Kingdom of Great Britain and Northern Ireland,GBR,2022,1
+"Sepsis due to streptococcus, group A",France,FRA,2022,1
+"Sepsis due to streptococcus, group A",Ireland,IRL,2022,1
+"Sepsis due to streptococcus, group A",Netherlands,NLD,2022,1
+"Sepsis due to streptococcus, group A",Sweden,SWE,2022,1
+"Sepsis due to streptococcus, group A",United Kingdom of Great Britain and Northern Ireland,GBR,2022,1
+Severe acute respiratory syndrome,China,CHN,2023,1
+Severe acute respiratory syndrome,Congo Democratic Republic of the,COD,2024,1
+Severe acute respiratory syndrome,Korea Republic of,KOR,2015,1
+Shigellosis due to Shigella dysenteriae,Congo,COG,2023,1
+Sudan virus disease,Uganda,UGA,2025,1
+Typhoid fever,Congo,COG,2023,1
+Typhoid fever,Pakistan,PAK,2018,1
+Typhoid fever,Uganda,UGA,2015,1
+Unspecified viral disease,Bangladesh,BGD,2023,1
+Unspecified viral disease,Bangladesh,BGD,2024,1
+Unspecified viral disease,Bangladesh,BGD,2025,1
+Unspecified viral disease,Congo Democratic Republic of the,COD,2024,1
+Unspecified viral disease,India,IND,2018,1
+Unspecified viral disease,India,IND,2021,1
+Unspecified viral disease,India,IND,2023,1
+Unspecified viral disease,India,IND,2025,1
+Unspecified viral haemorrhagic fever,Congo,COG,2010,1
+Unspecified viral haemorrhagic fever,Pakistan,PAK,2010,1
+Unspecified viral haemorrhagic fever,South Sudan,SSD,2016,1
+Unspecified viral haemorrhagic fever,Uganda,UGA,2012,1
+Urban rabies,Timor-Leste,TLS,2024,1
+"Viral meningitis not elsewhere classified, unspecified",Congo Democratic Republic of the,COD,2021,1
+Viral pneumonia,China,CHN,2020,1
+West Nile virus infection,Albania,ALB,2011,1
+West Nile virus infection,Barbados,BRB,2024,1
+West Nile virus infection,Brazil,BRA,2014,1
+West Nile virus infection,Greece,GRC,2011,1
+West Nile virus infection,Israel,ISR,2011,1
+West Nile virus infection,Portugal,PRT,2015,1
+West Nile virus infection,Romania,ROU,2011,1
+West Nile virus infection,Russian Federation,RUS,2011,1
+Western equine encephalitis,Argentina,ARG,2023,1
+Western equine encephalitis,Uruguay,URY,2024,1
+"Yellow fever, unspecified",Angola,AGO,2016,1
+"Yellow fever, unspecified",Bolivia (Plurinational State of),BOL,2025,1
+"Yellow fever, unspecified",Brazil,BRA,2017,1
+"Yellow fever, unspecified",Brazil,BRA,2018,1
+"Yellow fever, unspecified",Brazil,BRA,2019,1
+"Yellow fever, unspecified",Brazil,BRA,2025,1
+"Yellow fever, unspecified",Burkina Faso,BFA,2024,1
+"Yellow fever, unspecified",Cameroon,CMR,2010,1
+"Yellow fever, unspecified",Cameroon,CMR,2012,1
+"Yellow fever, unspecified",Cameroon,CMR,2013,1
+"Yellow fever, unspecified",Cameroon,CMR,2021,1
+"Yellow fever, unspecified",Cameroon,CMR,2022,1
+"Yellow fever, unspecified",Cameroon,CMR,2023,1
+"Yellow fever, unspecified",Cameroon,CMR,2024,1
+"Yellow fever, unspecified",Central African Republic,CAF,2021,1
+"Yellow fever, unspecified",Central African Republic,CAF,2022,1
+"Yellow fever, unspecified",Central African Republic,CAF,2023,1
+"Yellow fever, unspecified",Central African Republic,CAF,2024,1
+"Yellow fever, unspecified",Chad,TCD,2013,1
+"Yellow fever, unspecified",Chad,TCD,2021,1
+"Yellow fever, unspecified",Chad,TCD,2022,1
+"Yellow fever, unspecified",Chad,TCD,2023,1
+"Yellow fever, unspecified",Chad,TCD,2024,1
+"Yellow fever, unspecified",China,CHN,2016,1
+"Yellow fever, unspecified",Colombia,COL,2025,1
+"Yellow fever, unspecified",Congo,COG,2012,1
+"Yellow fever, unspecified",Congo,COG,2018,1
+"Yellow fever, unspecified",Congo,COG,2021,1
+"Yellow fever, unspecified",Congo,COG,2022,1
+"Yellow fever, unspecified",Congo,COG,2023,1
+"Yellow fever, unspecified",Congo,COG,2024,1
+"Yellow fever, unspecified",Congo Democratic Republic of the,COD,2010,1
+"Yellow fever, unspecified",Congo Democratic Republic of the,COD,2013,1
+"Yellow fever, unspecified",Congo Democratic Republic of the,COD,2014,1
+"Yellow fever, unspecified",Congo Democratic Republic of the,COD,2016,1
+"Yellow fever, unspecified",Congo Democratic Republic of the,COD,2021,1
+"Yellow fever, unspecified",Congo Democratic Republic of the,COD,2022,1
+"Yellow fever, unspecified",Congo Democratic Republic of the,COD,2023,1
+"Yellow fever, unspecified",Congo Democratic Republic of the,COD,2024,1
+"Yellow fever, unspecified",CÃ´te d'Ivoire,CIV,2010,1
+"Yellow fever, unspecified",CÃ´te d'Ivoire,CIV,2011,1
+"Yellow fever, unspecified",CÃ´te d'Ivoire,CIV,2021,1
+"Yellow fever, unspecified",CÃ´te d'Ivoire,CIV,2022,1
+"Yellow fever, unspecified",CÃ´te d'Ivoire,CIV,2023,1
+"Yellow fever, unspecified",CÃ´te d'Ivoire,CIV,2024,1
+"Yellow fever, unspecified",Ecuador,ECU,2025,1
+"Yellow fever, unspecified",Ethiopia,ETH,2020,1
+"Yellow fever, unspecified",France,FRA,2017,1
+"Yellow fever, unspecified",France,FRA,2018,1
+"Yellow fever, unspecified",French Guiana,GUF,2020,1
+"Yellow fever, unspecified",Gabon,GAB,2020,1
+"Yellow fever, unspecified",Ghana,GHA,2012,1
+"Yellow fever, unspecified",Ghana,GHA,2021,1
+"Yellow fever, unspecified",Ghana,GHA,2022,1
+"Yellow fever, unspecified",Ghana,GHA,2023,1
+"Yellow fever, unspecified",Guinea,GIN,2010,1
+"Yellow fever, unspecified",Guinea,GIN,2020,1
+"Yellow fever, unspecified",Guinea,GIN,2024,1
+"Yellow fever, unspecified",Kenya,KEN,2016,1
+"Yellow fever, unspecified",Kenya,KEN,2022,1
+"Yellow fever, unspecified",Kenya,KEN,2023,1
+"Yellow fever, unspecified",Mali,MLI,2019,1
+"Yellow fever, unspecified",Netherlands,NLD,2018,1
+"Yellow fever, unspecified",Niger,NER,2021,1
+"Yellow fever, unspecified",Niger,NER,2022,1
+"Yellow fever, unspecified",Niger,NER,2023,1
+"Yellow fever, unspecified",Niger,NER,2024,1
+"Yellow fever, unspecified",Nigeria,NGA,2017,1
+"Yellow fever, unspecified",Nigeria,NGA,2019,1
+"Yellow fever, unspecified",Nigeria,NGA,2020,1
+"Yellow fever, unspecified",Nigeria,NGA,2021,1
+"Yellow fever, unspecified",Nigeria,NGA,2022,1
+"Yellow fever, unspecified",Nigeria,NGA,2023,1
+"Yellow fever, unspecified",Nigeria,NGA,2024,1
+"Yellow fever, unspecified",Peru,PER,2025,1
+"Yellow fever, unspecified",Senegal,SEN,2010,1
+"Yellow fever, unspecified",Senegal,SEN,2011,1
+"Yellow fever, unspecified",Senegal,SEN,2020,1
+"Yellow fever, unspecified",Sierra Leone,SLE,2011,1
+"Yellow fever, unspecified",Sierra Leone,SLE,2022,1
+"Yellow fever, unspecified",Sierra Leone,SLE,2023,1
+"Yellow fever, unspecified",South Sudan,SSD,2020,1
+"Yellow fever, unspecified",South Sudan,SSD,2024,1
+"Yellow fever, unspecified",Sudan,SDN,2012,1
+"Yellow fever, unspecified",Sudan,SDN,2013,1
+"Yellow fever, unspecified",Suriname,SUR,2017,1
+"Yellow fever, unspecified",Togo,TGO,2020,1
+"Yellow fever, unspecified",Togo,TGO,2024,1
+"Yellow fever, unspecified",Uganda,UGA,2011,1
+"Yellow fever, unspecified",Uganda,UGA,2016,1
+"Yellow fever, unspecified",Uganda,UGA,2020,1
+"Yellow fever, unspecified",Uganda,UGA,2022,1
+"Yellow fever, unspecified",Uganda,UGA,2023,1
+"Yellow fever, unspecified",Uganda,UGA,2024,1
+"Yellow fever, unspecified",Venezuela (Bolivarian Republic of),VEN,2019,1
+"Yellow fever, unspecified",Venezuela (Bolivarian Republic of),VEN,2021,1
+Zika virus disease,Barbados,BRB,2016,1
+Zika virus disease,Bolivia (Plurinational State of),BOL,2016,1
+Zika virus disease,Brazil,BRA,2015,1
+Zika virus disease,Cabo Verde,CPV,2015,1
+Zika virus disease,Chile,CHL,2016,1
+Zika virus disease,Colombia,COL,2015,1
+Zika virus disease,Costa Rica,CRI,2016,1
+Zika virus disease,Cuba,CUB,2016,1
+Zika virus disease,CuraÃ§ao,CUW,2016,1
+Zika virus disease,Dominica,DMA,2016,1
+Zika virus disease,Dominican Republic,DOM,2016,1
+Zika virus disease,Ecuador,ECU,2016,1
+Zika virus disease,El Salvador,SLV,2015,1
+Zika virus disease,France,FRA,2016,1
+Zika virus disease,France,FRA,2019,1
+Zika virus disease,Guatemala,GTM,2015,1
+Zika virus disease,Guyana,GUY,2016,1
+Zika virus disease,Haiti,HTI,2016,1
+Zika virus disease,Honduras,HND,2015,1
+Zika virus disease,India,IND,2017,1
+Zika virus disease,India,IND,2021,1
+Zika virus disease,India,IND,2025,1
+Zika virus disease,Jamaica,JAM,2016,1
+Zika virus disease,Maldives,MDV,2016,1
+Zika virus disease,Mexico,MEX,2015,1
+Zika virus disease,Netherlands,NLD,2016,1
+Zika virus disease,Nicaragua,NIC,2016,1
+Zika virus disease,Panama,PAN,2015,1
+Zika virus disease,Papua New Guinea,PNG,2016,1
+Zika virus disease,Paraguay,PRY,2015,1
+Zika virus disease,Peru,PER,2016,1
+Zika virus disease,Saint Lucia,LCA,2016,1
+Zika virus disease,Saint Vincent and the Grenadines,VCT,2016,1
+Zika virus disease,Suriname,SUR,2015,1
+Zika virus disease,Trinidad and Tobago,TTO,2016,1
+Zika virus disease,United States of America,USA,2016,1
+Zika virus disease,Venezuela (Bolivarian Republic of),VEN,2015,1
+Zika virus disease,Viet Nam,VNM,2016,1

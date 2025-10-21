@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2025-10-17T20:55:05.321407",
+    "disease": "Influenza due to identified zoonotic or pandemic influenza virus",
+    "location": "Global",
+    "date": "2010-01-01",
+    "actual_count": 53,
+    "expected_count": 16.0,
+    "deviation": 37.0,
+    "deviation_pct": 217.9,
+    "severity": 84.4,
+    "severity_level": "critical",
+    "anomaly_type": "severe_outbreak",
+    "z_score": 3.05,
+    "message": "\u26a0\ufe0f SEVERE OUTBREAK DETECTED: Influenza due to identified zoonotic or pandemic influenza virus cases in Global have reached 53, which is 218% above expected levels. Immediate attention required."
+  }
+]

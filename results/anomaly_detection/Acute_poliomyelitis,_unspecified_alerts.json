@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2025-10-17T20:55:06.514075",
+    "disease": "Acute poliomyelitis, unspecified",
+    "location": "Global",
+    "date": "2019-01-01",
+    "actual_count": 22,
+    "expected_count": 5.6,
+    "deviation": 16.4,
+    "deviation_pct": 246.5,
+    "severity": 78.7,
+    "severity_level": "high",
+    "anomaly_type": "severe_outbreak",
+    "z_score": 2.5,
+    "message": "\u26a0\ufe0f SEVERE OUTBREAK DETECTED: Acute poliomyelitis, unspecified cases in Global have reached 22, which is 247% above expected levels. Immediate attention required."
+  }
+]

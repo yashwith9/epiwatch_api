@@ -1,0 +1,266 @@
+Disease,Year,outbreak_count
+Acute bronchitis due to Rhinovirus,2025,1
+Acute hepatitis A,2017,16
+Acute hepatitis E,2017,3
+Acute hepatitis E,2018,1
+Acute hepatitis E,2020,1
+Acute hepatitis E,2021,1
+Acute hepatitis E,2022,1
+Acute hepatitis E,2023,1
+Acute hepatitis E,2024,1
+"Acute poliomyelitis, unspecified",2010,4
+"Acute poliomyelitis, unspecified",2011,4
+"Acute poliomyelitis, unspecified",2013,8
+"Acute poliomyelitis, unspecified",2014,6
+"Acute poliomyelitis, unspecified",2015,4
+"Acute poliomyelitis, unspecified",2016,3
+"Acute poliomyelitis, unspecified",2017,2
+"Acute poliomyelitis, unspecified",2018,6
+"Acute poliomyelitis, unspecified",2019,22
+"Acute poliomyelitis, unspecified",2020,1
+"Acute poliomyelitis, unspecified",2021,23
+"Acute poliomyelitis, unspecified",2022,6
+"Acute poliomyelitis, unspecified",2023,5
+"Acute poliomyelitis, unspecified",2024,1
+"Acute poliomyelitis, unspecified",2025,2
+"Acute viral hepatitis, unspecified",2022,38
+"Arthropod-borne viral fever, virus unspecified",2020,1
+"Arthropod-borne viral fever, virus unspecified",2024,1
+"Bacterial meningitis, unspecified",2023,5
+Botulism,2023,5
+COVID-19,2020,217
+COVID-19,2021,219
+COVID-19,2022,229
+COVID-19,2023,209
+COVID-19,2024,142
+COVID-19,2025,107
+Chapare virus,2025,1
+Chikungunya mosquito-borne viral fever,2013,1
+Chikungunya mosquito-borne viral fever,2014,1
+Chikungunya mosquito-borne viral fever,2015,2
+Chikungunya mosquito-borne viral fever,2016,3
+Chikungunya mosquito-borne viral fever,2017,2
+Chikungunya mosquito-borne viral fever,2018,2
+Chikungunya mosquito-borne viral fever,2019,1
+Chikungunya mosquito-borne viral fever,2020,1
+Chikungunya mosquito-borne viral fever,2023,5
+Chikungunya mosquito-borne viral fever,2025,38
+Cholera,2010,6
+Cholera,2011,1
+Cholera,2012,2
+Cholera,2013,1
+Cholera,2015,3
+Cholera,2017,3
+Cholera,2018,8
+Cholera,2019,1
+Cholera,2021,2
+Cholera,2022,29
+Cholera,2023,19
+Cholera,2025,31
+"Coronavirus infection, unspecified site",2024,1
+Crimean-Congo haemorrhagic fever,2022,1
+Cutaneous anthrax,2023,1
+Cutaneous anthrax,2025,1
+"Dengue fever, unspecified",2012,1
+"Dengue fever, unspecified",2015,1
+"Dengue fever, unspecified",2016,2
+"Dengue fever, unspecified",2017,3
+"Dengue fever, unspecified",2018,1
+"Dengue fever, unspecified",2019,6
+"Dengue fever, unspecified",2020,7
+"Dengue fever, unspecified",2021,1
+"Dengue fever, unspecified",2022,5
+"Dengue fever, unspecified",2023,60
+"Dengue fever, unspecified",2024,95
+"Diphtheria, unspecified",2017,2
+"Diphtheria, unspecified",2023,2
+Dracunculiasis,2020,1
+Ebola disease,2011,1
+Ebola disease,2012,2
+Ebola disease,2014,10
+Ebola disease,2015,1
+Ebola disease,2017,1
+Ebola disease,2018,1
+Ebola disease,2019,3
+Ebola disease,2020,1
+Ebola disease,2021,2
+Ebola disease,2022,2
+Ebola disease,2023,1
+Ebola disease,2025,1
+Enteroviral vesicular stomatitis,2012,1
+Enterovirus infection of unspecified site,2014,1
+Enterovirus infection of unspecified site,2023,6
+Escherichia coli,2011,9
+Escherichia coli,2016,1
+"Gonococcal infection, unspecified",2019,1
+Guillain Barre syndrome,2023,1
+Haemorrhagic fever with renal syndrome,2017,1
+Hantavirus pulmonary syndrome,2012,1
+Hantavirus pulmonary syndrome,2019,2
+"Human immunodeficiency virus disease without mention of associated disease or condition, clinical stage unspecified",2019,1
+Human respiratory syncytial virus,2023,1
+"Infection, unspecified",2011,1
+"Infection, unspecified",2012,1
+"Infection, unspecified",2016,1
+"Infection, unspecified",2017,1
+"Infection, unspecified",2023,1
+Infections due to Chlamydia psittaci,2024,5
+Infections due to other Salmonella,2016,1
+Infections due to other Salmonella,2017,1
+Infections due to other Salmonella,2022,11
+Influenza due to identified zoonotic or pandemic influenza virus,2010,53
+Influenza due to identified zoonotic or pandemic influenza virus,2011,5
+Influenza due to identified zoonotic or pandemic influenza virus,2012,7
+Influenza due to identified zoonotic or pandemic influenza virus,2013,2
+Influenza due to identified zoonotic or pandemic influenza virus,2014,2
+Influenza due to identified zoonotic or pandemic influenza virus,2015,2
+Influenza due to identified zoonotic or pandemic influenza virus,2016,1
+Influenza due to identified zoonotic or pandemic influenza virus,2017,1
+Influenza due to identified zoonotic or pandemic influenza virus,2018,2
+Influenza due to identified zoonotic or pandemic influenza virus,2020,2
+Influenza due to identified zoonotic or pandemic influenza virus,2021,5
+Influenza due to identified zoonotic or pandemic influenza virus,2022,5
+Influenza due to identified zoonotic or pandemic influenza virus,2023,9
+Influenza due to identified zoonotic or pandemic influenza virus,2024,10
+Influenza due to identified zoonotic or pandemic influenza virus,2025,2
+"Influenza with other manifestations, seasonal influenza virus identified",2023,1
+"Influenza with other manifestations, seasonal influenza virus identified",2024,1
+"Influenza with other manifestations, seasonal influenza virus identified",2025,1
+Intestinal infections due to Shigella,2022,3
+Intestinal infections due to Shigella,2023,1
+Japanese encephalitis virus disease,2022,1
+Lassa fever,2012,1
+Lassa fever,2015,1
+Lassa fever,2016,6
+Lassa fever,2017,4
+Lassa fever,2018,2
+Lassa fever,2019,2
+Lassa fever,2020,1
+Lassa fever,2022,4
+Lassa fever,2023,1
+Legionnaires disease,2014,1
+Legionnaires disease,2022,1
+Legionnaires disease,2023,1
+"Leptospirosis, unspecified",2022,1
+"Listeriosis, unspecified",2018,2
+"Listeriosis, unspecified",2019,1
+"Malaria due to Plasmodium falciparum, unspecified",2022,1
+"Malaria due to Plasmodium falciparum, unspecified",2024,2
+Malaria due to Plasmodium vivax with other complications,2022,1
+Marburg disease,2014,1
+Marburg disease,2017,1
+Marburg disease,2021,1
+Marburg disease,2022,1
+Marburg disease,2023,2
+Marburg disease,2024,1
+Marburg disease,2025,1
+Measles,2011,17
+Measles,2015,14
+Measles,2018,2
+Measles,2019,42
+Measles,2020,4
+Measles,2022,2
+Measles,2023,7
+Measles,2025,7
+Meningococcal meningitis,2010,1
+Meningococcal meningitis,2011,1
+Meningococcal meningitis,2012,10
+Meningococcal meningitis,2013,5
+Meningococcal meningitis,2015,2
+Meningococcal meningitis,2017,3
+Meningococcal meningitis,2025,1
+Middle East respiratory syndrome,2012,1
+Middle East respiratory syndrome,2013,12
+Middle East respiratory syndrome,2014,15
+Middle East respiratory syndrome,2015,12
+Middle East respiratory syndrome,2016,7
+Middle East respiratory syndrome,2017,5
+Middle East respiratory syndrome,2018,6
+Middle East respiratory syndrome,2019,4
+Middle East respiratory syndrome,2020,3
+Middle East respiratory syndrome,2021,2
+Middle East respiratory syndrome,2022,3
+Middle East respiratory syndrome,2023,3
+Middle East respiratory syndrome,2024,1
+Middle East respiratory syndrome,2025,1
+Monkeypox,2016,1
+Monkeypox,2017,1
+Monkeypox,2018,2
+Monkeypox,2019,1
+Monkeypox,2020,1
+Monkeypox,2021,2
+Monkeypox,2022,53
+Monkeypox,2023,1
+Monkeypox,2024,8
+Oropouche virus disease,2016,1
+Oropouche virus disease,2020,1
+Oropouche virus disease,2024,11
+"Plague, unspecified",2010,1
+"Plague, unspecified",2014,1
+"Plague, unspecified",2015,1
+"Plague, unspecified",2017,2
+"Plague, unspecified",2020,1
+"Plague, unspecified",2021,1
+Pneumonia due to Adenovirus,2024,1
+Pneumonia due to Human metapneumovirus,2025,1
+Pneumonia due to Mycoplasma pneumoniae,2023,1
+Pneumonia due to Respiratory syncytial virus,2025,1
+Pneumonia due to parainfluenza virus,2024,1
+Pseudomonas aeruginosa,2019,1
+"Rabies, unspecified",2025,1
+Rift Valley fever,2010,1
+Rift Valley fever,2012,1
+Rift Valley fever,2016,2
+Rift Valley fever,2018,2
+Rift Valley fever,2019,2
+Rift Valley fever,2020,1
+Rift Valley fever,2021,1
+Rift Valley fever,2022,1
+Scarlet fever,2022,2
+"Sepsis due to streptococcus, group A",2022,5
+Severe acute respiratory syndrome,2015,1
+Severe acute respiratory syndrome,2023,1
+Severe acute respiratory syndrome,2024,1
+Shigellosis due to Shigella dysenteriae,2023,1
+Sudan virus disease,2025,1
+Typhoid fever,2015,1
+Typhoid fever,2018,1
+Typhoid fever,2023,1
+Unspecified viral disease,2018,1
+Unspecified viral disease,2021,1
+Unspecified viral disease,2023,2
+Unspecified viral disease,2024,2
+Unspecified viral disease,2025,2
+Unspecified viral haemorrhagic fever,2010,2
+Unspecified viral haemorrhagic fever,2012,1
+Unspecified viral haemorrhagic fever,2016,1
+Urban rabies,2024,1
+"Viral meningitis not elsewhere classified, unspecified",2021,1
+Viral pneumonia,2020,1
+West Nile virus infection,2011,5
+West Nile virus infection,2014,1
+West Nile virus infection,2015,1
+West Nile virus infection,2024,1
+Western equine encephalitis,2023,1
+Western equine encephalitis,2024,1
+"Yellow fever, unspecified",2010,5
+"Yellow fever, unspecified",2011,4
+"Yellow fever, unspecified",2012,4
+"Yellow fever, unspecified",2013,4
+"Yellow fever, unspecified",2014,1
+"Yellow fever, unspecified",2016,5
+"Yellow fever, unspecified",2017,4
+"Yellow fever, unspecified",2018,4
+"Yellow fever, unspecified",2019,4
+"Yellow fever, unspecified",2020,9
+"Yellow fever, unspecified",2021,10
+"Yellow fever, unspecified",2022,12
+"Yellow fever, unspecified",2023,12
+"Yellow fever, unspecified",2024,13
+"Yellow fever, unspecified",2025,5
+Zika virus disease,2015,11
+Zika virus disease,2016,23
+Zika virus disease,2017,1
+Zika virus disease,2019,1
+Zika virus disease,2021,1
+Zika virus disease,2025,1

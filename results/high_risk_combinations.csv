@@ -1,0 +1,1016 @@
+Disease,Country,iso3,total_outbreaks,first_year,last_year,years_affected
+Middle East respiratory syndrome,Saudi Arabia,SAU,13,2013,2025,13
+Influenza due to identified zoonotic or pandemic influenza virus,China,CHN,12,2010,2024,12
+Middle East respiratory syndrome,United Arab Emirates,ARE,10,2013,2023,10
+Ebola disease,Congo Democratic Republic of the,COD,9,2012,2025,9
+"Yellow fever, unspecified",Congo Democratic Republic of the,COD,8,2010,2024,8
+Middle East respiratory syndrome,Qatar,QAT,8,2013,2022,8
+Middle East respiratory syndrome,Oman,OMN,8,2013,2023,8
+Lassa fever,Nigeria,NGA,8,2012,2023,8
+"Yellow fever, unspecified",Cameroon,CMR,7,2010,2024,7
+Influenza due to identified zoonotic or pandemic influenza virus,Cambodia,KHM,7,2010,2025,7
+Cholera,Congo Democratic Republic of the,COD,7,2011,2025,7
+"Yellow fever, unspecified",Nigeria,NGA,7,2017,2024,7
+COVID-19,Uzbekistan,UZB,6,2020,2025,6
+COVID-19,South Africa,ZAF,6,2020,2025,6
+COVID-19,Uruguay,URY,6,2020,2025,6
+COVID-19,Venezuela (Bolivarian Republic of),VEN,6,2020,2025,6
+COVID-19,Turks and Caicos Islands,TCA,6,2020,2025,6
+COVID-19,Turkey,TUR,6,2020,2025,6
+COVID-19,Virgin Islands (British),VGB,6,2020,2025,6
+COVID-19,Uganda,UGA,6,2020,2025,6
+COVID-19,South Sudan,SSD,6,2020,2025,6
+COVID-19,United Kingdom of Great Britain and Northern Ireland,GBR,6,2020,2025,6
+COVID-19,Zimbabwe,ZWE,6,2020,2025,6
+"Yellow fever, unspecified",Congo,COG,6,2012,2024,6
+COVID-19,Ukraine,UKR,6,2020,2025,6
+COVID-19,Armenia,ARM,6,2020,2025,6
+COVID-19,Argentina,ARG,6,2020,2025,6
+COVID-19,Slovakia,SVK,6,2020,2025,6
+COVID-19,Slovenia,SVN,6,2020,2025,6
+COVID-19,Niger,NER,6,2020,2025,6
+COVID-19,Senegal,SEN,6,2020,2025,6
+COVID-19,Nigeria,NGA,6,2020,2025,6
+COVID-19,Bolivia (Plurinational State of),BOL,6,2020,2025,6
+COVID-19,Brunei Darussalam,BRN,6,2020,2025,6
+COVID-19,Brazil,BRA,6,2020,2025,6
+COVID-19,Bosnia and Herzegovina,BIH,6,2020,2025,6
+COVID-19,Bulgaria,BGR,6,2020,2025,6
+COVID-19,Algeria,DZA,6,2020,2025,6
+COVID-19,Albania,ALB,6,2020,2025,6
+COVID-19,Azerbaijan,AZE,6,2020,2025,6
+COVID-19,Peru,PER,6,2020,2025,6
+COVID-19,Austria,AUT,6,2020,2025,6
+COVID-19,Togo,TGO,6,2020,2025,6
+COVID-19,Tanzania United Republic of,TZA,6,2020,2025,6
+COVID-19,Thailand,THA,6,2020,2025,6
+COVID-19,Suriname,SUR,6,2020,2025,6
+COVID-19,Sweden,SWE,6,2020,2025,6
+COVID-19,Portugal,PRT,6,2020,2025,6
+COVID-19,Switzerland,CHE,6,2020,2025,6
+COVID-19,Saint Lucia,LCA,6,2020,2025,6
+COVID-19,Poland,POL,6,2020,2025,6
+COVID-19,Nicaragua,NIC,6,2020,2025,6
+COVID-19,New Zealand,NZL,6,2020,2025,6
+COVID-19,Belgium,BEL,6,2020,2025,6
+COVID-19,Barbados,BRB,6,2020,2025,6
+COVID-19,Belize,BLZ,6,2020,2025,6
+"Yellow fever, unspecified",CÃ´te d'Ivoire,CIV,6,2010,2024,6
+COVID-19,Croatia,HRV,6,2020,2025,6
+COVID-19,Jamaica,JAM,6,2020,2025,6
+COVID-19,Rwanda,RWA,6,2020,2025,6
+COVID-19,Netherlands,NLD,6,2020,2025,6
+COVID-19,Mexico,MEX,6,2020,2025,6
+COVID-19,Mauritius,MUS,6,2020,2025,6
+COVID-19,Romania,ROU,6,2020,2025,6
+COVID-19,Mauritania,MRT,6,2020,2025,6
+COVID-19,Luxembourg,LUX,6,2020,2025,6
+COVID-19,Lithuania,LTU,6,2020,2025,6
+COVID-19,Liechtenstein,LIE,6,2020,2025,6
+COVID-19,Guatemala,GTM,6,2020,2025,6
+COVID-19,Madagascar,MDG,6,2020,2025,6
+COVID-19,Mali,MLI,6,2020,2025,6
+COVID-19,Malta,MLT,6,2020,2025,6
+COVID-19,Russian Federation,RUS,6,2020,2025,6
+COVID-19,Italy,ITA,6,2020,2025,6
+COVID-19,Norway,NOR,6,2020,2025,6
+COVID-19,Panama,PAN,6,2020,2025,6
+COVID-19,Ireland,IRL,6,2020,2025,6
+COVID-19,Mozambique,MOZ,6,2020,2025,6
+"Yellow fever, unspecified",Uganda,UGA,6,2011,2024,6
+COVID-19,Latvia,LVA,6,2020,2025,6
+COVID-19,North Macedonia,MKD,6,2020,2025,6
+COVID-19,Myanmar,MMR,6,2020,2025,6
+COVID-19,Moldova Republic of,MDA,6,2020,2025,6
+COVID-19,Indonesia,IDN,6,2020,2025,6
+COVID-19,India,IND,6,2020,2025,6
+COVID-19,CÃ´te d'Ivoire,CIV,6,2020,2025,6
+COVID-19,Guinea,GIN,6,2020,2025,6
+COVID-19,Greece,GRC,6,2020,2025,6
+COVID-19,Kenya,KEN,6,2020,2025,6
+COVID-19,Burkina Faso,BFA,6,2020,2025,6
+COVID-19,Costa Rica,CRI,6,2020,2025,6
+COVID-19,Ghana,GHA,6,2020,2025,6
+COVID-19,Germany,DEU,6,2020,2025,6
+COVID-19,Gabon,GAB,6,2020,2025,6
+COVID-19,Georgia,GEO,6,2020,2025,6
+COVID-19,France,FRA,6,2020,2025,6
+COVID-19,Finland,FIN,6,2020,2025,6
+COVID-19,Estonia,EST,6,2020,2025,6
+COVID-19,Ethiopia,ETH,6,2020,2025,6
+COVID-19,Guyana,GUY,6,2020,2025,6
+COVID-19,Haiti,HTI,6,2020,2025,6
+COVID-19,Honduras,HND,6,2020,2025,6
+COVID-19,Hungary,HUN,6,2020,2025,6
+COVID-19,Iceland,ISL,6,2020,2025,6
+COVID-19,Cuba,CUB,6,2020,2025,6
+COVID-19,Colombia,COL,6,2020,2025,6
+COVID-19,El Salvador,SLV,6,2020,2025,6
+COVID-19,Ecuador,ECU,6,2020,2025,6
+COVID-19,Denmark,DNK,6,2020,2025,6
+COVID-19,Czechia,CZE,6,2020,2025,6
+COVID-19,Cyprus,CYP,6,2020,2025,6
+COVID-19,Central African Republic,CAF,6,2020,2025,6
+COVID-19,Cameroon,CMR,6,2020,2025,6
+COVID-19,Bangladesh,BGD,6,2020,2025,6
+COVID-19,China,CHN,6,2020,2025,6
+COVID-19,Chile,CHL,6,2020,2025,6
+COVID-19,Congo Democratic Republic of the,COD,6,2020,2025,6
+"Dengue fever, unspecified",Pakistan,PAK,5,2019,2024,5
+"Yellow fever, unspecified",Chad,TCD,5,2013,2024,5
+"Acute poliomyelitis, unspecified",Kenya,KEN,5,2013,2023,5
+Cholera,Cameroon,CMR,5,2010,2023,5
+"Acute poliomyelitis, unspecified",Congo Democratic Republic of the,COD,5,2010,2021,5
+COVID-19,Northern Mariana Islands,MNP,5,2020,2024,5
+COVID-19,Mongolia,MNG,5,2020,2024,5
+COVID-19,Morocco,MAR,5,2020,2024,5
+COVID-19,Lesotho,LSO,5,2020,2025,5
+COVID-19,Belarus,BLR,5,2020,2025,5
+COVID-19,Chad,TCD,5,2020,2024,5
+COVID-19,Cambodia,KHM,5,2020,2024,5
+COVID-19,Eswatini,SWZ,5,2020,2024,5
+COVID-19,Kazakhstan,KAZ,5,2020,2024,5
+COVID-19,Gambia,GMB,5,2020,2024,5
+COVID-19,Malaysia,MYS,5,2020,2024,5
+COVID-19,Lao People's Democratic Republic,LAO,5,2020,2024,5
+Influenza due to identified zoonotic or pandemic influenza virus,United States of America,USA,5,2011,2024,5
+COVID-19,Nepal,NPL,5,2020,2025,5
+COVID-19,Kuwait,KWT,5,2020,2024,5
+COVID-19,French Polynesia,PYF,5,2020,2024,5
+COVID-19,Canada,CAN,5,2020,2024,5
+COVID-19,Burundi,BDI,5,2020,2024,5
+COVID-19,Angola,AGO,5,2020,2024,5
+COVID-19,Congo,COG,5,2020,2024,5
+COVID-19,Iran (Islamic Republic of),IRN,5,2020,2024,5
+COVID-19,Australia,AUS,5,2020,2024,5
+Measles,Brazil,BRA,5,2011,2025,5
+COVID-19,Afghanistan,AFG,5,2020,2024,5
+COVID-19,New Caledonia,NCL,5,2020,2024,5
+COVID-19,Sierra Leone,SLE,5,2020,2024,5
+COVID-19,Bhutan,BTN,5,2020,2025,5
+COVID-19,Botswana,BWA,5,2020,2024,5
+COVID-19,Singapore,SGP,5,2020,2024,5
+Cholera,Nigeria,NGA,5,2010,2025,5
+Ebola disease,Uganda,UGA,5,2011,2023,5
+COVID-19,Serbia,SRB,5,2020,2025,5
+COVID-19,Seychelles,SYC,5,2020,2024,5
+COVID-19,Sao Tome and Principe,STP,5,2020,2024,5
+COVID-19,Samoa,WSM,5,2020,2024,5
+COVID-19,Bahamas,BHS,5,2020,2024,5
+COVID-19,Philippines,PHL,5,2020,2024,5
+Influenza due to identified zoonotic or pandemic influenza virus,Brazil,BRA,5,2010,2024,5
+COVID-19,Zambia,ZMB,5,2020,2024,5
+COVID-19,Wallis and Futuna,WLF,5,2020,2024,5
+COVID-19,Sri Lanka,LKA,5,2020,2024,5
+Cholera,Somalia,SOM,4,2018,2025,4
+Cholera,Mozambique,MOZ,4,2018,2025,4
+"Acute poliomyelitis, unspecified",Cameroon,CMR,4,2013,2021,4
+"Acute poliomyelitis, unspecified",Nigeria,NGA,4,2016,2021,4
+Unspecified viral disease,India,IND,4,2018,2025,4
+"Yellow fever, unspecified",Brazil,BRA,4,2017,2025,4
+"Yellow fever, unspecified",Central African Republic,CAF,4,2021,2024,4
+Cholera,Haiti,HTI,4,2010,2025,4
+"Acute poliomyelitis, unspecified",Niger,NER,4,2013,2021,4
+Cholera,Pakistan,PAK,4,2010,2025,4
+Cholera,Kenya,KEN,4,2017,2025,4
+Cholera,Tanzania United Republic of,TZA,4,2015,2025,4
+Monkeypox,Congo Democratic Republic of the,COD,4,2020,2024,4
+"Plague, unspecified",Madagascar,MDG,4,2014,2021,4
+COVID-19,Solomon Islands,SLB,4,2020,2023,4
+COVID-19,Somalia,SOM,4,2020,2023,4
+COVID-19,Sudan,SDN,4,2020,2023,4
+COVID-19,Spain,ESP,4,2020,2023,4
+COVID-19,Tonga,TON,4,2021,2024,4
+COVID-19,Vanuatu,VUT,4,2020,2023,4
+COVID-19,United States of America,USA,4,2020,2023,4
+COVID-19,United Arab Emirates,ARE,4,2020,2023,4
+COVID-19,Bermuda,BMU,4,2020,2023,4
+COVID-19,Bonaire Sint Eustatius and Saba,BES,4,2020,2023,4
+COVID-19,Andorra,AND,4,2020,2023,4
+COVID-19,Paraguay,PRY,4,2020,2023,4
+COVID-19,Sint Maarten (Dutch part),SXM,4,2020,2023,4
+COVID-19,Papua New Guinea,PNG,4,2020,2023,4
+COVID-19,Aruba,ABW,4,2020,2023,4
+COVID-19,Saudi Arabia,SAU,4,2020,2023,4
+COVID-19,Saint Martin (French part),MAF,4,2020,2023,4
+COVID-19,Saint Pierre and Miquelon,SPM,4,2020,2023,4
+Measles,United States of America,USA,4,2011,2025,4
+Measles,Mexico,MEX,4,2011,2025,4
+Meningococcal meningitis,Nigeria,NGA,4,2012,2017,4
+COVID-19,San Marino,SMR,4,2020,2023,4
+COVID-19,Saint Vincent and the Grenadines,VCT,4,2020,2023,4
+COVID-19,Timor-Leste,TLS,4,2020,2023,4
+"Acute poliomyelitis, unspecified",Indonesia,IDN,4,2019,2024,4
+"Yellow fever, unspecified",Ghana,GHA,4,2012,2023,4
+COVID-19,Trinidad and Tobago,TTO,4,2020,2023,4
+COVID-19,Tunisia,TUN,4,2020,2023,4
+COVID-19,Viet Nam,VNM,4,2020,2023,4
+COVID-19,Virgin Islands (U.S.),VIR,4,2020,2023,4
+COVID-19,Fiji,FJI,4,2020,2023,4
+COVID-19,Gibraltar,GIB,4,2020,2023,4
+COVID-19,Comoros,COM,4,2020,2023,4
+COVID-19,Egypt,EGY,4,2020,2023,4
+COVID-19,Cabo Verde,CPV,4,2020,2023,4
+COVID-19,Equatorial Guinea,GNQ,4,2020,2023,4
+COVID-19,Benin,BEN,4,2020,2023,4
+COVID-19,Dominica,DMA,4,2020,2023,4
+COVID-19,Dominican Republic,DOM,4,2020,2023,4
+COVID-19,CuraÃ§ao,CUW,4,2020,2023,4
+COVID-19,Japan,JPN,4,2020,2023,4
+COVID-19,Jersey,JEY,4,2020,2023,4
+COVID-19,Korea Republic of,KOR,4,2020,2023,4
+COVID-19,Guinea-Bissau,GNB,4,2020,2023,4
+COVID-19,French Guiana,GUF,4,2020,2023,4
+COVID-19,Maldives,MDV,4,2020,2023,4
+COVID-19,Guam,GUM,4,2020,2023,4
+COVID-19,Guernsey,GGY,4,2020,2023,4
+COVID-19,RÃ©union,REU,4,2020,2023,4
+COVID-19,Qatar,QAT,4,2020,2023,4
+COVID-19,Saint Kitts and Nevis,KNA,4,2020,2023,4
+COVID-19,Saint BarthÃ©lemy,BLM,4,2020,2023,4
+COVID-19,Puerto Rico,PRI,4,2020,2023,4
+COVID-19,Martinique,MTQ,4,2020,2023,4
+COVID-19,Malawi,MWI,4,2020,2023,4
+COVID-19,Mayotte,MYT,4,2020,2023,4
+COVID-19,Grenada,GRD,4,2020,2023,4
+COVID-19,Guadeloupe,GLP,4,2020,2023,4
+COVID-19,Israel,ISR,4,2020,2023,4
+COVID-19,Marshall Islands,MHL,4,2020,2024,4
+COVID-19,Montenegro,MNE,4,2020,2023,4
+COVID-19,Kyrgyzstan,KGZ,4,2021,2024,4
+COVID-19,Monaco,MCO,4,2020,2023,4
+COVID-19,Iraq,IRQ,4,2020,2023,4
+COVID-19,Palau,PLW,4,2021,2024,4
+COVID-19,Libya,LBY,4,2020,2023,4
+COVID-19,Oman,OMN,4,2020,2023,4
+COVID-19,Pakistan,PAK,4,2020,2023,4
+COVID-19,Liberia,LBR,4,2020,2024,4
+COVID-19,Lebanon,LBN,4,2020,2023,4
+Cholera,Zambia,ZMB,4,2017,2025,4
+"Yellow fever, unspecified",Niger,NER,4,2021,2024,4
+"Yellow fever, unspecified",Senegal,SEN,3,2010,2020,3
+"Yellow fever, unspecified",Sierra Leone,SLE,3,2011,2023,3
+"Acute poliomyelitis, unspecified",Chad,TCD,3,2011,2021,3
+"Acute poliomyelitis, unspecified",CÃ´te d'Ivoire,CIV,3,2011,2021,3
+"Acute poliomyelitis, unspecified",Ethiopia,ETH,3,2013,2021,3
+"Dengue fever, unspecified",CÃ´te d'Ivoire,CIV,3,2017,2024,3
+COVID-19,Faroe Islands,FRO,3,2020,2022,3
+COVID-19,Falkland Islands (Malvinas),FLK,3,2020,2022,3
+COVID-19,Cook Islands,COK,3,2022,2024,3
+COVID-19,Niue,NIU,3,2022,2024,3
+COVID-19,Isle of Man,IMN,3,2020,2022,3
+COVID-19,Palestine State of,PSE,3,2020,2022,3
+COVID-19,Montserrat,MSR,3,2020,2022,3
+"Dengue fever, unspecified",French Guiana,GUF,3,2020,2024,3
+Cholera,Zimbabwe,ZWE,3,2018,2025,3
+"Dengue fever, unspecified",Burkina Faso,BFA,3,2016,2024,3
+COVID-19,Bahrain,BHR,3,2020,2022,3
+COVID-19,Eritrea,ERI,3,2020,2022,3
+COVID-19,Djibouti,DJI,3,2020,2022,3
+COVID-19,Antigua and Barbuda,ATG,3,2020,2022,3
+Measles,Chile,CHL,3,2011,2023,3
+Measles,Canada,CAN,3,2011,2025,3
+Measles,Kyrgyzstan,KGZ,3,2011,2019,3
+Middle East respiratory syndrome,United Kingdom of Great Britain and Northern Ireland,GBR,3,2012,2018,3
+COVID-19,Syrian Arab Republic,SYR,3,2020,2022,3
+COVID-19,Tajikistan,TJK,3,2020,2022,3
+COVID-19,Cayman Islands,CYM,3,2020,2022,3
+COVID-19,Jordan,JOR,3,2020,2022,3
+Influenza due to identified zoonotic or pandemic influenza virus,Mexico,MEX,3,2010,2025,3
+Influenza due to identified zoonotic or pandemic influenza virus,Viet Nam,VNM,3,2010,2024,3
+COVID-19,Micronesia (Federated States of),FSM,3,2022,2024,3
+COVID-19,Greenland,GRL,3,2020,2022,3
+COVID-19,American Samoa,ASM,3,2021,2023,3
+Lassa fever,Togo,TGO,3,2016,2022,3
+COVID-19,Anguilla,AIA,3,2020,2022,3
+"Dengue fever, unspecified",Sudan,SDN,3,2019,2024,3
+"Dengue fever, unspecified",Sao Tome and Principe,STP,3,2022,2024,3
+Cholera,Bangladesh,BGD,3,2022,2025,3
+Influenza due to identified zoonotic or pandemic influenza virus,Indonesia,IDN,3,2010,2012,3
+Influenza due to identified zoonotic or pandemic influenza virus,India,IND,3,2010,2024,3
+Cholera,Niger,NER,3,2010,2022,3
+"Dengue fever, unspecified",Martinique,MTQ,3,2020,2024,3
+Acute hepatitis E,Chad,TCD,3,2017,2024,3
+Zika virus disease,India,IND,3,2017,2025,3
+"Dengue fever, unspecified",Bangladesh,BGD,3,2022,2024,3
+"Acute poliomyelitis, unspecified",Pakistan,PAK,3,2011,2019,3
+"Acute poliomyelitis, unspecified",Papua New Guinea,PNG,3,2018,2025,3
+Cholera,Ethiopia,ETH,3,2022,2025,3
+"Yellow fever, unspecified",Kenya,KEN,3,2016,2023,3
+"Acute poliomyelitis, unspecified",Syrian Arab Republic,SYR,3,2013,2017,3
+Unspecified viral disease,Bangladesh,BGD,3,2023,2025,3
+"Acute poliomyelitis, unspecified",Israel,ISR,3,2013,2025,3
+"Dengue fever, unspecified",Nepal,NPL,3,2022,2024,3
+Rift Valley fever,Mauritania,MRT,3,2012,2022,3
+Cholera,Afghanistan,AFG,3,2022,2025,3
+Cholera,Malawi,MWI,3,2022,2025,3
+"Dengue fever, unspecified",Guadeloupe,GLP,3,2020,2024,3
+"Dengue fever, unspecified",RÃ©union,REU,3,2018,2024,3
+"Dengue fever, unspecified",Jamaica,JAM,3,2019,2024,3
+"Yellow fever, unspecified",Guinea,GIN,3,2010,2024,3
+Chikungunya mosquito-borne viral fever,Kenya,KEN,3,2016,2025,3
+"Dengue fever, unspecified",Sri Lanka,LKA,3,2017,2024,3
+Cholera,Burundi,BDI,3,2022,2025,3
+"Dengue fever, unspecified",Saint Martin (French part),MAF,3,2020,2024,3
+COVID-19,Yemen,YEM,3,2020,2022,3
+"Dengue fever, unspecified",Saint BarthÃ©lemy,BLM,3,2020,2024,3
+"Dengue fever, unspecified",Uruguay,URY,3,2016,2024,3
+"Acute poliomyelitis, unspecified",South Sudan,SSD,3,2013,2021,3
+Influenza due to identified zoonotic or pandemic influenza virus,Egypt,EGY,3,2010,2012,3
+"Acute poliomyelitis, unspecified",Somalia,SOM,3,2013,2019,3
+Meningococcal meningitis,Chad,TCD,3,2010,2012,3
+Middle East respiratory syndrome,Jordan,JOR,3,2013,2015,3
+Monkeypox,Nigeria,NGA,3,2017,2022,3
+Influenza due to identified zoonotic or pandemic influenza virus,Bangladesh,BGD,3,2010,2012,3
+Chikungunya mosquito-borne viral fever,France,FRA,3,2014,2025,3
+"Dengue fever, unspecified",Dominican Republic,DOM,2,2023,2024,2
+"Dengue fever, unspecified",Ecuador,ECU,2,2023,2024,2
+"Yellow fever, unspecified",Togo,TGO,2,2020,2024,2
+"Yellow fever, unspecified",South Sudan,SSD,2,2020,2024,2
+"Acute poliomyelitis, unspecified",Ghana,GHA,2,2019,2021,2
+Middle East respiratory syndrome,Iran (Islamic Republic of),IRN,2,2014,2015,2
+Middle East respiratory syndrome,Germany,DEU,2,2013,2015,2
+Middle East respiratory syndrome,Austria,AUT,2,2014,2016,2
+Middle East respiratory syndrome,Thailand,THA,2,2015,2016,2
+Marburg disease,Uganda,UGA,2,2014,2017,2
+Middle East respiratory syndrome,Malaysia,MYS,2,2014,2018,2
+Measles,Japan,JPN,2,2018,2019,2
+Measles,Germany,DEU,2,2011,2015,2
+Measles,Congo Democratic Republic of the,COD,2,2011,2019,2
+Measles,Georgia,GEO,2,2015,2019,2
+Measles,France,FRA,2,2011,2019,2
+Measles,Ethiopia,ETH,2,2011,2023,2
+Measles,Kazakhstan,KAZ,2,2015,2019,2
+Measles,Nigeria,NGA,2,2011,2019,2
+Measles,Serbia,SRB,2,2015,2019,2
+Measles,Somalia,SOM,2,2019,2022,2
+Marburg disease,Tanzania United Republic of,TZA,2,2023,2025,2
+Lassa fever,Benin,BEN,2,2016,2017,2
+Measles,Russian Federation,RUS,2,2015,2019,2
+Lassa fever,Liberia,LBR,2,2016,2018,2
+Influenza due to identified zoonotic or pandemic influenza virus,Spain,ESP,2,2022,2024,2
+Measles,Colombia,COL,2,2011,2019,2
+"Dengue fever, unspecified",Costa Rica,CRI,2,2023,2024,2
+Cholera,Yemen,YEM,2,2022,2025,2
+"Dengue fever, unspecified",Cayman Islands,CYM,2,2023,2024,2
+"Dengue fever, unspecified",El Salvador,SLV,2,2023,2024,2
+"Dengue fever, unspecified",Ethiopia,ETH,2,2023,2024,2
+"Dengue fever, unspecified",Cabo Verde,CPV,2,2023,2024,2
+Influenza due to identified zoonotic or pandemic influenza virus,Netherlands,NLD,2,2018,2023,2
+"Influenza with other manifestations, seasonal influenza virus identified",China,CHN,2,2023,2025,2
+Influenza due to identified zoonotic or pandemic influenza virus,United Kingdom of Great Britain and Northern Ireland,GBR,2,2022,2023,2
+COVID-19,Kiribati,KIR,2,2022,2023,2
+COVID-19,Nauru,NRU,2,2022,2023,2
+"Dengue fever, unspecified",Chile,CHL,2,2020,2024,2
+"Dengue fever, unspecified",Colombia,COL,2,2023,2024,2
+"Yellow fever, unspecified",Sudan,SDN,2,2012,2013,2
+"Yellow fever, unspecified",Venezuela (Bolivarian Republic of),VEN,2,2019,2021,2
+"Dengue fever, unspecified",Mayotte,MYT,2,2020,2024,2
+"Acute poliomyelitis, unspecified",Congo,COG,2,2010,2021,2
+"Acute poliomyelitis, unspecified",Central African Republic,CAF,2,2019,2021,2
+Monkeypox,Sweden,SWE,2,2022,2024,2
+Monkeypox,United Kingdom of Great Britain and Northern Ireland,GBR,2,2021,2022,2
+Monkeypox,South Africa,ZAF,2,2022,2024,2
+Chikungunya mosquito-borne viral fever,Italy,ITA,2,2017,2025,2
+Infections due to other Salmonella,France,FRA,2,2017,2022,2
+Monkeypox,Singapore,SGP,2,2019,2022,2
+Monkeypox,Cameroon,CMR,2,2018,2022,2
+Monkeypox,Central African Republic,CAF,2,2016,2022,2
+Influenza due to identified zoonotic or pandemic influenza virus,Australia,AUS,2,2010,2024,2
+Middle East respiratory syndrome,Kuwait,KWT,2,2013,2015,2
+Middle East respiratory syndrome,Lebanon,LBN,2,2014,2017,2
+Influenza due to identified zoonotic or pandemic influenza virus,Hong Kong,HKG,2,2010,2012,2
+Monkeypox,United States of America,USA,2,2021,2022,2
+COVID-19,Tuvalu,TUV,2,2022,2023,2
+Influenza due to identified zoonotic or pandemic influenza virus,Russian Federation,RUS,2,2010,2021,2
+Influenza due to identified zoonotic or pandemic influenza virus,Ghana,GHA,2,2010,2024,2
+"Acute poliomyelitis, unspecified",Sudan,SDN,2,2020,2023,2
+Oropouche virus disease,Peru,PER,2,2016,2024,2
+Chikungunya mosquito-borne viral fever,Argentina,ARG,2,2016,2023,2
+Chikungunya mosquito-borne viral fever,Bolivia (Plurinational State of),BOL,2,2023,2025,2
+COVID-19,Tokelau,TKL,2,2022,2023,2
+Meningococcal meningitis,Burkina Faso,BFA,2,2012,2013,2
+Meningococcal meningitis,Benin,BEN,2,2012,2013,2
+Middle East respiratory syndrome,Korea Republic of,KOR,2,2015,2018,2
+"Yellow fever, unspecified",France,FRA,2,2017,2018,2
+"Dengue fever, unspecified",Suriname,SUR,2,2023,2024,2
+"Dengue fever, unspecified",Seychelles,SYC,2,2023,2024,2
+"Dengue fever, unspecified",Sint Maarten (Dutch part),SXM,2,2023,2024,2
+"Dengue fever, unspecified",Saint Vincent and the Grenadines,VCT,2,2023,2024,2
+"Dengue fever, unspecified",Saint Lucia,LCA,2,2023,2024,2
+"Dengue fever, unspecified",Saint Kitts and Nevis,KNA,2,2023,2024,2
+Cholera,Chad,TCD,2,2010,2025,2
+Infections due to other Salmonella,United States of America,USA,2,2016,2022,2
+Chikungunya mosquito-borne viral fever,Senegal,SEN,2,2015,2025,2
+Escherichia coli,United Kingdom of Great Britain and Northern Ireland,GBR,2,2011,2016,2
+Ebola disease,Guinea,GIN,2,2014,2021,2
+"Dengue fever, unspecified",Trinidad and Tobago,TTO,2,2023,2024,2
+"Dengue fever, unspecified",Thailand,THA,2,2023,2024,2
+"Dengue fever, unspecified",Turks and Caicos Islands,TCA,2,2023,2024,2
+"Dengue fever, unspecified",Virgin Islands (British),VGB,2,2023,2024,2
+Influenza due to identified zoonotic or pandemic influenza virus,Chile,CHL,2,2010,2023,2
+Influenza due to identified zoonotic or pandemic influenza virus,Canada,CAN,2,2014,2015,2
+Chikungunya mosquito-borne viral fever,Paraguay,PRY,2,2023,2025,2
+"Dengue fever, unspecified",Nicaragua,NIC,2,2023,2024,2
+"Dengue fever, unspecified",Montserrat,MSR,2,2023,2024,2
+"Dengue fever, unspecified",Paraguay,PRY,2,2023,2024,2
+"Dengue fever, unspecified",Panama,PAN,2,2023,2024,2
+Chikungunya mosquito-borne viral fever,United States of America,USA,2,2016,2025,2
+Cholera,Lebanon,LBN,2,2022,2023,2
+Cholera,Iraq,IRQ,2,2015,2022,2
+Cholera,India,IND,2,2022,2025,2
+"Dengue fever, unspecified",Mexico,MEX,2,2023,2024,2
+Rift Valley fever,Kenya,KEN,2,2018,2021,2
+"Acute poliomyelitis, unspecified",Lao People's Democratic Republic,LAO,2,2015,2016,2
+"Acute poliomyelitis, unspecified",Ukraine,UKR,2,2015,2021,2
+"Acute poliomyelitis, unspecified",Togo,TGO,2,2019,2021,2
+Cholera,Syrian Arab Republic,SYR,2,2022,2023,2
+Cholera,Sudan,SDN,2,2019,2025,2
+Cholera,South Sudan,SSD,2,2022,2025,2
+"Dengue fever, unspecified",Honduras,HND,2,2023,2024,2
+"Dengue fever, unspecified",Guatemala,GTM,2,2023,2024,2
+"Dengue fever, unspecified",Guyana,GUY,2,2023,2024,2
+"Dengue fever, unspecified",Peru,PER,2,2023,2024,2
+"Dengue fever, unspecified",Puerto Rico,PRI,2,2023,2024,2
+"Acute poliomyelitis, unspecified",Mozambique,MOZ,2,2019,2022,2
+"Acute poliomyelitis, unspecified",Angola,AGO,2,2019,2021,2
+"Dengue fever, unspecified",Afghanistan,AFG,2,2019,2024,2
+"Acute poliomyelitis, unspecified",Benin,BEN,2,2019,2021,2
+"Acute poliomyelitis, unspecified",Madagascar,MDG,2,2014,2015,2
+Cholera,Congo,COG,2,2023,2025,2
+"Acute poliomyelitis, unspecified",Myanmar,MMR,2,2015,2019,2
+Cholera,Togo,TGO,2,2021,2025,2
+"Dengue fever, unspecified",Bahamas,BHS,2,2023,2024,2
+"Dengue fever, unspecified",Aruba,ABW,2,2023,2024,2
+"Dengue fever, unspecified",Argentina,ARG,2,2023,2024,2
+"Dengue fever, unspecified",Antigua and Barbuda,ATG,2,2023,2024,2
+"Dengue fever, unspecified",Maldives,MDV,2,2023,2024,2
+"Dengue fever, unspecified",Mauritania,MRT,2,2023,2024,2
+Cholera,Philippines,PHL,2,2022,2023,2
+Cholera,Nepal,NPL,2,2022,2025,2
+"Dengue fever, unspecified",Grenada,GRD,2,2023,2024,2
+"Dengue fever, unspecified",Mauritius,MUS,2,2023,2024,2
+"Dengue fever, unspecified",Barbados,BRB,2,2023,2024,2
+"Dengue fever, unspecified",Belize,BLZ,2,2023,2024,2
+"Dengue fever, unspecified",Brazil,BRA,2,2023,2024,2
+"Dengue fever, unspecified",Bolivia (Plurinational State of),BOL,2,2023,2024,2
+Acute hepatitis E,South Sudan,SSD,2,2021,2023,2
+Zika virus disease,France,FRA,2,2016,2019,2
+Acute hepatitis A,Ireland,IRL,1,2017,2017,1
+Zika virus disease,Viet Nam,VNM,1,2016,2016,1
+Acute bronchitis due to Rhinovirus,China,CHN,1,2025,2025,1
+Acute hepatitis A,Austria,AUT,1,2017,2017,1
+Acute hepatitis A,Belgium,BEL,1,2017,2017,1
+Acute hepatitis A,Denmark,DNK,1,2017,2017,1
+Acute hepatitis A,Finland,FIN,1,2017,2017,1
+Acute hepatitis A,France,FRA,1,2017,2017,1
+Zika virus disease,Honduras,HND,1,2015,2015,1
+Zika virus disease,Haiti,HTI,1,2016,2016,1
+Zika virus disease,Guyana,GUY,1,2016,2016,1
+Zika virus disease,Guatemala,GTM,1,2015,2015,1
+Zika virus disease,El Salvador,SLV,1,2015,2015,1
+Zika virus disease,Ecuador,ECU,1,2016,2016,1
+"Yellow fever, unspecified",Mali,MLI,1,2019,2019,1
+"Yellow fever, unspecified",Netherlands,NLD,1,2018,2018,1
+"Yellow fever, unspecified",Peru,PER,1,2025,2025,1
+"Acute poliomyelitis, unspecified",China,CHN,1,2011,2011,1
+"Acute poliomyelitis, unspecified",Equatorial Guinea,GNQ,1,2014,2014,1
+Zika virus disease,Cabo Verde,CPV,1,2015,2015,1
+Zika virus disease,Chile,CHL,1,2016,2016,1
+Zika virus disease,Colombia,COL,1,2015,2015,1
+Zika virus disease,Costa Rica,CRI,1,2016,2016,1
+Zika virus disease,Cuba,CUB,1,2016,2016,1
+Zika virus disease,CuraÃ§ao,CUW,1,2016,2016,1
+Zika virus disease,Dominica,DMA,1,2016,2016,1
+"Yellow fever, unspecified",Suriname,SUR,1,2017,2017,1
+Zika virus disease,Barbados,BRB,1,2016,2016,1
+Zika virus disease,Bolivia (Plurinational State of),BOL,1,2016,2016,1
+Zika virus disease,Brazil,BRA,1,2015,2015,1
+"Dengue fever, unspecified",CuraÃ§ao,CUW,1,2024,2024,1
+"Dengue fever, unspecified",Dominica,DMA,1,2023,2023,1
+"Dengue fever, unspecified",Egypt,EGY,1,2015,2015,1
+"Dengue fever, unspecified",Cambodia,KHM,1,2024,2024,1
+"Dengue fever, unspecified",Chad,TCD,1,2023,2023,1
+"Dengue fever, unspecified",China,CHN,1,2024,2024,1
+"Coronavirus infection, unspecified site",Congo Democratic Republic of the,COD,1,2024,2024,1
+Crimean-Congo haemorrhagic fever,Iraq,IRQ,1,2022,2022,1
+Cutaneous anthrax,Thailand,THA,1,2025,2025,1
+Cutaneous anthrax,Zambia,ZMB,1,2023,2023,1
+"Dengue fever, unspecified",Eritrea,ERI,1,2024,2024,1
+"Dengue fever, unspecified",Fiji,FJI,1,2024,2024,1
+"Dengue fever, unspecified",France,FRA,1,2024,2024,1
+"Dengue fever, unspecified",French Polynesia,PYF,1,2024,2024,1
+"Dengue fever, unspecified",Ghana,GHA,1,2024,2024,1
+"Dengue fever, unspecified",Benin,BEN,1,2024,2024,1
+Cholera,Sierra Leone,SLE,1,2012,2012,1
+Cholera,Thailand,THA,1,2025,2025,1
+Cholera,Uganda,UGA,1,2025,2025,1
+Cholera,CÃ´te d'Ivoire,CIV,1,2025,2025,1
+Cholera,Dominican Republic,DOM,1,2023,2023,1
+Cholera,Ghana,GHA,1,2025,2025,1
+"Dengue fever, unspecified",Angola,AGO,1,2024,2024,1
+"Dengue fever, unspecified",Anguilla,AIA,1,2023,2023,1
+"Dengue fever, unspecified",Australia,AUS,1,2024,2024,1
+Cholera,Namibia,NAM,1,2025,2025,1
+Cholera,Rwanda,RWA,1,2025,2025,1
+"Dengue fever, unspecified",Lao People's Democratic Republic,LAO,1,2024,2024,1
+"Dengue fever, unspecified",Liberia,LBR,1,2024,2024,1
+"Dengue fever, unspecified",Malaysia,MYS,1,2024,2024,1
+"Dengue fever, unspecified",Mali,MLI,1,2024,2024,1
+"Dengue fever, unspecified",Cuba,CUB,1,2024,2024,1
+"Dengue fever, unspecified",Micronesia (Federated States of),FSM,1,2024,2024,1
+"Dengue fever, unspecified",Myanmar,MMR,1,2024,2024,1
+"Dengue fever, unspecified",New Caledonia,NCL,1,2024,2024,1
+Cholera,Iran (Islamic Republic of),IRN,1,2022,2022,1
+Cholera,Mexico,MEX,1,2013,2013,1
+Cholera,Myanmar,MMR,1,2025,2025,1
+Chikungunya mosquito-borne viral fever,Spain,ESP,1,2015,2015,1
+Chikungunya mosquito-borne viral fever,Sri Lanka,LKA,1,2025,2025,1
+Chikungunya mosquito-borne viral fever,Sudan,SDN,1,2018,2018,1
+Chikungunya mosquito-borne viral fever,Thailand,THA,1,2025,2025,1
+Chikungunya mosquito-borne viral fever,Trinidad and Tobago,TTO,1,2025,2025,1
+"Dengue fever, unspecified",Niger,NER,1,2024,2024,1
+"Dengue fever, unspecified",Palau,PLW,1,2024,2024,1
+"Dengue fever, unspecified",Portugal,PRT,1,2012,2012,1
+"Dengue fever, unspecified",Iran (Islamic Republic of),IRN,1,2024,2024,1
+"Dengue fever, unspecified",Kenya,KEN,1,2024,2024,1
+"Dengue fever, unspecified",Samoa,WSM,1,2024,2024,1
+Cholera,Algeria,DZA,1,2018,2018,1
+Cholera,Angola,AGO,1,2025,2025,1
+Cholera,Benin,BEN,1,2022,2022,1
+Cholera,Burkina Faso,BFA,1,2022,2022,1
+Cholera,China,CHN,1,2022,2022,1
+Chikungunya mosquito-borne viral fever,Korea Republic of,KOR,1,2025,2025,1
+Chikungunya mosquito-borne viral fever,Malaysia,MYS,1,2025,2025,1
+Chikungunya mosquito-borne viral fever,Mauritius,MUS,1,2025,2025,1
+Chikungunya mosquito-borne viral fever,Mayotte,MYT,1,2025,2025,1
+Chikungunya mosquito-borne viral fever,New Caledonia,NCL,1,2025,2025,1
+Chikungunya mosquito-borne viral fever,Pakistan,PAK,1,2025,2025,1
+"Dengue fever, unspecified",Senegal,SEN,1,2024,2024,1
+"Dengue fever, unspecified",Singapore,SGP,1,2024,2024,1
+"Dengue fever, unspecified",Solomon Islands,SLB,1,2024,2024,1
+"Dengue fever, unspecified",Spain,ESP,1,2019,2019,1
+Ebola disease,Nigeria,NGA,1,2014,2014,1
+Ebola disease,Senegal,SEN,1,2014,2014,1
+Ebola disease,Sierra Leone,SLE,1,2014,2014,1
+Ebola disease,Spain,ESP,1,2014,2014,1
+Ebola disease,Tanzania United Republic of,TZA,1,2019,2019,1
+"Dengue fever, unspecified",Timor-Leste,TLS,1,2022,2022,1
+"Dengue fever, unspecified",Togo,TGO,1,2023,2023,1
+"Dengue fever, unspecified",Tokelau,TKL,1,2024,2024,1
+"Dengue fever, unspecified",Tonga,TON,1,2024,2024,1
+"Dengue fever, unspecified",Tuvalu,TUV,1,2024,2024,1
+"Dengue fever, unspecified",United States of America,USA,1,2024,2024,1
+"Dengue fever, unspecified",Vanuatu,VUT,1,2024,2024,1
+"Dengue fever, unspecified",Venezuela (Bolivarian Republic of),VEN,1,2023,2023,1
+"Dengue fever, unspecified",Viet Nam,VNM,1,2024,2024,1
+"Dengue fever, unspecified",Virgin Islands (U.S.),VIR,1,2024,2024,1
+"Dengue fever, unspecified",Wallis and Futuna,WLF,1,2024,2024,1
+Enterovirus infection of unspecified site,United Kingdom of Great Britain and Northern Ireland,GBR,1,2023,2023,1
+Enterovirus infection of unspecified site,United States of America,USA,1,2014,2014,1
+Escherichia coli,Austria,AUT,1,2011,2011,1
+Escherichia coli,Denmark,DNK,1,2011,2011,1
+Escherichia coli,France,FRA,1,2011,2011,1
+Escherichia coli,Germany,DEU,1,2011,2011,1
+Escherichia coli,Netherlands,NLD,1,2011,2011,1
+Escherichia coli,Norway,NOR,1,2011,2011,1
+"Diphtheria, unspecified",Bangladesh,BGD,1,2017,2017,1
+"Diphtheria, unspecified",Guinea,GIN,1,2023,2023,1
+"Diphtheria, unspecified",Nigeria,NGA,1,2023,2023,1
+"Diphtheria, unspecified",Yemen,YEM,1,2017,2017,1
+Dracunculiasis,Ethiopia,ETH,1,2020,2020,1
+Ebola disease,Italy,ITA,1,2015,2015,1
+Ebola disease,Liberia,LBR,1,2014,2014,1
+Ebola disease,Mali,MLI,1,2014,2014,1
+Hantavirus pulmonary syndrome,United States of America,USA,1,2012,2012,1
+"Human immunodeficiency virus disease without mention of associated disease or condition, clinical stage unspecified",Pakistan,PAK,1,2019,2019,1
+Human respiratory syncytial virus,China,CHN,1,2023,2023,1
+"Infection, unspecified",Angola,AGO,1,2011,2011,1
+"Infection, unspecified",Cambodia,KHM,1,2012,2012,1
+"Infection, unspecified",Liberia,LBR,1,2017,2017,1
+"Infection, unspecified",United Kingdom of Great Britain and Northern Ireland,GBR,1,2023,2023,1
+"Infection, unspecified",United States of America,USA,1,2016,2016,1
+Ebola disease,United Kingdom of Great Britain and Northern Ireland,GBR,1,2014,2014,1
+Ebola disease,United States of America,USA,1,2014,2014,1
+Enteroviral vesicular stomatitis,Cambodia,KHM,1,2012,2012,1
+Enterovirus infection of unspecified site,Croatia,HRV,1,2023,2023,1
+Enterovirus infection of unspecified site,France,FRA,1,2023,2023,1
+Enterovirus infection of unspecified site,Italy,ITA,1,2023,2023,1
+Enterovirus infection of unspecified site,Spain,ESP,1,2023,2023,1
+Enterovirus infection of unspecified site,Sweden,SWE,1,2023,2023,1
+Chikungunya mosquito-borne viral fever,Congo,COG,1,2019,2019,1
+Infections due to other Salmonella,Germany,DEU,1,2022,2022,1
+Infections due to other Salmonella,Ireland,IRL,1,2022,2022,1
+Infections due to other Salmonella,Luxembourg,LUX,1,2022,2022,1
+Infections due to other Salmonella,Netherlands,NLD,1,2022,2022,1
+Infections due to other Salmonella,Norway,NOR,1,2022,2022,1
+Infections due to other Salmonella,Spain,ESP,1,2022,2022,1
+Infections due to other Salmonella,Sweden,SWE,1,2022,2022,1
+Infections due to other Salmonella,United Kingdom of Great Britain and Northern Ireland,GBR,1,2022,2022,1
+Escherichia coli,Sweden,SWE,1,2011,2011,1
+Escherichia coli,Switzerland,CHE,1,2011,2011,1
+"Gonococcal infection, unspecified",United Kingdom of Great Britain and Northern Ireland,GBR,1,2019,2019,1
+Guillain Barre syndrome,Peru,PER,1,2023,2023,1
+Haemorrhagic fever with renal syndrome,United States of America,USA,1,2017,2017,1
+Hantavirus pulmonary syndrome,Argentina,ARG,1,2019,2019,1
+Hantavirus pulmonary syndrome,Panama,PAN,1,2019,2019,1
+Infections due to Chlamydia psittaci,Netherlands,NLD,1,2024,2024,1
+Infections due to Chlamydia psittaci,Sweden,SWE,1,2024,2024,1
+Infections due to other Salmonella,Belgium,BEL,1,2022,2022,1
+Chikungunya mosquito-borne viral fever,Panama,PAN,1,2025,2025,1
+Chikungunya mosquito-borne viral fever,Peru,PER,1,2023,2023,1
+Chikungunya mosquito-borne viral fever,Philippines,PHL,1,2025,2025,1
+Chikungunya mosquito-borne viral fever,RÃ©union,REU,1,2025,2025,1
+Chikungunya mosquito-borne viral fever,Saint Martin (French part),MAF,1,2013,2013,1
+Chikungunya mosquito-borne viral fever,Singapore,SGP,1,2025,2025,1
+Chikungunya mosquito-borne viral fever,Somalia,SOM,1,2025,2025,1
+Chikungunya mosquito-borne viral fever,Canada,CAN,1,2025,2025,1
+Chikungunya mosquito-borne viral fever,Chad,TCD,1,2020,2020,1
+Chikungunya mosquito-borne viral fever,Chile,CHL,1,2025,2025,1
+Chikungunya mosquito-borne viral fever,China,CHN,1,2025,2025,1
+Chikungunya mosquito-borne viral fever,Colombia,COL,1,2025,2025,1
+Chikungunya mosquito-borne viral fever,Comoros,COM,1,2025,2025,1
+Influenza due to identified zoonotic or pandemic influenza virus,Bolivia (Plurinational State of),BOL,1,2010,2010,1
+Chikungunya mosquito-borne viral fever,Costa Rica,CRI,1,2025,2025,1
+Chikungunya mosquito-borne viral fever,Ecuador,ECU,1,2025,2025,1
+Chikungunya mosquito-borne viral fever,Grenada,GRD,1,2025,2025,1
+Chikungunya mosquito-borne viral fever,Haiti,HTI,1,2025,2025,1
+Chikungunya mosquito-borne viral fever,India,IND,1,2025,2025,1
+Chikungunya mosquito-borne viral fever,Indonesia,IDN,1,2025,2025,1
+Chikungunya mosquito-borne viral fever,Japan,JPN,1,2025,2025,1
+Influenza due to identified zoonotic or pandemic influenza virus,Cameroon,CMR,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Chad,TCD,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Colombia,COL,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Costa Rica,CRI,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Cuba,CUB,1,2010,2010,1
+Infections due to Chlamydia psittaci,Austria,AUT,1,2024,2024,1
+Infections due to Chlamydia psittaci,Denmark,DNK,1,2024,2024,1
+Infections due to Chlamydia psittaci,Germany,DEU,1,2024,2024,1
+Influenza due to identified zoonotic or pandemic influenza virus,Philippines,PHL,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Poland,POL,1,2023,2023,1
+Influenza due to identified zoonotic or pandemic influenza virus,Cyprus,CYP,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Dominican Republic,DOM,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Ecuador,ECU,1,2023,2023,1
+Influenza due to identified zoonotic or pandemic influenza virus,El Salvador,SLV,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Germany,DEU,1,2022,2022,1
+Influenza due to identified zoonotic or pandemic influenza virus,Guatemala,GTM,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Guinea,GIN,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Honduras,HND,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Italy,ITA,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Jamaica,JAM,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Kenya,KEN,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Angola,AGO,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Argentina,ARG,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Bhutan,BTN,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Mauritania,MRT,1,2010,2010,1
+COVID-19,Saint Helena Ascension and Tristan da Cunha,SHN,1,2022,2022,1
+COVID-19,Pitcairn,PCN,1,2022,2022,1
+Chapare virus,Bolivia (Plurinational State of),BOL,1,2025,2025,1
+Chikungunya mosquito-borne viral fever,Antigua and Barbuda,ATG,1,2025,2025,1
+Chikungunya mosquito-borne viral fever,Australia,AUS,1,2025,2025,1
+Chikungunya mosquito-borne viral fever,Bahamas,BHS,1,2025,2025,1
+Chikungunya mosquito-borne viral fever,Bangladesh,BGD,1,2025,2025,1
+Chikungunya mosquito-borne viral fever,Belize,BLZ,1,2025,2025,1
+Chikungunya mosquito-borne viral fever,Brazil,BRA,1,2023,2023,1
+Influenza due to identified zoonotic or pandemic influenza virus,New Zealand,NZL,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Nicaragua,NIC,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Niger,NER,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Nigeria,NGA,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Panama,PAN,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Peru,PER,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Sao Tome and Principe,STP,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Senegal,SEN,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Singapore,SGP,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,South Africa,ZAF,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Sudan,SDN,1,2010,2010,1
+Botulism,Turkey,TUR,1,2023,2023,1
+COVID-19,Holy See,VAT,1,2020,2020,1
+Influenza due to identified zoonotic or pandemic influenza virus,Tanzania United Republic of,TZA,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Thailand,THA,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Uruguay,URY,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Venezuela (Bolivarian Republic of),VEN,1,2010,2010,1
+"Influenza with other manifestations, seasonal influenza virus identified",Congo Democratic Republic of the,COD,1,2024,2024,1
+Influenza due to identified zoonotic or pandemic influenza virus,Korea Republic of,KOR,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Lao People's Democratic Republic,LAO,1,2020,2020,1
+Influenza due to identified zoonotic or pandemic influenza virus,Malaysia,MYS,1,2010,2010,1
+Influenza due to identified zoonotic or pandemic influenza virus,Mali,MLI,1,2010,2010,1
+Marburg disease,Ghana,GHA,1,2022,2022,1
+Marburg disease,Guinea,GIN,1,2021,2021,1
+Marburg disease,Rwanda,RWA,1,2024,2024,1
+Intestinal infections due to Shigella,Congo,COG,1,2023,2023,1
+Intestinal infections due to Shigella,Denmark,DNK,1,2022,2022,1
+Intestinal infections due to Shigella,Spain,ESP,1,2022,2022,1
+Intestinal infections due to Shigella,United Kingdom of Great Britain and Northern Ireland,GBR,1,2022,2022,1
+Japanese encephalitis virus disease,Australia,AUS,1,2022,2022,1
+Lassa fever,Burkina Faso,BFA,1,2017,2017,1
+Lassa fever,Germany,DEU,1,2016,2016,1
+Lassa fever,Guinea,GIN,1,2022,2022,1
+Lassa fever,Netherlands,NLD,1,2019,2019,1
+Lassa fever,Sweden,SWE,1,2016,2016,1
+Lassa fever,United Kingdom of Great Britain and Northern Ireland,GBR,1,2022,2022,1
+Lassa fever,United States of America,USA,1,2015,2015,1
+Influenza due to identified zoonotic or pandemic influenza virus,Rwanda,RWA,1,2010,2010,1
+"Leptospirosis, unspecified",Tanzania United Republic of,TZA,1,2022,2022,1
+"Listeriosis, unspecified",Australia,AUS,1,2018,2018,1
+"Listeriosis, unspecified",South Africa,ZAF,1,2018,2018,1
+"Listeriosis, unspecified",Spain,ESP,1,2019,2019,1
+"Acute viral hepatitis, unspecified",Slovenia,SVN,1,2022,2022,1
+"Acute viral hepatitis, unspecified",Spain,ESP,1,2022,2022,1
+"Acute viral hepatitis, unspecified",Sweden,SWE,1,2022,2022,1
+"Acute viral hepatitis, unspecified",United Kingdom of Great Britain and Northern Ireland,GBR,1,2022,2022,1
+"Acute viral hepatitis, unspecified",United States of America,USA,1,2022,2022,1
+"Arthropod-borne viral fever, virus unspecified",French Guiana,GUF,1,2020,2020,1
+"Arthropod-borne viral fever, virus unspecified",India,IND,1,2024,2024,1
+"Malaria due to Plasmodium falciparum, unspecified",Congo Democratic Republic of the,COD,1,2024,2024,1
+"Malaria due to Plasmodium falciparum, unspecified",Ethiopia,ETH,1,2024,2024,1
+"Malaria due to Plasmodium falciparum, unspecified",Pakistan,PAK,1,2022,2022,1
+Malaria due to Plasmodium vivax with other complications,Pakistan,PAK,1,2022,2022,1
+Marburg disease,Equatorial Guinea,GNQ,1,2023,2023,1
+Measles,Israel,ISR,1,2019,2019,1
+Measles,Italy,ITA,1,2015,2015,1
+Measles,Afghanistan,AFG,1,2022,2022,1
+Measles,American Samoa,ASM,1,2019,2019,1
+Measles,Argentina,ARG,1,2025,2025,1
+Measles,Australia,AUS,1,2019,2019,1
+Measles,Bangladesh,BGD,1,2019,2019,1
+Measles,Belize,BLZ,1,2025,2025,1
+Measles,Bosnia and Herzegovina,BIH,1,2015,2015,1
+Measles,Burundi,BDI,1,2020,2020,1
+Measles,Central African Republic,CAF,1,2020,2020,1
+Measles,Chad,TCD,1,2019,2019,1
+Measles,China,CHN,1,2019,2019,1
+Legionnaires disease,Argentina,ARG,1,2022,2022,1
+Legionnaires disease,Poland,POL,1,2023,2023,1
+Legionnaires disease,Portugal,PRT,1,2014,2014,1
+Measles,Malaysia,MYS,1,2019,2019,1
+Measles,Morocco,MAR,1,2025,2025,1
+Measles,Myanmar,MMR,1,2019,2019,1
+Measles,Nepal,NPL,1,2023,2023,1
+Measles,New Zealand,NZL,1,2019,2019,1
+Measles,North Macedonia,MKD,1,2011,2011,1
+Measles,Pakistan,PAK,1,2019,2019,1
+Measles,Palestine State of,PSE,1,2020,2020,1
+Measles,Croatia,HRV,1,2015,2015,1
+Measles,Ecuador,ECU,1,2011,2011,1
+Measles,Fiji,FJI,1,2019,2019,1
+Measles,Greece,GRC,1,2019,2019,1
+Measles,Guinea,GIN,1,2019,2019,1
+Measles,Hong Kong,HKG,1,2019,2019,1
+Measles,Indonesia,IDN,1,2023,2023,1
+Measles,Iraq,IRQ,1,2019,2019,1
+"Acute viral hepatitis, unspecified",Mexico,MEX,1,2022,2022,1
+"Acute viral hepatitis, unspecified",Moldova Republic of,MDA,1,2022,2022,1
+"Acute viral hepatitis, unspecified",Netherlands,NLD,1,2022,2022,1
+"Acute viral hepatitis, unspecified",Norway,NOR,1,2022,2022,1
+Measles,South Africa,ZAF,1,2023,2023,1
+Measles,South Sudan,SSD,1,2023,2023,1
+Measles,Sudan,SDN,1,2019,2019,1
+Measles,Tonga,TON,1,2019,2019,1
+Measles,Tunisia,TUN,1,2019,2019,1
+Measles,Turkey,TUR,1,2019,2019,1
+Measles,Ukraine,UKR,1,2019,2019,1
+Measles,United Kingdom of Great Britain and Northern Ireland,GBR,1,2011,2011,1
+Measles,Korea Republic of,KOR,1,2019,2019,1
+Measles,Lebanon,LBN,1,2019,2019,1
+Measles,Macao,MAC,1,2019,2019,1
+Measles,Madagascar,MDG,1,2019,2019,1
+Measles,Paraguay,PRY,1,2023,2023,1
+Measles,Philippines,PHL,1,2019,2019,1
+Measles,Romania,ROU,1,2011,2011,1
+Measles,Samoa,WSM,1,2019,2019,1
+"Bacterial meningitis, unspecified",Mexico,MEX,1,2023,2023,1
+"Bacterial meningitis, unspecified",Niger,NER,1,2023,2023,1
+"Bacterial meningitis, unspecified",Nigeria,NGA,1,2023,2023,1
+"Bacterial meningitis, unspecified",Togo,TGO,1,2023,2023,1
+"Bacterial meningitis, unspecified",United States of America,USA,1,2023,2023,1
+Botulism,Austria,AUT,1,2023,2023,1
+Botulism,France,FRA,1,2023,2023,1
+Botulism,Germany,DEU,1,2023,2023,1
+Botulism,Switzerland,CHE,1,2023,2023,1
+"Acute viral hepatitis, unspecified",Korea Republic of,KOR,1,2022,2022,1
+"Acute viral hepatitis, unspecified",Latvia,LVA,1,2022,2022,1
+"Acute viral hepatitis, unspecified",Maldives,MDV,1,2022,2022,1
+Middle East respiratory syndrome,Egypt,EGY,1,2014,2014,1
+Middle East respiratory syndrome,France,FRA,1,2013,2013,1
+Middle East respiratory syndrome,Greece,GRC,1,2014,2014,1
+Middle East respiratory syndrome,Italy,ITA,1,2013,2013,1
+Measles,Venezuela (Bolivarian Republic of),VEN,1,2019,2019,1
+Measles,Viet Nam,VNM,1,2019,2019,1
+Measles,Yemen,YEM,1,2019,2019,1
+Measles,Zambia,ZMB,1,2011,2011,1
+Meningococcal meningitis,Central African Republic,CAF,1,2012,2012,1
+Meningococcal meningitis,CÃ´te d'Ivoire,CIV,1,2012,2012,1
+Meningococcal meningitis,Gambia,GMB,1,2012,2012,1
+Meningococcal meningitis,Ghana,GHA,1,2012,2012,1
+Meningococcal meningitis,Guinea,GIN,1,2013,2013,1
+Meningococcal meningitis,Liberia,LBR,1,2017,2017,1
+Meningococcal meningitis,Mali,MLI,1,2012,2012,1
+Meningococcal meningitis,Niger,NER,1,2015,2015,1
+"Acute viral hepatitis, unspecified",Bulgaria,BGR,1,2022,2022,1
+"Acute viral hepatitis, unspecified",Canada,CAN,1,2022,2022,1
+"Acute viral hepatitis, unspecified",Colombia,COL,1,2022,2022,1
+"Acute viral hepatitis, unspecified",Costa Rica,CRI,1,2022,2022,1
+Middle East respiratory syndrome,Spain,ESP,1,2013,2013,1
+Middle East respiratory syndrome,Tunisia,TUN,1,2013,2013,1
+Middle East respiratory syndrome,Turkey,TUR,1,2014,2014,1
+Middle East respiratory syndrome,United States of America,USA,1,2014,2014,1
+Middle East respiratory syndrome,Yemen,YEM,1,2014,2014,1
+Meningococcal meningitis,Saudi Arabia,SAU,1,2025,2025,1
+Meningococcal meningitis,South Sudan,SSD,1,2013,2013,1
+Meningococcal meningitis,Sudan,SDN,1,2012,2012,1
+Meningococcal meningitis,Togo,TGO,1,2017,2017,1
+Middle East respiratory syndrome,Algeria,DZA,1,2014,2014,1
+Middle East respiratory syndrome,Bahrain,BHR,1,2016,2016,1
+Middle East respiratory syndrome,China,CHN,1,2015,2015,1
+Monkeypox,CÃ´te d'Ivoire,CIV,1,2024,2024,1
+Monkeypox,Denmark,DNK,1,2022,2022,1
+Middle East respiratory syndrome,Netherlands,NLD,1,2014,2014,1
+Middle East respiratory syndrome,Philippines,PHL,1,2015,2015,1
+"Acute viral hepatitis, unspecified",Palestine State of,PSE,1,2022,2022,1
+"Acute viral hepatitis, unspecified",Panama,PAN,1,2022,2022,1
+"Acute viral hepatitis, unspecified",Poland,POL,1,2022,2022,1
+"Acute viral hepatitis, unspecified",Portugal,PRT,1,2022,2022,1
+"Acute viral hepatitis, unspecified",Qatar,QAT,1,2022,2022,1
+"Acute viral hepatitis, unspecified",Romania,ROU,1,2022,2022,1
+"Acute viral hepatitis, unspecified",Serbia,SRB,1,2022,2022,1
+"Acute viral hepatitis, unspecified",Singapore,SGP,1,2022,2022,1
+"Acute viral hepatitis, unspecified",Slovakia,SVK,1,2022,2022,1
+"Acute viral hepatitis, unspecified",Austria,AUT,1,2022,2022,1
+"Acute viral hepatitis, unspecified",Belgium,BEL,1,2022,2022,1
+"Acute viral hepatitis, unspecified",Brazil,BRA,1,2022,2022,1
+Monkeypox,Israel,ISR,1,2022,2022,1
+Monkeypox,Italy,ITA,1,2022,2022,1
+Monkeypox,Kenya,KEN,1,2024,2024,1
+Monkeypox,Korea Republic of,KOR,1,2022,2022,1
+Monkeypox,Latvia,LVA,1,2022,2022,1
+Monkeypox,Argentina,ARG,1,2022,2022,1
+Monkeypox,Australia,AUS,1,2022,2022,1
+Monkeypox,Austria,AUT,1,2022,2022,1
+Monkeypox,Belgium,BEL,1,2022,2022,1
+Monkeypox,Benin,BEN,1,2022,2022,1
+Monkeypox,Brazil,BRA,1,2022,2022,1
+Monkeypox,Burundi,BDI,1,2024,2024,1
+Monkeypox,Canada,CAN,1,2022,2022,1
+Monkeypox,Congo,COG,1,2022,2022,1
+Monkeypox,Costa Rica,CRI,1,2022,2022,1
+Monkeypox,Czechia,CZE,1,2022,2022,1
+Monkeypox,Romania,ROU,1,2022,2022,1
+Monkeypox,Rwanda,RWA,1,2024,2024,1
+Monkeypox,Serbia,SRB,1,2022,2022,1
+Monkeypox,Slovakia,SVK,1,2022,2022,1
+Monkeypox,Slovenia,SVN,1,2022,2022,1
+Monkeypox,Finland,FIN,1,2022,2022,1
+Monkeypox,France,FRA,1,2022,2022,1
+Monkeypox,French Guiana,GUF,1,2022,2022,1
+Monkeypox,Georgia,GEO,1,2022,2022,1
+Monkeypox,Germany,DEU,1,2022,2022,1
+Monkeypox,Ghana,GHA,1,2022,2022,1
+Monkeypox,Gibraltar,GIB,1,2022,2022,1
+Monkeypox,Greece,GRC,1,2022,2022,1
+Monkeypox,Hungary,HUN,1,2022,2022,1
+Monkeypox,Iceland,ISL,1,2022,2022,1
+Monkeypox,Ireland,IRL,1,2022,2022,1
+Monkeypox,Venezuela (Bolivarian Republic of),VEN,1,2022,2022,1
+Oropouche virus disease,Bolivia (Plurinational State of),BOL,1,2024,2024,1
+Oropouche virus disease,Brazil,BRA,1,2024,2024,1
+Oropouche virus disease,Canada,CAN,1,2024,2024,1
+Oropouche virus disease,Cayman Islands,CYM,1,2024,2024,1
+Oropouche virus disease,Colombia,COL,1,2024,2024,1
+Oropouche virus disease,Cuba,CUB,1,2024,2024,1
+Monkeypox,Lebanon,LBN,1,2022,2022,1
+Monkeypox,Luxembourg,LUX,1,2022,2022,1
+Monkeypox,Malta,MLT,1,2022,2022,1
+Monkeypox,Mexico,MEX,1,2022,2022,1
+Monkeypox,Morocco,MAR,1,2022,2022,1
+Monkeypox,Netherlands,NLD,1,2022,2022,1
+Monkeypox,Norway,NOR,1,2022,2022,1
+Monkeypox,Poland,POL,1,2022,2022,1
+Monkeypox,Portugal,PRT,1,2022,2022,1
+"Acute poliomyelitis, unspecified",Russian Federation,RUS,1,2010,2010,1
+"Acute poliomyelitis, unspecified",Senegal,SEN,1,2021,2021,1
+"Acute poliomyelitis, unspecified",Sierra Leone,SLE,1,2021,2021,1
+"Plague, unspecified",Peru,PER,1,2010,2010,1
+"Plague, unspecified",Seychelles,SYC,1,2017,2017,1
+Pneumonia due to Adenovirus,Congo Democratic Republic of the,COD,1,2024,2024,1
+Pneumonia due to Human metapneumovirus,China,CHN,1,2025,2025,1
+Pneumonia due to Mycoplasma pneumoniae,China,CHN,1,2023,2023,1
+Pneumonia due to Respiratory syncytial virus,China,CHN,1,2025,2025,1
+Pneumonia due to parainfluenza virus,Congo Democratic Republic of the,COD,1,2024,2024,1
+Pseudomonas aeruginosa,Mexico,MEX,1,2019,2019,1
+Monkeypox,Spain,ESP,1,2022,2022,1
+Monkeypox,Sudan,SDN,1,2022,2022,1
+Monkeypox,Switzerland,CHE,1,2022,2022,1
+Monkeypox,Uganda,UGA,1,2024,2024,1
+Monkeypox,United Arab Emirates,ARE,1,2022,2022,1
+Oropouche virus disease,Ecuador,ECU,1,2024,2024,1
+Oropouche virus disease,French Guiana,GUF,1,2020,2020,1
+Oropouche virus disease,Guyana,GUY,1,2024,2024,1
+Oropouche virus disease,Panama,PAN,1,2024,2024,1
+Oropouche virus disease,United States of America,USA,1,2024,2024,1
+"Plague, unspecified",Congo Democratic Republic of the,COD,1,2020,2020,1
+"Acute viral hepatitis, unspecified",Cyprus,CYP,1,2022,2022,1
+"Acute viral hepatitis, unspecified",Denmark,DNK,1,2022,2022,1
+"Acute viral hepatitis, unspecified",France,FRA,1,2022,2022,1
+"Acute viral hepatitis, unspecified",Greece,GRC,1,2022,2022,1
+"Acute viral hepatitis, unspecified",Indonesia,IDN,1,2022,2022,1
+"Acute viral hepatitis, unspecified",Ireland,IRL,1,2022,2022,1
+"Acute viral hepatitis, unspecified",Israel,ISR,1,2022,2022,1
+"Acute viral hepatitis, unspecified",Italy,ITA,1,2022,2022,1
+"Acute viral hepatitis, unspecified",Japan,JPN,1,2022,2022,1
+"Acute poliomyelitis, unspecified",Philippines,PHL,1,2019,2019,1
+Unspecified viral haemorrhagic fever,Uganda,UGA,1,2012,2012,1
+Urban rabies,Timor-Leste,TLS,1,2024,2024,1
+"Rabies, unspecified",Timor-Leste,TLS,1,2025,2025,1
+Rift Valley fever,China,CHN,1,2016,2016,1
+Rift Valley fever,France,FRA,1,2019,2019,1
+Rift Valley fever,Gambia,GMB,1,2018,2018,1
+Rift Valley fever,Niger,NER,1,2016,2016,1
+Rift Valley fever,South Africa,ZAF,1,2010,2010,1
+Rift Valley fever,Sudan,SDN,1,2019,2019,1
+Scarlet fever,France,FRA,1,2022,2022,1
+Scarlet fever,United Kingdom of Great Britain and Northern Ireland,GBR,1,2022,2022,1
+"Sepsis due to streptococcus, group A",France,FRA,1,2022,2022,1
+"Sepsis due to streptococcus, group A",Ireland,IRL,1,2022,2022,1
+"Sepsis due to streptococcus, group A",Netherlands,NLD,1,2022,2022,1
+"Sepsis due to streptococcus, group A",Sweden,SWE,1,2022,2022,1
+"Sepsis due to streptococcus, group A",United Kingdom of Great Britain and Northern Ireland,GBR,1,2022,2022,1
+Western equine encephalitis,Uruguay,URY,1,2024,2024,1
+"Yellow fever, unspecified",Angola,AGO,1,2016,2016,1
+"Yellow fever, unspecified",Bolivia (Plurinational State of),BOL,1,2025,2025,1
+"Yellow fever, unspecified",Burkina Faso,BFA,1,2024,2024,1
+Severe acute respiratory syndrome,China,CHN,1,2023,2023,1
+Severe acute respiratory syndrome,Congo Democratic Republic of the,COD,1,2024,2024,1
+Severe acute respiratory syndrome,Korea Republic of,KOR,1,2015,2015,1
+Shigellosis due to Shigella dysenteriae,Congo,COG,1,2023,2023,1
+Sudan virus disease,Uganda,UGA,1,2025,2025,1
+Typhoid fever,Congo,COG,1,2023,2023,1
+Typhoid fever,Pakistan,PAK,1,2018,2018,1
+Typhoid fever,Uganda,UGA,1,2015,2015,1
+Unspecified viral disease,Congo Democratic Republic of the,COD,1,2024,2024,1
+Unspecified viral haemorrhagic fever,Congo,COG,1,2010,2010,1
+Unspecified viral haemorrhagic fever,Pakistan,PAK,1,2010,2010,1
+Unspecified viral haemorrhagic fever,South Sudan,SSD,1,2016,2016,1
+West Nile virus infection,Brazil,BRA,1,2014,2014,1
+West Nile virus infection,Greece,GRC,1,2011,2011,1
+West Nile virus infection,Israel,ISR,1,2011,2011,1
+"Acute poliomyelitis, unspecified",Tajikistan,TJK,1,2010,2010,1
+"Acute poliomyelitis, unspecified",Tanzania United Republic of,TZA,1,2023,2023,1
+"Acute poliomyelitis, unspecified",United Kingdom of Great Britain and Northern Ireland,GBR,1,2022,2022,1
+"Acute poliomyelitis, unspecified",Yemen,YEM,1,2021,2021,1
+"Acute poliomyelitis, unspecified",Zambia,ZMB,1,2019,2019,1
+"Acute viral hepatitis, unspecified",Argentina,ARG,1,2022,2022,1
+"Acute poliomyelitis, unspecified",Guinea,GIN,1,2021,2021,1
+"Acute poliomyelitis, unspecified",Iran (Islamic Republic of),IRN,1,2019,2019,1
+"Acute poliomyelitis, unspecified",Liberia,LBR,1,2021,2021,1
+West Nile virus infection,Portugal,PRT,1,2015,2015,1
+West Nile virus infection,Romania,ROU,1,2011,2011,1
+West Nile virus infection,Russian Federation,RUS,1,2011,2011,1
+Western equine encephalitis,Argentina,ARG,1,2023,2023,1
+"Yellow fever, unspecified",China,CHN,1,2016,2016,1
+"Yellow fever, unspecified",Colombia,COL,1,2025,2025,1
+"Acute poliomyelitis, unspecified",Malawi,MWI,1,2022,2022,1
+"Acute poliomyelitis, unspecified",Mali,MLI,1,2021,2021,1
+"Acute poliomyelitis, unspecified",Algeria,DZA,1,2022,2022,1
+"Acute poliomyelitis, unspecified",Brazil,BRA,1,2014,2014,1
+"Acute poliomyelitis, unspecified",Burkina Faso,BFA,1,2021,2021,1
+"Acute poliomyelitis, unspecified",Burundi,BDI,1,2023,2023,1
+"Yellow fever, unspecified",Ecuador,ECU,1,2025,2025,1
+"Yellow fever, unspecified",Ethiopia,ETH,1,2020,2020,1
+"Yellow fever, unspecified",French Guiana,GUF,1,2020,2020,1
+"Yellow fever, unspecified",Gabon,GAB,1,2020,2020,1
+"Viral meningitis not elsewhere classified, unspecified",Congo Democratic Republic of the,COD,1,2021,2021,1
+Viral pneumonia,China,CHN,1,2020,2020,1
+West Nile virus infection,Albania,ALB,1,2011,2011,1
+West Nile virus infection,Barbados,BRB,1,2024,2024,1
+Zika virus disease,Dominican Republic,DOM,1,2016,2016,1
+Acute hepatitis A,Italy,ITA,1,2017,2017,1
+Acute hepatitis A,Netherlands,NLD,1,2017,2017,1
+Acute hepatitis A,Norway,NOR,1,2017,2017,1
+Acute hepatitis A,Portugal,PRT,1,2017,2017,1
+Acute hepatitis A,Slovenia,SVN,1,2017,2017,1
+Acute hepatitis A,Spain,ESP,1,2017,2017,1
+Zika virus disease,Paraguay,PRY,1,2015,2015,1
+Zika virus disease,Peru,PER,1,2016,2016,1
+Zika virus disease,Saint Lucia,LCA,1,2016,2016,1
+Zika virus disease,Saint Vincent and the Grenadines,VCT,1,2016,2016,1
+Zika virus disease,Suriname,SUR,1,2015,2015,1
+Zika virus disease,Trinidad and Tobago,TTO,1,2016,2016,1
+Zika virus disease,United States of America,USA,1,2016,2016,1
+Zika virus disease,Venezuela (Bolivarian Republic of),VEN,1,2015,2015,1
+Acute hepatitis A,Germany,DEU,1,2017,2017,1
+"Dengue fever, unspecified",Bermuda,BMU,1,2023,2023,1
+"Dengue fever, unspecified",Bonaire Sint Eustatius and Saba,BES,1,2024,2024,1
+Acute hepatitis A,Sweden,SWE,1,2017,2017,1
+Acute hepatitis A,United Kingdom of Great Britain and Northern Ireland,GBR,1,2017,2017,1
+Acute hepatitis A,United States of America,USA,1,2017,2017,1
+Acute hepatitis E,Burkina Faso,BFA,1,2020,2020,1
+Acute hepatitis E,Namibia,NAM,1,2018,2018,1
+Acute hepatitis E,Niger,NER,1,2017,2017,1
+Acute hepatitis E,Nigeria,NGA,1,2017,2017,1
+Zika virus disease,Jamaica,JAM,1,2016,2016,1
+Zika virus disease,Maldives,MDV,1,2016,2016,1
+Zika virus disease,Mexico,MEX,1,2015,2015,1
+Zika virus disease,Netherlands,NLD,1,2016,2016,1
+Zika virus disease,Nicaragua,NIC,1,2016,2016,1
+Zika virus disease,Panama,PAN,1,2015,2015,1
+Zika virus disease,Papua New Guinea,PNG,1,2016,2016,1
