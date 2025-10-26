@@ -13,6 +13,9 @@ Endpoints:
     GET  /api/v1/diseases         - List all diseases
     GET  /api/v1/statistics       - Get dashboard statistics
     POST /api/v1/feedback         - Submit user feedback
+    POST /api/v1/auth/signup      - User registration
+    POST /api/v1/auth/login       - User authentication
+    GET  /api/v1/auth/validate    - Token validation
 
 Run:
     uvicorn backend.main:app --reload --host 0.0.0.0 --port 8000
@@ -494,11 +497,24 @@ app = FastAPI(
 # CORS middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # In production, specify exact origins
+    allow_origins=["http://localhost:8081", "*"],  # Add mobile app origin
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# Initialize database
+try:
+    from backend.database import init_db
+    from backend.auth_routes import router as auth_router
+except ImportError:
+    from database import init_db
+    from auth_routes import router as auth_router
+
+init_db()
+
+# Include authentication routes
+app.include_router(auth_router)
 
 # Initialize data service
 # Use absolute path to results directory
