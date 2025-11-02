@@ -45,6 +45,12 @@ except ImportError:
         from country_coordinates import COUNTRY_COORDINATES
         from daily_simulator import DailyDataSimulator
 
+# Import spaCy inference
+try:
+    from backend.spacy_inference import get_classifier
+except ImportError:
+    from spacy_inference import get_classifier
+
 
 # ============================================================================
 # Data Models
@@ -140,6 +146,27 @@ class FeedbackRequest(BaseModel):
     feedback_type: str = Field(..., description="Type: 'false_positive', 'confirmed', 'additional_info'")
     comment: Optional[str] = None
     user_email: Optional[str] = None
+
+
+class DiseasePredictionRequest(BaseModel):
+    """Request for disease prediction"""
+    country: Optional[str] = Field(None, description="Country name")
+    who_region: Optional[str] = Field(None, description="WHO region")
+    text: Optional[str] = Field(None, description="Direct text input (Country - WHO region)")
+
+
+class TopPrediction(BaseModel):
+    """Single prediction result"""
+    disease: str
+    confidence: float
+
+
+class DiseasePredictionResponse(BaseModel):
+    """Response from disease prediction"""
+    text: str
+    predicted_disease: str
+    confidence: float
+    top_predictions: List[TopPrediction]
 
 
 # ============================================================================
@@ -621,6 +648,75 @@ async def submit_feedback(feedback: FeedbackRequest):
     - **comment**: Additional comments
     """
     # In production, save to database
+    return {
+        "status": "success",
+        "message": "Feedback received",
+        "feedback_id": f"fb_{datetime.now().timestamp()}"
+    }
+
+
+@app.post("/api/v1/predict", response_model=DiseasePredictionResponse)
+async def predict_disease(request: DiseasePredictionRequest):
+    """
+    Predict disease outbreak based on country and WHO region using spaCy NLP model
+    
+    - **text**: Direct text input (e.g., "Kenya - Africa")
+    - **country**: Country name (alternative to text)
+    - **who_region**: WHO region (alternative to text)
+    
+    Returns predicted disease with confidence scores
+    """
+    try:
+        classifier = get_classifier()
+        
+        # Use direct text if provided, otherwise build from country/region
+        if request.text:
+            result = classifier.predict(request.text, top_k=5)
+        elif request.country and request.who_region:
+            result = classifier.predict_country_region(
+                request.country, 
+                request.who_region, 
+                top_k=5
+            )
+        else:
+            raise HTTPException(
+                status_code=400,
+                detail="Either 'text' or both 'country' and 'who_region' must be provided"
+            )
+        
+        return result
+        
+    except RuntimeError as e:
+        raise HTTPException(
+            status_code=503,
+            detail=f"Model not available: {str(e)}"
+        )
+    except Exception as e:
+        raise HTTPException(
+            status_code=500,
+            detail=f"Prediction failed: {str(e)}"
+        )
+
+
+@app.get("/")
+async def root():
+    """Root endpoint - API information"""
+    return {
+        "name": "EpiWatch API",
+        "version": "1.0.0",
+        "description": "Disease Outbreak Detection and Monitoring System with spaCy NLP",
+        "docs": "/docs",
+        "endpoints": {
+            "health": "/api/v1/health",
+            "alerts": "/api/v1/alerts",
+            "map": "/api/v1/map",
+            "trends": "/api/v1/trends",
+            "diseases": "/api/v1/diseases",
+            "statistics": "/api/v1/statistics",
+            "predict": "/api/v1/predict"
+        }
+    }
+
     return {
         "status": "success",
         "message": "Feedback received successfully",
